@@ -6,5 +6,10 @@ Database Wiki:
 https://www.w3resource.com/mongodb/nosql.php
 Geospatial Tutorial:
 https://www.mongodb.com/docs/manual/tutorial/geospatial-tutorial/
+Matplotlib tutorial:
+https://www.w3schools.com/python/matplotlib_intro.asp
+Big Data Ethics Article:
+https://magazine.wharton.upenn.edu/digital/3-policies-for-big-data-privacy-problems/
 
 
+Beep Boop
