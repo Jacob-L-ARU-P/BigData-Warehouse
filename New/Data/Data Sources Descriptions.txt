@@ -1,0 +1,5 @@
+THIS TEXT FILE RECORDS THE WHERE, WHAT & HOW FOR ALL DATA FILES USED IN THE ASSIGNMENT.
+
+#######################################################################################
+
+lifeexpectancylocalareassingleyears.xlsx === INITIAL DATASET PROVIDED BY LECTURER

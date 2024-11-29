@@ -1,0 +1,1729 @@
+﻿Period,Country,Area type,Area code,Area name,Sex_code,Sex,Ageband,Age group,Life expectancy (LE),LE lower confidence interval,LE upper confidence interval
+2018-2020,England,Combined Authority,E47000001,Greater Manchester,1,Male,1,<1,77.54,77.41,77.67
+2018-2020,England,Combined Authority,E47000001,Greater Manchester,1,Male,14,60-64,21.41,21.32,21.51
+2018-2020,England,Combined Authority,E47000001,Greater Manchester,2,Female,1,<1,81.31,81.18,81.43
+2018-2020,England,Combined Authority,E47000001,Greater Manchester,2,Female,14,60-64,23.93,23.84,24.03
+2018-2020,England,Combined Authority,E47000002,Sheffield City Region,1,Male,1,<1,77.93,77.75,78.11
+2018-2020,England,Combined Authority,E47000002,Sheffield City Region,1,Male,14,60-64,21.71,21.59,21.83
+2018-2020,England,Combined Authority,E47000002,Sheffield City Region,2,Female,1,<1,81.57,81.4,81.74
+2018-2020,England,Combined Authority,E47000002,Sheffield City Region,2,Female,14,60-64,24.2,24.08,24.32
+2018-2020,England,Combined Authority,E47000003,West Yorkshire,1,Male,1,<1,77.81,77.66,77.95
+2018-2020,England,Combined Authority,E47000003,West Yorkshire,1,Male,14,60-64,21.68,21.58,21.78
+2018-2020,England,Combined Authority,E47000003,West Yorkshire,2,Female,1,<1,81.8,81.67,81.94
+2018-2020,England,Combined Authority,E47000003,West Yorkshire,2,Female,14,60-64,24.46,24.36,24.56
+2018-2020,England,Combined Authority,E47000004,Liverpool City Region,1,Male,1,<1,77.2,77.03,77.38
+2018-2020,England,Combined Authority,E47000004,Liverpool City Region,1,Male,14,60-64,21.3,21.19,21.42
+2018-2020,England,Combined Authority,E47000004,Liverpool City Region,2,Female,1,<1,81.04,80.87,81.2
+2018-2020,England,Combined Authority,E47000004,Liverpool City Region,2,Female,14,60-64,23.95,23.83,24.07
+2018-2020,England,Combined Authority,E47000006,Tees Valley,1,Male,1,<1,77.23,76.96,77.5
+2018-2020,England,Combined Authority,E47000006,Tees Valley,1,Male,14,60-64,21.69,21.52,21.86
+2018-2020,England,Combined Authority,E47000006,Tees Valley,2,Female,1,<1,81.01,80.77,81.26
+2018-2020,England,Combined Authority,E47000006,Tees Valley,2,Female,14,60-64,24.06,23.89,24.23
+2018-2020,England,Combined Authority,E47000007,West Midlands,1,Male,1,<1,77.55,77.42,77.69
+2018-2020,England,Combined Authority,E47000007,West Midlands,1,Male,14,60-64,21.55,21.46,21.65
+2018-2020,England,Combined Authority,E47000007,West Midlands,2,Female,1,<1,81.87,81.74,81.99
+2018-2020,England,Combined Authority,E47000007,West Midlands,2,Female,14,60-64,24.52,24.43,24.62
+2018-2020,England,Combined Authority,E47000008,Cambridgeshire and Peterborough,1,Male,1,<1,80.51,80.28,80.74
+2018-2020,England,Combined Authority,E47000008,Cambridgeshire and Peterborough,1,Male,14,60-64,23.54,23.36,23.71
+2018-2020,England,Combined Authority,E47000008,Cambridgeshire and Peterborough,2,Female,1,<1,84.03,83.81,84.26
+2018-2020,England,Combined Authority,E47000008,Cambridgeshire and Peterborough,2,Female,14,60-64,26.16,25.98,26.33
+2018-2020,England,Combined Authority,E47000009,West of England,1,Male,1,<1,80.08,79.86,80.31
+2018-2020,England,Combined Authority,E47000009,West of England,1,Male,14,60-64,23.14,22.97,23.31
+2018-2020,England,Combined Authority,E47000009,West of England,2,Female,1,<1,83.8,83.58,84.02
+2018-2020,England,Combined Authority,E47000009,West of England,2,Female,14,60-64,25.89,25.71,26.06
+2018-2020,England,Combined Authority,E47000010,North East,1,Male,1,<1,77.24,77.04,77.44
+2018-2020,England,Combined Authority,E47000010,North East,1,Male,14,60-64,21.44,21.32,21.57
+2018-2020,England,Combined Authority,E47000010,North East,2,Female,1,<1,81.2,81.02,81.39
+2018-2020,England,Combined Authority,E47000010,North East,2,Female,14,60-64,23.95,23.82,24.07
+2018-2020,England,Combined Authority,E47000011,North of Tyne,1,Male,1,<1,78.52,78.28,78.76
+2018-2020,England,Combined Authority,E47000011,North of Tyne,1,Male,14,60-64,22.36,22.2,22.52
+2018-2020,England,Combined Authority,E47000011,North of Tyne,2,Female,1,<1,82.36,82.15,82.58
+2018-2020,England,Combined Authority,E47000011,North of Tyne,2,Female,14,60-64,24.75,24.6,24.91
+2018-2020,England,Country,E92000001,England,1,Male,1,<1,79.4,79.37,79.43
+2018-2020,England,Country,E92000001,England,1,Male,14,60-64,22.75,22.73,22.77
+2018-2020,England,Country,E92000001,England,2,Female,1,<1,83.14,83.12,83.17
+2018-2020,England,Country,E92000001,England,2,Female,14,60-64,25.44,25.42,25.46
+2018-2020,England,County,E10000003,Cambridgeshire,1,Male,1,<1,81.07,80.81,81.32
+2018-2020,England,County,E10000003,Cambridgeshire,1,Male,14,60-64,23.82,23.63,24.01
+2018-2020,England,County,E10000003,Cambridgeshire,2,Female,1,<1,84.46,84.21,84.72
+2018-2020,England,County,E10000003,Cambridgeshire,2,Female,14,60-64,26.48,26.29,26.68
+2018-2020,England,County,E10000006,Cumbria,1,Male,1,<1,78.99,78.68,79.31
+2018-2020,England,County,E10000006,Cumbria,1,Male,14,60-64,22.95,22.76,23.13
+2018-2020,England,County,E10000006,Cumbria,2,Female,1,<1,82.93,82.64,83.23
+2018-2020,England,County,E10000006,Cumbria,2,Female,14,60-64,25.48,25.29,25.67
+2018-2020,England,County,E10000007,Derbyshire,1,Male,1,<1,79.15,78.91,79.39
+2018-2020,England,County,E10000007,Derbyshire,1,Male,14,60-64,22.52,22.37,22.67
+2018-2020,England,County,E10000007,Derbyshire,2,Female,1,<1,82.77,82.55,83
+2018-2020,England,County,E10000007,Derbyshire,2,Female,14,60-64,25.13,24.98,25.29
+2018-2020,England,County,E10000008,Devon,1,Male,1,<1,80.68,80.44,80.91
+2018-2020,England,County,E10000008,Devon,1,Male,14,60-64,23.78,23.63,23.93
+2018-2020,England,County,E10000008,Devon,2,Female,1,<1,84.6,84.38,84.82
+2018-2020,England,County,E10000008,Devon,2,Female,14,60-64,26.73,26.58,26.87
+2018-2020,England,County,E10000011,East Sussex,1,Male,1,<1,80.09,79.79,80.39
+2018-2020,England,County,E10000011,East Sussex,1,Male,14,60-64,23.63,23.44,23.81
+2018-2020,England,County,E10000011,East Sussex,2,Female,1,<1,84.1,83.83,84.37
+2018-2020,England,County,E10000011,East Sussex,2,Female,14,60-64,26.48,26.31,26.66
+2018-2020,England,County,E10000012,Essex,1,Male,1,<1,80.13,79.96,80.3
+2018-2020,England,County,E10000012,Essex,1,Male,14,60-64,23.12,23,23.24
+2018-2020,England,County,E10000012,Essex,2,Female,1,<1,83.56,83.4,83.71
+2018-2020,England,County,E10000012,Essex,2,Female,14,60-64,25.62,25.51,25.74
+2018-2020,England,County,E10000013,Gloucestershire,1,Male,1,<1,80.17,79.91,80.43
+2018-2020,England,County,E10000013,Gloucestershire,1,Male,14,60-64,23.29,23.12,23.47
+2018-2020,England,County,E10000013,Gloucestershire,2,Female,1,<1,83.85,83.61,84.09
+2018-2020,England,County,E10000013,Gloucestershire,2,Female,14,60-64,26.06,25.88,26.23
+2018-2020,England,County,E10000014,Hampshire,1,Male,1,<1,81.37,81.19,81.55
+2018-2020,England,County,E10000014,Hampshire,1,Male,14,60-64,24.08,23.95,24.2
+2018-2020,England,County,E10000014,Hampshire,2,Female,1,<1,84.63,84.46,84.79
+2018-2020,England,County,E10000014,Hampshire,2,Female,14,60-64,26.61,26.49,26.74
+2018-2020,England,County,E10000015,Hertfordshire,1,Male,1,<1,80.7,80.5,80.89
+2018-2020,England,County,E10000015,Hertfordshire,1,Male,14,60-64,23.43,23.28,23.57
+2018-2020,England,County,E10000015,Hertfordshire,2,Female,1,<1,84.15,83.97,84.33
+2018-2020,England,County,E10000015,Hertfordshire,2,Female,14,60-64,26.01,25.86,26.15
+2018-2020,England,County,E10000016,Kent,1,Male,1,<1,79.61,79.44,79.78
+2018-2020,England,County,E10000016,Kent,1,Male,14,60-64,22.8,22.69,22.92
+2018-2020,England,County,E10000016,Kent,2,Female,1,<1,83.28,83.12,83.44
+2018-2020,England,County,E10000016,Kent,2,Female,14,60-64,25.55,25.43,25.66
+2018-2020,England,County,E10000017,Lancashire,1,Male,1,<1,78.25,78.06,78.45
+2018-2020,England,County,E10000017,Lancashire,1,Male,14,60-64,22.08,21.95,22.21
+2018-2020,England,County,E10000017,Lancashire,2,Female,1,<1,82,81.82,82.19
+2018-2020,England,County,E10000017,Lancashire,2,Female,14,60-64,24.64,24.51,24.76
+2018-2020,England,County,E10000018,Leicestershire,1,Male,1,<1,80.45,80.21,80.69
+2018-2020,England,County,E10000018,Leicestershire,1,Male,14,60-64,23.21,23.04,23.38
+2018-2020,England,County,E10000018,Leicestershire,2,Female,1,<1,84.07,83.83,84.31
+2018-2020,England,County,E10000018,Leicestershire,2,Female,14,60-64,26.19,26.01,26.37
+2018-2020,England,County,E10000019,Lincolnshire,1,Male,1,<1,79.03,78.79,79.27
+2018-2020,England,County,E10000019,Lincolnshire,1,Male,14,60-64,22.59,22.44,22.74
+2018-2020,England,County,E10000019,Lincolnshire,2,Female,1,<1,82.79,82.57,83.01
+2018-2020,England,County,E10000019,Lincolnshire,2,Female,14,60-64,25.08,24.93,25.23
+2018-2020,England,County,E10000020,Norfolk,1,Male,1,<1,79.96,79.73,80.18
+2018-2020,England,County,E10000020,Norfolk,1,Male,14,60-64,23.35,23.21,23.49
+2018-2020,England,County,E10000020,Norfolk,2,Female,1,<1,83.88,83.67,84.09
+2018-2020,England,County,E10000020,Norfolk,2,Female,14,60-64,26.11,25.96,26.25
+2018-2020,England,County,E10000023,North Yorkshire,1,Male,1,<1,80.39,80.11,80.66
+2018-2020,England,County,E10000023,North Yorkshire,1,Male,14,60-64,23.6,23.43,23.77
+2018-2020,England,County,E10000023,North Yorkshire,2,Female,1,<1,84.32,84.08,84.56
+2018-2020,England,County,E10000023,North Yorkshire,2,Female,14,60-64,26.33,26.16,26.5
+2018-2020,England,County,E10000024,Nottinghamshire,1,Male,1,<1,79.55,79.32,79.78
+2018-2020,England,County,E10000024,Nottinghamshire,1,Male,14,60-64,22.69,22.54,22.85
+2018-2020,England,County,E10000024,Nottinghamshire,2,Female,1,<1,82.61,82.4,82.83
+2018-2020,England,County,E10000024,Nottinghamshire,2,Female,14,60-64,24.91,24.76,25.07
+2018-2020,England,County,E10000025,Oxfordshire,1,Male,1,<1,81.54,81.29,81.78
+2018-2020,England,County,E10000025,Oxfordshire,1,Male,14,60-64,24.07,23.88,24.26
+2018-2020,England,County,E10000025,Oxfordshire,2,Female,1,<1,84.87,84.63,85.11
+2018-2020,England,County,E10000025,Oxfordshire,2,Female,14,60-64,26.77,26.59,26.96
+2018-2020,England,County,E10000027,Somerset,1,Male,1,<1,80.27,79.98,80.57
+2018-2020,England,County,E10000027,Somerset,1,Male,14,60-64,23.77,23.59,23.95
+2018-2020,England,County,E10000027,Somerset,2,Female,1,<1,84.22,83.95,84.48
+2018-2020,England,County,E10000027,Somerset,2,Female,14,60-64,26.42,26.24,26.6
+2018-2020,England,County,E10000028,Staffordshire,1,Male,1,<1,79.31,79.08,79.53
+2018-2020,England,County,E10000028,Staffordshire,1,Male,14,60-64,22.6,22.45,22.74
+2018-2020,England,County,E10000028,Staffordshire,2,Female,1,<1,83.11,82.9,83.33
+2018-2020,England,County,E10000028,Staffordshire,2,Female,14,60-64,25.39,25.24,25.54
+2018-2020,England,County,E10000029,Suffolk,1,Male,1,<1,80.67,80.43,80.91
+2018-2020,England,County,E10000029,Suffolk,1,Male,14,60-64,23.73,23.58,23.89
+2018-2020,England,County,E10000029,Suffolk,2,Female,1,<1,84.14,83.91,84.36
+2018-2020,England,County,E10000029,Suffolk,2,Female,14,60-64,26.27,26.11,26.42
+2018-2020,England,County,E10000030,Surrey,1,Male,1,<1,81.7,81.51,81.9
+2018-2020,England,County,E10000030,Surrey,1,Male,14,60-64,24.31,24.16,24.45
+2018-2020,England,County,E10000030,Surrey,2,Female,1,<1,85.03,84.86,85.21
+2018-2020,England,County,E10000030,Surrey,2,Female,14,60-64,26.76,26.63,26.9
+2018-2020,England,County,E10000031,Warwickshire,1,Male,1,<1,79.7,79.42,79.97
+2018-2020,England,County,E10000031,Warwickshire,1,Male,14,60-64,22.94,22.75,23.12
+2018-2020,England,County,E10000031,Warwickshire,2,Female,1,<1,83.43,83.17,83.7
+2018-2020,England,County,E10000031,Warwickshire,2,Female,14,60-64,25.61,25.42,25.8
+2018-2020,England,County,E10000032,West Sussex,1,Male,1,<1,80.75,80.52,80.97
+2018-2020,England,County,E10000032,West Sussex,1,Male,14,60-64,23.66,23.51,23.81
+2018-2020,England,County,E10000032,West Sussex,2,Female,1,<1,84.13,83.92,84.35
+2018-2020,England,County,E10000032,West Sussex,2,Female,14,60-64,26.38,26.24,26.53
+2018-2020,England,County,E10000034,Worcestershire,1,Male,1,<1,80.03,79.75,80.31
+2018-2020,England,County,E10000034,Worcestershire,1,Male,14,60-64,23.24,23.06,23.42
+2018-2020,England,County,E10000034,Worcestershire,2,Female,1,<1,83.46,83.19,83.72
+2018-2020,England,County,E10000034,Worcestershire,2,Female,14,60-64,25.82,25.64,26
+2018-2020,England,Local Areas,E06000001,Hartlepool,1,Male,1,<1,76.54,75.81,77.27
+2018-2020,England,Local Areas,E06000001,Hartlepool,1,Male,14,60-64,21.45,20.99,21.91
+2018-2020,England,Local Areas,E06000001,Hartlepool,2,Female,1,<1,81.08,80.42,81.74
+2018-2020,England,Local Areas,E06000001,Hartlepool,2,Female,14,60-64,24.23,23.75,24.7
+2018-2020,England,Local Areas,E06000002,Middlesbrough,1,Male,1,<1,75.44,74.85,76.04
+2018-2020,England,Local Areas,E06000002,Middlesbrough,1,Male,14,60-64,20.42,20.04,20.8
+2018-2020,England,Local Areas,E06000002,Middlesbrough,2,Female,1,<1,79.82,79.26,80.38
+2018-2020,England,Local Areas,E06000002,Middlesbrough,2,Female,14,60-64,23.23,22.84,23.62
+2018-2020,England,Local Areas,E06000003,Redcar and Cleveland,1,Male,1,<1,77.45,76.83,78.06
+2018-2020,England,Local Areas,E06000003,Redcar and Cleveland,1,Male,14,60-64,21.87,21.5,22.25
+2018-2020,England,Local Areas,E06000003,Redcar and Cleveland,2,Female,1,<1,81.51,80.97,82.05
+2018-2020,England,Local Areas,E06000003,Redcar and Cleveland,2,Female,14,60-64,24.41,24.05,24.78
+2018-2020,England,Local Areas,E06000004,Stockton-on-Tees,1,Male,1,<1,78.11,77.62,78.6
+2018-2020,England,Local Areas,E06000004,Stockton-on-Tees,1,Male,14,60-64,22.11,21.78,22.44
+2018-2020,England,Local Areas,E06000004,Stockton-on-Tees,2,Female,1,<1,81.29,80.81,81.76
+2018-2020,England,Local Areas,E06000004,Stockton-on-Tees,2,Female,14,60-64,24.15,23.82,24.49
+2018-2020,England,Local Areas,E06000005,Darlington,1,Male,1,<1,78.13,77.44,78.81
+2018-2020,England,Local Areas,E06000005,Darlington,1,Male,14,60-64,22.41,21.98,22.84
+2018-2020,England,Local Areas,E06000005,Darlington,2,Female,1,<1,81.24,80.63,81.85
+2018-2020,England,Local Areas,E06000005,Darlington,2,Female,14,60-64,24.27,23.86,24.69
+2018-2020,England,Local Areas,E06000006,Halton,1,Male,1,<1,77.37,76.79,77.95
+2018-2020,England,Local Areas,E06000006,Halton,1,Male,14,60-64,21.4,21.01,21.8
+2018-2020,England,Local Areas,E06000006,Halton,2,Female,1,<1,81.38,80.82,81.94
+2018-2020,England,Local Areas,E06000006,Halton,2,Female,14,60-64,24.01,23.6,24.43
+2018-2020,England,Local Areas,E06000007,Warrington,1,Male,1,<1,78.91,78.47,79.36
+2018-2020,England,Local Areas,E06000007,Warrington,1,Male,14,60-64,22.07,21.76,22.38
+2018-2020,England,Local Areas,E06000007,Warrington,2,Female,1,<1,82.33,81.89,82.77
+2018-2020,England,Local Areas,E06000007,Warrington,2,Female,14,60-64,24.82,24.51,25.13
+2018-2020,England,Local Areas,E06000008,Blackburn with Darwen,1,Male,1,<1,76.31,75.75,76.87
+2018-2020,England,Local Areas,E06000008,Blackburn with Darwen,1,Male,14,60-64,20.69,20.3,21.08
+2018-2020,England,Local Areas,E06000008,Blackburn with Darwen,2,Female,1,<1,80.32,79.79,80.86
+2018-2020,England,Local Areas,E06000008,Blackburn with Darwen,2,Female,14,60-64,23.13,22.73,23.53
+2018-2020,England,Local Areas,E06000009,Blackpool,1,Male,1,<1,74.08,73.48,74.69
+2018-2020,England,Local Areas,E06000009,Blackpool,1,Male,14,60-64,20.19,19.84,20.54
+2018-2020,England,Local Areas,E06000009,Blackpool,2,Female,1,<1,78.99,78.42,79.55
+2018-2020,England,Local Areas,E06000009,Blackpool,2,Female,14,60-64,22.82,22.45,23.2
+2018-2020,England,Local Areas,E06000010,"Kingston upon Hull, City of",1,Male,1,<1,75.56,75.14,75.98
+2018-2020,England,Local Areas,E06000010,"Kingston upon Hull, City of",1,Male,14,60-64,20.03,19.74,20.32
+2018-2020,England,Local Areas,E06000010,"Kingston upon Hull, City of",2,Female,1,<1,80.04,79.64,80.45
+2018-2020,England,Local Areas,E06000010,"Kingston upon Hull, City of",2,Female,14,60-64,22.95,22.66,23.24
+2018-2020,England,Local Areas,E06000011,East Riding of Yorkshire,1,Male,1,<1,80.05,79.69,80.41
+2018-2020,England,Local Areas,E06000011,East Riding of Yorkshire,1,Male,14,60-64,23.17,22.96,23.38
+2018-2020,England,Local Areas,E06000011,East Riding of Yorkshire,2,Female,1,<1,83.53,83.2,83.87
+2018-2020,England,Local Areas,E06000011,East Riding of Yorkshire,2,Female,14,60-64,25.72,25.5,25.94
+2018-2020,England,Local Areas,E06000012,North East Lincolnshire,1,Male,1,<1,78.04,77.5,78.57
+2018-2020,England,Local Areas,E06000012,North East Lincolnshire,1,Male,14,60-64,21.87,21.51,22.22
+2018-2020,England,Local Areas,E06000012,North East Lincolnshire,2,Female,1,<1,82.17,81.67,82.67
+2018-2020,England,Local Areas,E06000012,North East Lincolnshire,2,Female,14,60-64,24.92,24.56,25.27
+2018-2020,England,Local Areas,E06000013,North Lincolnshire,1,Male,1,<1,78.72,78.23,79.21
+2018-2020,England,Local Areas,E06000013,North Lincolnshire,1,Male,14,60-64,22.11,21.78,22.44
+2018-2020,England,Local Areas,E06000013,North Lincolnshire,2,Female,1,<1,82.7,82.19,83.21
+2018-2020,England,Local Areas,E06000013,North Lincolnshire,2,Female,14,60-64,25.24,24.88,25.6
+2018-2020,England,Local Areas,E06000014,York,1,Male,1,<1,79.9,79.43,80.37
+2018-2020,England,Local Areas,E06000014,York,1,Male,14,60-64,23.12,22.78,23.45
+2018-2020,England,Local Areas,E06000014,York,2,Female,1,<1,83.62,83.16,84.07
+2018-2020,England,Local Areas,E06000014,York,2,Female,14,60-64,25.7,25.36,26.04
+2018-2020,England,Local Areas,E06000015,Derby,1,Male,1,<1,77.66,77.22,78.1
+2018-2020,England,Local Areas,E06000015,Derby,1,Male,14,60-64,21.8,21.49,22.11
+2018-2020,England,Local Areas,E06000015,Derby,2,Female,1,<1,81.53,81.11,81.96
+2018-2020,England,Local Areas,E06000015,Derby,2,Female,14,60-64,24.38,24.07,24.7
+2018-2020,England,Local Areas,E06000016,Leicester,1,Male,1,<1,76.82,76.42,77.22
+2018-2020,England,Local Areas,E06000016,Leicester,1,Male,14,60-64,21.01,20.7,21.31
+2018-2020,England,Local Areas,E06000016,Leicester,2,Female,1,<1,81.51,81.13,81.88
+2018-2020,England,Local Areas,E06000016,Leicester,2,Female,14,60-64,24.02,23.72,24.33
+2018-2020,England,Local Areas,E06000017,Rutland,1,Male,1,<1,83.15,82.26,84.04
+2018-2020,England,Local Areas,E06000017,Rutland,1,Male,14,60-64,24.98,24.31,25.65
+2018-2020,England,Local Areas,E06000017,Rutland,2,Female,1,<1,84.99,83.91,86.06
+2018-2020,England,Local Areas,E06000017,Rutland,2,Female,14,60-64,27.44,26.73,28.14
+2018-2020,England,Local Areas,E06000018,Nottingham,1,Male,1,<1,76.58,76.17,77
+2018-2020,England,Local Areas,E06000018,Nottingham,1,Male,14,60-64,20.55,20.24,20.87
+2018-2020,England,Local Areas,E06000018,Nottingham,2,Female,1,<1,81.02,80.6,81.44
+2018-2020,England,Local Areas,E06000018,Nottingham,2,Female,14,60-64,23.92,23.59,24.25
+2018-2020,England,Local Areas,E06000019,"Herefordshire, County of",1,Male,1,<1,79.88,79.35,80.42
+2018-2020,England,Local Areas,E06000019,"Herefordshire, County of",1,Male,14,60-64,23.69,23.38,23.99
+2018-2020,England,Local Areas,E06000019,"Herefordshire, County of",2,Female,1,<1,83.75,83.29,84.22
+2018-2020,England,Local Areas,E06000019,"Herefordshire, County of",2,Female,14,60-64,26.14,25.85,26.43
+2018-2020,England,Local Areas,E06000020,Telford and Wrekin,1,Male,1,<1,78.23,77.71,78.74
+2018-2020,England,Local Areas,E06000020,Telford and Wrekin,1,Male,14,60-64,21.99,21.63,22.35
+2018-2020,England,Local Areas,E06000020,Telford and Wrekin,2,Female,1,<1,81.94,81.46,82.41
+2018-2020,England,Local Areas,E06000020,Telford and Wrekin,2,Female,14,60-64,24.47,24.11,24.82
+2018-2020,England,Local Areas,E06000021,Stoke-on-Trent,1,Male,1,<1,75.85,75.41,76.28
+2018-2020,England,Local Areas,E06000021,Stoke-on-Trent,1,Male,14,60-64,20.74,20.46,21.02
+2018-2020,England,Local Areas,E06000021,Stoke-on-Trent,2,Female,1,<1,79.71,79.29,80.14
+2018-2020,England,Local Areas,E06000021,Stoke-on-Trent,2,Female,14,60-64,23.13,22.85,23.41
+2018-2020,England,Local Areas,E06000022,Bath and North East Somerset,1,Male,1,<1,80.89,80.4,81.37
+2018-2020,England,Local Areas,E06000022,Bath and North East Somerset,1,Male,14,60-64,23.84,23.49,24.18
+2018-2020,England,Local Areas,E06000022,Bath and North East Somerset,2,Female,1,<1,84.93,84.49,85.38
+2018-2020,England,Local Areas,E06000022,Bath and North East Somerset,2,Female,14,60-64,26.56,26.21,26.9
+2018-2020,England,Local Areas,E06000023,"Bristol, City of",1,Male,1,<1,78.49,78.16,78.83
+2018-2020,England,Local Areas,E06000023,"Bristol, City of",1,Male,14,60-64,22.07,21.81,22.33
+2018-2020,England,Local Areas,E06000023,"Bristol, City of",2,Female,1,<1,82.69,82.37,83.02
+2018-2020,England,Local Areas,E06000023,"Bristol, City of",2,Female,14,60-64,24.89,24.63,25.16
+2018-2020,England,Local Areas,E06000024,North Somerset,1,Male,1,<1,80.51,80.07,80.96
+2018-2020,England,Local Areas,E06000024,North Somerset,1,Male,14,60-64,23.4,23.1,23.69
+2018-2020,England,Local Areas,E06000024,North Somerset,2,Female,1,<1,84.59,84.19,84.98
+2018-2020,England,Local Areas,E06000024,North Somerset,2,Female,14,60-64,26.37,26.08,26.65
+2018-2020,England,Local Areas,E06000025,South Gloucestershire,1,Male,1,<1,81.56,81.18,81.95
+2018-2020,England,Local Areas,E06000025,South Gloucestershire,1,Male,14,60-64,23.98,23.69,24.28
+2018-2020,England,Local Areas,E06000025,South Gloucestershire,2,Female,1,<1,84.43,84.05,84.82
+2018-2020,England,Local Areas,E06000025,South Gloucestershire,2,Female,14,60-64,26.65,26.35,26.95
+2018-2020,England,Local Areas,E06000026,Plymouth,1,Male,1,<1,78.77,78.34,79.21
+2018-2020,England,Local Areas,E06000026,Plymouth,1,Male,14,60-64,22.57,22.26,22.87
+2018-2020,England,Local Areas,E06000026,Plymouth,2,Female,1,<1,82.51,82.12,82.9
+2018-2020,England,Local Areas,E06000026,Plymouth,2,Female,14,60-64,24.79,24.5,25.08
+2018-2020,England,Local Areas,E06000027,Torbay,1,Male,1,<1,78.6,77.96,79.23
+2018-2020,England,Local Areas,E06000027,Torbay,1,Male,14,60-64,23.14,22.77,23.5
+2018-2020,England,Local Areas,E06000027,Torbay,2,Female,1,<1,82.46,81.89,83.02
+2018-2020,England,Local Areas,E06000027,Torbay,2,Female,14,60-64,25.53,25.18,25.87
+2018-2020,England,Local Areas,E06000030,Swindon,1,Male,1,<1,79.81,79.36,80.26
+2018-2020,England,Local Areas,E06000030,Swindon,1,Male,14,60-64,22.8,22.46,23.14
+2018-2020,England,Local Areas,E06000030,Swindon,2,Female,1,<1,83.56,83.14,83.98
+2018-2020,England,Local Areas,E06000030,Swindon,2,Female,14,60-64,25.49,25.16,25.82
+2018-2020,England,Local Areas,E06000031,Peterborough,1,Male,1,<1,78.62,78.11,79.13
+2018-2020,England,Local Areas,E06000031,Peterborough,1,Male,14,60-64,22.42,22.04,22.8
+2018-2020,England,Local Areas,E06000031,Peterborough,2,Female,1,<1,82.47,81.99,82.95
+2018-2020,England,Local Areas,E06000031,Peterborough,2,Female,14,60-64,24.91,24.54,25.29
+2018-2020,England,Local Areas,E06000032,Luton,1,Male,1,<1,78.09,77.59,78.59
+2018-2020,England,Local Areas,E06000032,Luton,1,Male,14,60-64,21.86,21.46,22.26
+2018-2020,England,Local Areas,E06000032,Luton,2,Female,1,<1,82.38,81.88,82.89
+2018-2020,England,Local Areas,E06000032,Luton,2,Female,14,60-64,24.82,24.4,25.23
+2018-2020,England,Local Areas,E06000033,Southend-on-Sea,1,Male,1,<1,78.44,77.95,78.94
+2018-2020,England,Local Areas,E06000033,Southend-on-Sea,1,Male,14,60-64,21.98,21.63,22.33
+2018-2020,England,Local Areas,E06000033,Southend-on-Sea,2,Female,1,<1,82.71,82.26,83.15
+2018-2020,England,Local Areas,E06000033,Southend-on-Sea,2,Female,14,60-64,24.91,24.58,25.25
+2018-2020,England,Local Areas,E06000034,Thurrock,1,Male,1,<1,78.33,77.8,78.86
+2018-2020,England,Local Areas,E06000034,Thurrock,1,Male,14,60-64,21.74,21.35,22.13
+2018-2020,England,Local Areas,E06000034,Thurrock,2,Female,1,<1,82.56,82.07,83.04
+2018-2020,England,Local Areas,E06000034,Thurrock,2,Female,14,60-64,24.5,24.11,24.89
+2018-2020,England,Local Areas,E06000035,Medway,1,Male,1,<1,78.31,77.91,78.71
+2018-2020,England,Local Areas,E06000035,Medway,1,Male,14,60-64,21.7,21.41,21.99
+2018-2020,England,Local Areas,E06000035,Medway,2,Female,1,<1,82.36,81.99,82.74
+2018-2020,England,Local Areas,E06000035,Medway,2,Female,14,60-64,24.64,24.34,24.94
+2018-2020,England,Local Areas,E06000036,Bracknell Forest,1,Male,1,<1,81.72,81.09,82.36
+2018-2020,England,Local Areas,E06000036,Bracknell Forest,1,Male,14,60-64,24.12,23.59,24.66
+2018-2020,England,Local Areas,E06000036,Bracknell Forest,2,Female,1,<1,85.38,84.72,86.03
+2018-2020,England,Local Areas,E06000036,Bracknell Forest,2,Female,14,60-64,26.93,26.34,27.52
+2018-2020,England,Local Areas,E06000037,West Berkshire,1,Male,1,<1,81.35,80.82,81.87
+2018-2020,England,Local Areas,E06000037,West Berkshire,1,Male,14,60-64,24.18,23.79,24.57
+2018-2020,England,Local Areas,E06000037,West Berkshire,2,Female,1,<1,85.18,84.68,85.68
+2018-2020,England,Local Areas,E06000037,West Berkshire,2,Female,14,60-64,26.97,26.56,27.37
+2018-2020,England,Local Areas,E06000038,Reading,1,Male,1,<1,78.98,78.39,79.56
+2018-2020,England,Local Areas,E06000038,Reading,1,Male,14,60-64,22.53,22.06,23
+2018-2020,England,Local Areas,E06000038,Reading,2,Female,1,<1,82.29,81.74,82.83
+2018-2020,England,Local Areas,E06000038,Reading,2,Female,14,60-64,24.72,24.27,25.16
+2018-2020,England,Local Areas,E06000039,Slough,1,Male,1,<1,78.4,77.77,79.03
+2018-2020,England,Local Areas,E06000039,Slough,1,Male,14,60-64,22.01,21.48,22.54
+2018-2020,England,Local Areas,E06000039,Slough,2,Female,1,<1,82.5,81.85,83.16
+2018-2020,England,Local Areas,E06000039,Slough,2,Female,14,60-64,25.05,24.48,25.62
+2018-2020,England,Local Areas,E06000040,Windsor and Maidenhead,1,Male,1,<1,81.79,81.25,82.33
+2018-2020,England,Local Areas,E06000040,Windsor and Maidenhead,1,Male,14,60-64,24.08,23.66,24.51
+2018-2020,England,Local Areas,E06000040,Windsor and Maidenhead,2,Female,1,<1,84.73,84.23,85.24
+2018-2020,England,Local Areas,E06000040,Windsor and Maidenhead,2,Female,14,60-64,26.59,26.19,26.98
+2018-2020,England,Local Areas,E06000041,Wokingham,1,Male,1,<1,82.43,81.88,82.98
+2018-2020,England,Local Areas,E06000041,Wokingham,1,Male,14,60-64,25.07,24.66,25.48
+2018-2020,England,Local Areas,E06000041,Wokingham,2,Female,1,<1,85.49,84.99,85.99
+2018-2020,England,Local Areas,E06000041,Wokingham,2,Female,14,60-64,27.19,26.77,27.6
+2018-2020,England,Local Areas,E06000042,Milton Keynes,1,Male,1,<1,79.3,78.87,79.73
+2018-2020,England,Local Areas,E06000042,Milton Keynes,1,Male,14,60-64,22.5,22.18,22.83
+2018-2020,England,Local Areas,E06000042,Milton Keynes,2,Female,1,<1,83.19,82.78,83.6
+2018-2020,England,Local Areas,E06000042,Milton Keynes,2,Female,14,60-64,25.56,25.23,25.88
+2018-2020,England,Local Areas,E06000043,Brighton and Hove,1,Male,1,<1,79.28,78.86,79.71
+2018-2020,England,Local Areas,E06000043,Brighton and Hove,1,Male,14,60-64,22.57,22.23,22.91
+2018-2020,England,Local Areas,E06000043,Brighton and Hove,2,Female,1,<1,83.22,82.82,83.63
+2018-2020,England,Local Areas,E06000043,Brighton and Hove,2,Female,14,60-64,25.39,25.06,25.71
+2018-2020,England,Local Areas,E06000044,Portsmouth,1,Male,1,<1,78.46,78,78.93
+2018-2020,England,Local Areas,E06000044,Portsmouth,1,Male,14,60-64,21.61,21.24,21.98
+2018-2020,England,Local Areas,E06000044,Portsmouth,2,Female,1,<1,82.38,81.93,82.83
+2018-2020,England,Local Areas,E06000044,Portsmouth,2,Female,14,60-64,24.64,24.27,25
+2018-2020,England,Local Areas,E06000045,Southampton,1,Male,1,<1,78.32,77.86,78.77
+2018-2020,England,Local Areas,E06000045,Southampton,1,Male,14,60-64,21.73,21.38,22.08
+2018-2020,England,Local Areas,E06000045,Southampton,2,Female,1,<1,82.46,82.01,82.92
+2018-2020,England,Local Areas,E06000045,Southampton,2,Female,14,60-64,24.91,24.55,25.27
+2018-2020,England,Local Areas,E06000046,Isle of Wight,1,Male,1,<1,79.63,79.01,80.24
+2018-2020,England,Local Areas,E06000046,Isle of Wight,1,Male,14,60-64,23.55,23.2,23.9
+2018-2020,England,Local Areas,E06000046,Isle of Wight,2,Female,1,<1,83.4,82.86,83.93
+2018-2020,England,Local Areas,E06000046,Isle of Wight,2,Female,14,60-64,25.89,25.57,26.22
+2018-2020,England,Local Areas,E06000047,County Durham,1,Male,1,<1,77.73,77.43,78.03
+2018-2020,England,Local Areas,E06000047,County Durham,1,Male,14,60-64,21.84,21.65,22.02
+2018-2020,England,Local Areas,E06000047,County Durham,2,Female,1,<1,81.24,80.97,81.51
+2018-2020,England,Local Areas,E06000047,County Durham,2,Female,14,60-64,24.04,23.86,24.23
+2018-2020,England,Local Areas,E06000049,Cheshire East,1,Male,1,<1,80.3,79.96,80.65
+2018-2020,England,Local Areas,E06000049,Cheshire East,1,Male,14,60-64,23.37,23.14,23.6
+2018-2020,England,Local Areas,E06000049,Cheshire East,2,Female,1,<1,83.79,83.48,84.09
+2018-2020,England,Local Areas,E06000049,Cheshire East,2,Female,14,60-64,25.73,25.51,25.95
+2018-2020,England,Local Areas,E06000050,Cheshire West and Chester,1,Male,1,<1,79.65,79.29,80.02
+2018-2020,England,Local Areas,E06000050,Cheshire West and Chester,1,Male,14,60-64,23.05,22.8,23.29
+2018-2020,England,Local Areas,E06000050,Cheshire West and Chester,2,Female,1,<1,83.36,83.04,83.68
+2018-2020,England,Local Areas,E06000050,Cheshire West and Chester,2,Female,14,60-64,25.32,25.08,25.56
+2018-2020,England,Local Areas,E06000051,Shropshire,1,Male,1,<1,80.19,79.8,80.58
+2018-2020,England,Local Areas,E06000051,Shropshire,1,Male,14,60-64,23.5,23.27,23.73
+2018-2020,England,Local Areas,E06000051,Shropshire,2,Female,1,<1,83.7,83.35,84.05
+2018-2020,England,Local Areas,E06000051,Shropshire,2,Female,14,60-64,25.89,25.66,26.12
+2018-2020,England,Local Areas,E06000052,Cornwall,1,Male,1,<1,79.78,79.49,80.06
+2018-2020,England,Local Areas,E06000052,Cornwall,1,Male,14,60-64,23.22,23.05,23.4
+2018-2020,England,Local Areas,E06000052,Cornwall,2,Female,1,<1,83.7,83.43,83.98
+2018-2020,England,Local Areas,E06000052,Cornwall,2,Female,14,60-64,26.12,25.94,26.3
+2018-2020,England,Local Areas,E06000054,Wiltshire,1,Male,1,<1,80.94,80.64,81.24
+2018-2020,England,Local Areas,E06000054,Wiltshire,1,Male,14,60-64,23.98,23.78,24.18
+2018-2020,England,Local Areas,E06000054,Wiltshire,2,Female,1,<1,84.51,84.23,84.8
+2018-2020,England,Local Areas,E06000054,Wiltshire,2,Female,14,60-64,26.5,26.3,26.7
+2018-2020,England,Local Areas,E06000055,Bedford,1,Male,1,<1,79.23,78.69,79.78
+2018-2020,England,Local Areas,E06000055,Bedford,1,Male,14,60-64,22.95,22.57,23.33
+2018-2020,England,Local Areas,E06000055,Bedford,2,Female,1,<1,83.24,82.73,83.75
+2018-2020,England,Local Areas,E06000055,Bedford,2,Female,14,60-64,25.73,25.35,26.11
+2018-2020,England,Local Areas,E06000056,Central Bedfordshire,1,Male,1,<1,80.66,80.26,81.05
+2018-2020,England,Local Areas,E06000056,Central Bedfordshire,1,Male,14,60-64,23.39,23.09,23.69
+2018-2020,England,Local Areas,E06000056,Central Bedfordshire,2,Female,1,<1,83.98,83.6,84.37
+2018-2020,England,Local Areas,E06000056,Central Bedfordshire,2,Female,14,60-64,26.13,25.84,26.43
+2018-2020,England,Local Areas,E06000057,Northumberland,1,Male,1,<1,79.29,78.9,79.69
+2018-2020,England,Local Areas,E06000057,Northumberland,1,Male,14,60-64,23.06,22.82,23.29
+2018-2020,England,Local Areas,E06000057,Northumberland,2,Female,1,<1,82.86,82.52,83.21
+2018-2020,England,Local Areas,E06000057,Northumberland,2,Female,14,60-64,25.19,24.96,25.42
+2018-2020,England,Local Areas,E06000058,"Bournemouth, Christchurch and Poole",1,Male,1,<1,80.31,79.98,80.64
+2018-2020,England,Local Areas,E06000058,"Bournemouth, Christchurch and Poole",1,Male,14,60-64,23.45,23.22,23.68
+2018-2020,England,Local Areas,E06000058,"Bournemouth, Christchurch and Poole",2,Female,1,<1,83.74,83.43,84.06
+2018-2020,England,Local Areas,E06000058,"Bournemouth, Christchurch and Poole",2,Female,14,60-64,26,25.78,26.22
+2018-2020,England,Local Areas,E06000059,Dorset,1,Male,1,<1,81.16,80.81,81.51
+2018-2020,England,Local Areas,E06000059,Dorset,1,Male,14,60-64,24.2,23.99,24.4
+2018-2020,England,Local Areas,E06000059,Dorset,2,Female,1,<1,84.93,84.62,85.24
+2018-2020,England,Local Areas,E06000059,Dorset,2,Female,14,60-64,26.86,26.66,27.06
+2018-2020,England,Local Areas,E06000060,Buckinghamshire,1,Male,1,<1,81.53,81.24,81.82
+2018-2020,England,Local Areas,E06000060,Buckinghamshire,1,Male,14,60-64,24.25,24.03,24.46
+2018-2020,England,Local Areas,E06000060,Buckinghamshire,2,Female,1,<1,85.08,84.8,85.35
+2018-2020,England,Local Areas,E06000060,Buckinghamshire,2,Female,14,60-64,27,26.79,27.22
+2018-2020,England,Local Areas,E06000061,North Northamptonshire,1,Male,1,<1,79.19,78.83,79.54
+2018-2020,England,Local Areas,E06000061,North Northamptonshire,1,Male,14,60-64,22.39,22.14,22.64
+2018-2020,England,Local Areas,E06000061,North Northamptonshire,2,Female,1,<1,82.44,82.1,82.78
+2018-2020,England,Local Areas,E06000061,North Northamptonshire,2,Female,14,60-64,24.98,24.74,25.23
+2018-2020,England,Local Areas,E06000062,West Northamptonshire ,1,Male,1,<1,79.75,79.41,80.09
+2018-2020,England,Local Areas,E06000062,West Northamptonshire ,1,Male,14,60-64,22.97,22.72,23.21
+2018-2020,England,Local Areas,E06000062,West Northamptonshire ,2,Female,1,<1,82.77,82.44,83.1
+2018-2020,England,Local Areas,E06000062,West Northamptonshire ,2,Female,14,60-64,25.29,25.04,25.53
+2018-2020,England,Local Areas,E07000008,Cambridge,1,Male,1,<1,80.93,80.25,81.61
+2018-2020,England,Local Areas,E07000008,Cambridge,1,Male,14,60-64,24.2,23.65,24.75
+2018-2020,England,Local Areas,E07000008,Cambridge,2,Female,1,<1,84.93,84.28,85.57
+2018-2020,England,Local Areas,E07000008,Cambridge,2,Female,14,60-64,27.01,26.5,27.53
+2018-2020,England,Local Areas,E07000009,East Cambridgeshire,1,Male,1,<1,80.96,80.23,81.69
+2018-2020,England,Local Areas,E07000009,East Cambridgeshire,1,Male,14,60-64,23.93,23.44,24.43
+2018-2020,England,Local Areas,E07000009,East Cambridgeshire,2,Female,1,<1,84.82,84.14,85.51
+2018-2020,England,Local Areas,E07000009,East Cambridgeshire,2,Female,14,60-64,26.64,26.1,27.17
+2018-2020,England,Local Areas,E07000010,Fenland,1,Male,1,<1,78.5,77.85,79.15
+2018-2020,England,Local Areas,E07000010,Fenland,1,Male,14,60-64,22.22,21.8,22.64
+2018-2020,England,Local Areas,E07000010,Fenland,2,Female,1,<1,82.22,81.55,82.89
+2018-2020,England,Local Areas,E07000010,Fenland,2,Female,14,60-64,25.04,24.57,25.5
+2018-2020,England,Local Areas,E07000011,Huntingdonshire,1,Male,1,<1,80.98,80.48,81.48
+2018-2020,England,Local Areas,E07000011,Huntingdonshire,1,Male,14,60-64,23.67,23.31,24.03
+2018-2020,England,Local Areas,E07000011,Huntingdonshire,2,Female,1,<1,84.14,83.66,84.62
+2018-2020,England,Local Areas,E07000011,Huntingdonshire,2,Female,14,60-64,26.09,25.74,26.44
+2018-2020,England,Local Areas,E07000012,South Cambridgeshire,1,Male,1,<1,83.06,82.55,83.58
+2018-2020,England,Local Areas,E07000012,South Cambridgeshire,1,Male,14,60-64,25.1,24.71,25.49
+2018-2020,England,Local Areas,E07000012,South Cambridgeshire,2,Female,1,<1,85.92,85.41,86.44
+2018-2020,England,Local Areas,E07000012,South Cambridgeshire,2,Female,14,60-64,27.73,27.32,28.14
+2018-2020,England,Local Areas,E07000026,Allerdale,1,Male,1,<1,78.93,78.21,79.66
+2018-2020,England,Local Areas,E07000026,Allerdale,1,Male,14,60-64,22.83,22.41,23.26
+2018-2020,England,Local Areas,E07000026,Allerdale,2,Female,1,<1,82.5,81.81,83.19
+2018-2020,England,Local Areas,E07000026,Allerdale,2,Female,14,60-64,25.31,24.87,25.76
+2018-2020,England,Local Areas,E07000027,Barrow-in-Furness,1,Male,1,<1,77.09,76.24,77.94
+2018-2020,England,Local Areas,E07000027,Barrow-in-Furness,1,Male,14,60-64,21.64,21.11,22.17
+2018-2020,England,Local Areas,E07000027,Barrow-in-Furness,2,Female,1,<1,80.62,79.78,81.46
+2018-2020,England,Local Areas,E07000027,Barrow-in-Furness,2,Female,14,60-64,23.8,23.29,24.31
+2018-2020,England,Local Areas,E07000028,Carlisle,1,Male,1,<1,78.15,77.47,78.84
+2018-2020,England,Local Areas,E07000028,Carlisle,1,Male,14,60-64,22.56,22.15,22.98
+2018-2020,England,Local Areas,E07000028,Carlisle,2,Female,1,<1,82.25,81.65,82.84
+2018-2020,England,Local Areas,E07000028,Carlisle,2,Female,14,60-64,24.76,24.34,25.18
+2018-2020,England,Local Areas,E07000029,Copeland,1,Male,1,<1,77.87,77.02,78.71
+2018-2020,England,Local Areas,E07000029,Copeland,1,Male,14,60-64,21.91,21.41,22.42
+2018-2020,England,Local Areas,E07000029,Copeland,2,Female,1,<1,81.76,80.91,82.61
+2018-2020,England,Local Areas,E07000029,Copeland,2,Female,14,60-64,24.89,24.36,25.42
+2018-2020,England,Local Areas,E07000030,Eden,1,Male,1,<1,82.03,81.17,82.9
+2018-2020,England,Local Areas,E07000030,Eden,1,Male,14,60-64,24.67,24.12,25.21
+2018-2020,England,Local Areas,E07000030,Eden,2,Female,1,<1,85.89,85.02,86.76
+2018-2020,England,Local Areas,E07000030,Eden,2,Female,14,60-64,27.52,26.89,28.14
+2018-2020,England,Local Areas,E07000031,South Lakeland,1,Male,1,<1,80.33,79.62,81.04
+2018-2020,England,Local Areas,E07000031,South Lakeland,1,Male,14,60-64,23.91,23.53,24.29
+2018-2020,England,Local Areas,E07000031,South Lakeland,2,Female,1,<1,84.79,84.21,85.37
+2018-2020,England,Local Areas,E07000031,South Lakeland,2,Female,14,60-64,26.64,26.26,27.02
+2018-2020,England,Local Areas,E07000032,Amber Valley,1,Male,1,<1,79.74,79.14,80.33
+2018-2020,England,Local Areas,E07000032,Amber Valley,1,Male,14,60-64,22.68,22.31,23.05
+2018-2020,England,Local Areas,E07000032,Amber Valley,2,Female,1,<1,82.98,82.43,83.54
+2018-2020,England,Local Areas,E07000032,Amber Valley,2,Female,14,60-64,25.3,24.9,25.7
+2018-2020,England,Local Areas,E07000033,Bolsover,1,Male,1,<1,77.74,77,78.47
+2018-2020,England,Local Areas,E07000033,Bolsover,1,Male,14,60-64,21.47,20.99,21.94
+2018-2020,England,Local Areas,E07000033,Bolsover,2,Female,1,<1,81.7,80.99,82.4
+2018-2020,England,Local Areas,E07000033,Bolsover,2,Female,14,60-64,23.95,23.47,24.42
+2018-2020,England,Local Areas,E07000034,Chesterfield,1,Male,1,<1,77.85,77.17,78.54
+2018-2020,England,Local Areas,E07000034,Chesterfield,1,Male,14,60-64,21.85,21.42,22.27
+2018-2020,England,Local Areas,E07000034,Chesterfield,2,Female,1,<1,81.75,81.15,82.35
+2018-2020,England,Local Areas,E07000034,Chesterfield,2,Female,14,60-64,24.38,23.95,24.81
+2018-2020,England,Local Areas,E07000035,Derbyshire Dales,1,Male,1,<1,80.91,80.13,81.69
+2018-2020,England,Local Areas,E07000035,Derbyshire Dales,1,Male,14,60-64,23.81,23.34,24.27
+2018-2020,England,Local Areas,E07000035,Derbyshire Dales,2,Female,1,<1,84.96,84.23,85.69
+2018-2020,England,Local Areas,E07000035,Derbyshire Dales,2,Female,14,60-64,26.94,26.48,27.4
+2018-2020,England,Local Areas,E07000036,Erewash,1,Male,1,<1,78.94,78.32,79.56
+2018-2020,England,Local Areas,E07000036,Erewash,1,Male,14,60-64,22.31,21.9,22.72
+2018-2020,England,Local Areas,E07000036,Erewash,2,Female,1,<1,82.84,82.2,83.48
+2018-2020,England,Local Areas,E07000036,Erewash,2,Female,14,60-64,25.3,24.86,25.75
+2018-2020,England,Local Areas,E07000037,High Peak,1,Male,1,<1,79.03,78.29,79.78
+2018-2020,England,Local Areas,E07000037,High Peak,1,Male,14,60-64,22.81,22.36,23.26
+2018-2020,England,Local Areas,E07000037,High Peak,2,Female,1,<1,82.63,81.99,83.27
+2018-2020,England,Local Areas,E07000037,High Peak,2,Female,14,60-64,24.93,24.49,25.37
+2018-2020,England,Local Areas,E07000038,North East Derbyshire,1,Male,1,<1,79.66,79.02,80.3
+2018-2020,England,Local Areas,E07000038,North East Derbyshire,1,Male,14,60-64,22.72,22.3,23.13
+2018-2020,England,Local Areas,E07000038,North East Derbyshire,2,Female,1,<1,82.48,81.92,83.04
+2018-2020,England,Local Areas,E07000038,North East Derbyshire,2,Female,14,60-64,24.8,24.43,25.17
+2018-2020,England,Local Areas,E07000039,South Derbyshire,1,Male,1,<1,79.3,78.64,79.96
+2018-2020,England,Local Areas,E07000039,South Derbyshire,1,Male,14,60-64,22.45,22.01,22.89
+2018-2020,England,Local Areas,E07000039,South Derbyshire,2,Female,1,<1,83.17,82.53,83.8
+2018-2020,England,Local Areas,E07000039,South Derbyshire,2,Female,14,60-64,25.57,25.11,26.03
+2018-2020,England,Local Areas,E07000040,East Devon,1,Male,1,<1,81.59,81.04,82.14
+2018-2020,England,Local Areas,E07000040,East Devon,1,Male,14,60-64,24.32,23.99,24.65
+2018-2020,England,Local Areas,E07000040,East Devon,2,Female,1,<1,85.32,84.81,85.83
+2018-2020,England,Local Areas,E07000040,East Devon,2,Female,14,60-64,27.54,27.22,27.85
+2018-2020,England,Local Areas,E07000041,Exeter,1,Male,1,<1,79.06,78.42,79.69
+2018-2020,England,Local Areas,E07000041,Exeter,1,Male,14,60-64,22.56,22.1,23.01
+2018-2020,England,Local Areas,E07000041,Exeter,2,Female,1,<1,84.08,83.48,84.69
+2018-2020,England,Local Areas,E07000041,Exeter,2,Female,14,60-64,26.23,25.76,26.69
+2018-2020,England,Local Areas,E07000042,Mid Devon,1,Male,1,<1,80.83,80.09,81.57
+2018-2020,England,Local Areas,E07000042,Mid Devon,1,Male,14,60-64,23.91,23.44,24.38
+2018-2020,England,Local Areas,E07000042,Mid Devon,2,Female,1,<1,84.73,84.03,85.44
+2018-2020,England,Local Areas,E07000042,Mid Devon,2,Female,14,60-64,26.78,26.28,27.29
+2018-2020,England,Local Areas,E07000043,North Devon,1,Male,1,<1,80.44,79.81,81.07
+2018-2020,England,Local Areas,E07000043,North Devon,1,Male,14,60-64,23.39,22.97,23.81
+2018-2020,England,Local Areas,E07000043,North Devon,2,Female,1,<1,83.9,83.28,84.51
+2018-2020,England,Local Areas,E07000043,North Devon,2,Female,14,60-64,26.19,25.76,26.62
+2018-2020,England,Local Areas,E07000044,South Hams,1,Male,1,<1,81.82,81.07,82.56
+2018-2020,England,Local Areas,E07000044,South Hams,1,Male,14,60-64,24.71,24.27,25.15
+2018-2020,England,Local Areas,E07000044,South Hams,2,Female,1,<1,85.46,84.81,86.1
+2018-2020,England,Local Areas,E07000044,South Hams,2,Female,14,60-64,27.29,26.85,27.73
+2018-2020,England,Local Areas,E07000045,Teignbridge,1,Male,1,<1,80.25,79.66,80.85
+2018-2020,England,Local Areas,E07000045,Teignbridge,1,Male,14,60-64,23.57,23.22,23.92
+2018-2020,England,Local Areas,E07000045,Teignbridge,2,Female,1,<1,84.93,84.41,85.46
+2018-2020,England,Local Areas,E07000045,Teignbridge,2,Female,14,60-64,26.83,26.47,27.18
+2018-2020,England,Local Areas,E07000046,Torridge,1,Male,1,<1,80.29,79.52,81.07
+2018-2020,England,Local Areas,E07000046,Torridge,1,Male,14,60-64,23.37,22.9,23.84
+2018-2020,England,Local Areas,E07000046,Torridge,2,Female,1,<1,83.19,82.41,83.96
+2018-2020,England,Local Areas,E07000046,Torridge,2,Female,14,60-64,25.5,25.03,25.97
+2018-2020,England,Local Areas,E07000047,West Devon,1,Male,1,<1,80.7,79.78,81.61
+2018-2020,England,Local Areas,E07000047,West Devon,1,Male,14,60-64,24.04,23.49,24.58
+2018-2020,England,Local Areas,E07000047,West Devon,2,Female,1,<1,83.93,83.12,84.74
+2018-2020,England,Local Areas,E07000047,West Devon,2,Female,14,60-64,26.34,25.83,26.85
+2018-2020,England,Local Areas,E07000061,Eastbourne,1,Male,1,<1,78.88,78.11,79.65
+2018-2020,England,Local Areas,E07000061,Eastbourne,1,Male,14,60-64,23.64,23.18,24.11
+2018-2020,England,Local Areas,E07000061,Eastbourne,2,Female,1,<1,83.62,82.97,84.26
+2018-2020,England,Local Areas,E07000061,Eastbourne,2,Female,14,60-64,26.09,25.68,26.51
+2018-2020,England,Local Areas,E07000062,Hastings,1,Male,1,<1,77.96,77.24,78.69
+2018-2020,England,Local Areas,E07000062,Hastings,1,Male,14,60-64,21.98,21.45,22.52
+2018-2020,England,Local Areas,E07000062,Hastings,2,Female,1,<1,81.79,81.08,82.5
+2018-2020,England,Local Areas,E07000062,Hastings,2,Female,14,60-64,24.98,24.47,25.49
+2018-2020,England,Local Areas,E07000063,Lewes,1,Male,1,<1,80.54,79.81,81.27
+2018-2020,England,Local Areas,E07000063,Lewes,1,Male,14,60-64,24.06,23.61,24.51
+2018-2020,England,Local Areas,E07000063,Lewes,2,Female,1,<1,84.79,84.17,85.41
+2018-2020,England,Local Areas,E07000063,Lewes,2,Female,14,60-64,26.96,26.54,27.39
+2018-2020,England,Local Areas,E07000064,Rother,1,Male,1,<1,80.35,79.62,81.08
+2018-2020,England,Local Areas,E07000064,Rother,1,Male,14,60-64,23.88,23.49,24.27
+2018-2020,England,Local Areas,E07000064,Rother,2,Female,1,<1,84.3,83.63,84.97
+2018-2020,England,Local Areas,E07000064,Rother,2,Female,14,60-64,26.78,26.4,27.15
+2018-2020,England,Local Areas,E07000065,Wealden,1,Male,1,<1,81.59,81.09,82.09
+2018-2020,England,Local Areas,E07000065,Wealden,1,Male,14,60-64,24,23.68,24.33
+2018-2020,England,Local Areas,E07000065,Wealden,2,Female,1,<1,85.04,84.59,85.5
+2018-2020,England,Local Areas,E07000065,Wealden,2,Female,14,60-64,26.91,26.59,27.23
+2018-2020,England,Local Areas,E07000066,Basildon,1,Male,1,<1,79.04,78.55,79.53
+2018-2020,England,Local Areas,E07000066,Basildon,1,Male,14,60-64,22.28,21.92,22.64
+2018-2020,England,Local Areas,E07000066,Basildon,2,Female,1,<1,82.88,82.41,83.36
+2018-2020,England,Local Areas,E07000066,Basildon,2,Female,14,60-64,25.34,24.98,25.7
+2018-2020,England,Local Areas,E07000067,Braintree,1,Male,1,<1,80.24,79.72,80.76
+2018-2020,England,Local Areas,E07000067,Braintree,1,Male,14,60-64,23.12,22.77,23.47
+2018-2020,England,Local Areas,E07000067,Braintree,2,Female,1,<1,83.28,82.8,83.75
+2018-2020,England,Local Areas,E07000067,Braintree,2,Female,14,60-64,25.3,24.95,25.65
+2018-2020,England,Local Areas,E07000068,Brentwood,1,Male,1,<1,80.66,79.91,81.42
+2018-2020,England,Local Areas,E07000068,Brentwood,1,Male,14,60-64,23.59,23.05,24.13
+2018-2020,England,Local Areas,E07000068,Brentwood,2,Female,1,<1,84.71,84.03,85.38
+2018-2020,England,Local Areas,E07000068,Brentwood,2,Female,14,60-64,26.25,25.7,26.8
+2018-2020,England,Local Areas,E07000069,Castle Point,1,Male,1,<1,79.44,78.77,80.12
+2018-2020,England,Local Areas,E07000069,Castle Point,1,Male,14,60-64,22.59,22.17,23.01
+2018-2020,England,Local Areas,E07000069,Castle Point,2,Female,1,<1,83.13,82.51,83.74
+2018-2020,England,Local Areas,E07000069,Castle Point,2,Female,14,60-64,25.25,24.83,25.67
+2018-2020,England,Local Areas,E07000070,Chelmsford,1,Male,1,<1,81.34,80.86,81.83
+2018-2020,England,Local Areas,E07000070,Chelmsford,1,Male,14,60-64,23.95,23.58,24.31
+2018-2020,England,Local Areas,E07000070,Chelmsford,2,Female,1,<1,84.58,84.15,85.02
+2018-2020,England,Local Areas,E07000070,Chelmsford,2,Female,14,60-64,26.28,25.93,26.63
+2018-2020,England,Local Areas,E07000071,Colchester,1,Male,1,<1,80.34,79.86,80.83
+2018-2020,England,Local Areas,E07000071,Colchester,1,Male,14,60-64,23.52,23.16,23.88
+2018-2020,England,Local Areas,E07000071,Colchester,2,Female,1,<1,83.56,83.12,84.01
+2018-2020,England,Local Areas,E07000071,Colchester,2,Female,14,60-64,25.74,25.39,26.08
+2018-2020,England,Local Areas,E07000072,Epping Forest,1,Male,1,<1,80.37,79.84,80.91
+2018-2020,England,Local Areas,E07000072,Epping Forest,1,Male,14,60-64,22.81,22.4,23.22
+2018-2020,England,Local Areas,E07000072,Epping Forest,2,Female,1,<1,83.99,83.5,84.48
+2018-2020,England,Local Areas,E07000072,Epping Forest,2,Female,14,60-64,25.6,25.22,25.98
+2018-2020,England,Local Areas,E07000073,Harlow,1,Male,1,<1,78.55,77.82,79.28
+2018-2020,England,Local Areas,E07000073,Harlow,1,Male,14,60-64,21.89,21.33,22.45
+2018-2020,England,Local Areas,E07000073,Harlow,2,Female,1,<1,82.49,81.82,83.16
+2018-2020,England,Local Areas,E07000073,Harlow,2,Female,14,60-64,24.88,24.36,25.4
+2018-2020,England,Local Areas,E07000074,Maldon,1,Male,1,<1,80.52,79.55,81.48
+2018-2020,England,Local Areas,E07000074,Maldon,1,Male,14,60-64,24.1,23.57,24.64
+2018-2020,England,Local Areas,E07000074,Maldon,2,Female,1,<1,83.86,83.22,84.51
+2018-2020,England,Local Areas,E07000074,Maldon,2,Female,14,60-64,25.37,24.87,25.87
+2018-2020,England,Local Areas,E07000075,Rochford,1,Male,1,<1,81.1,80.42,81.78
+2018-2020,England,Local Areas,E07000075,Rochford,1,Male,14,60-64,23.63,23.16,24.1
+2018-2020,England,Local Areas,E07000075,Rochford,2,Female,1,<1,84.18,83.45,84.9
+2018-2020,England,Local Areas,E07000075,Rochford,2,Female,14,60-64,26.26,25.78,26.74
+2018-2020,England,Local Areas,E07000076,Tendring,1,Male,1,<1,78.17,77.57,78.76
+2018-2020,England,Local Areas,E07000076,Tendring,1,Male,14,60-64,22.25,21.93,22.58
+2018-2020,England,Local Areas,E07000076,Tendring,2,Female,1,<1,82.02,81.49,82.55
+2018-2020,England,Local Areas,E07000076,Tendring,2,Female,14,60-64,24.94,24.63,25.24
+2018-2020,England,Local Areas,E07000077,Uttlesford,1,Male,1,<1,82.58,81.9,83.27
+2018-2020,England,Local Areas,E07000077,Uttlesford,1,Male,14,60-64,24.83,24.32,25.35
+2018-2020,England,Local Areas,E07000077,Uttlesford,2,Female,1,<1,85.35,84.68,86.01
+2018-2020,England,Local Areas,E07000077,Uttlesford,2,Female,14,60-64,27.06,26.55,27.58
+2018-2020,England,Local Areas,E07000078,Cheltenham,1,Male,1,<1,79.95,79.35,80.55
+2018-2020,England,Local Areas,E07000078,Cheltenham,1,Male,14,60-64,23,22.57,23.43
+2018-2020,England,Local Areas,E07000078,Cheltenham,2,Female,1,<1,83.43,82.88,83.97
+2018-2020,England,Local Areas,E07000078,Cheltenham,2,Female,14,60-64,25.59,25.18,26.01
+2018-2020,England,Local Areas,E07000079,Cotswold,1,Male,1,<1,82.17,81.52,82.81
+2018-2020,England,Local Areas,E07000079,Cotswold,1,Male,14,60-64,24.64,24.21,25.08
+2018-2020,England,Local Areas,E07000079,Cotswold,2,Female,1,<1,84.75,84.15,85.36
+2018-2020,England,Local Areas,E07000079,Cotswold,2,Female,14,60-64,26.63,26.2,27.06
+2018-2020,England,Local Areas,E07000080,Forest of Dean,1,Male,1,<1,80.63,79.92,81.33
+2018-2020,England,Local Areas,E07000080,Forest of Dean,1,Male,14,60-64,23.52,23.08,23.97
+2018-2020,England,Local Areas,E07000080,Forest of Dean,2,Female,1,<1,83.9,83.29,84.52
+2018-2020,England,Local Areas,E07000080,Forest of Dean,2,Female,14,60-64,25.67,25.22,26.12
+2018-2020,England,Local Areas,E07000081,Gloucester,1,Male,1,<1,78.1,77.49,78.71
+2018-2020,England,Local Areas,E07000081,Gloucester,1,Male,14,60-64,22.21,21.79,22.63
+2018-2020,England,Local Areas,E07000081,Gloucester,2,Female,1,<1,82.64,82.04,83.24
+2018-2020,England,Local Areas,E07000081,Gloucester,2,Female,14,60-64,25.5,25.06,25.94
+2018-2020,England,Local Areas,E07000082,Stroud,1,Male,1,<1,80.1,79.48,80.72
+2018-2020,England,Local Areas,E07000082,Stroud,1,Male,14,60-64,23.17,22.8,23.54
+2018-2020,England,Local Areas,E07000082,Stroud,2,Female,1,<1,83.66,83.13,84.19
+2018-2020,England,Local Areas,E07000082,Stroud,2,Female,14,60-64,25.85,25.5,26.19
+2018-2020,England,Local Areas,E07000083,Tewkesbury,1,Male,1,<1,80.72,80.09,81.35
+2018-2020,England,Local Areas,E07000083,Tewkesbury,1,Male,14,60-64,23.31,22.86,23.76
+2018-2020,England,Local Areas,E07000083,Tewkesbury,2,Female,1,<1,85.38,84.73,86.04
+2018-2020,England,Local Areas,E07000083,Tewkesbury,2,Female,14,60-64,27.45,26.96,27.94
+2018-2020,England,Local Areas,E07000084,Basingstoke and Deane,1,Male,1,<1,80.31,79.79,80.83
+2018-2020,England,Local Areas,E07000084,Basingstoke and Deane,1,Male,14,60-64,23.24,22.87,23.6
+2018-2020,England,Local Areas,E07000084,Basingstoke and Deane,2,Female,1,<1,83.81,83.34,84.28
+2018-2020,England,Local Areas,E07000084,Basingstoke and Deane,2,Female,14,60-64,25.87,25.52,26.22
+2018-2020,England,Local Areas,E07000085,East Hampshire,1,Male,1,<1,81.59,80.97,82.22
+2018-2020,England,Local Areas,E07000085,East Hampshire,1,Male,14,60-64,24.45,24.04,24.86
+2018-2020,England,Local Areas,E07000085,East Hampshire,2,Female,1,<1,84.88,84.3,85.45
+2018-2020,England,Local Areas,E07000085,East Hampshire,2,Female,14,60-64,26.8,26.4,27.19
+2018-2020,England,Local Areas,E07000086,Eastleigh,1,Male,1,<1,81.65,81.05,82.25
+2018-2020,England,Local Areas,E07000086,Eastleigh,1,Male,14,60-64,24.25,23.81,24.68
+2018-2020,England,Local Areas,E07000086,Eastleigh,2,Female,1,<1,84.78,84.22,85.34
+2018-2020,England,Local Areas,E07000086,Eastleigh,2,Female,14,60-64,26.69,26.26,27.11
+2018-2020,England,Local Areas,E07000087,Fareham,1,Male,1,<1,82.02,81.45,82.59
+2018-2020,England,Local Areas,E07000087,Fareham,1,Male,14,60-64,24.14,23.74,24.55
+2018-2020,England,Local Areas,E07000087,Fareham,2,Female,1,<1,84.36,83.74,84.98
+2018-2020,England,Local Areas,E07000087,Fareham,2,Female,14,60-64,26.81,26.41,27.21
+2018-2020,England,Local Areas,E07000088,Gosport,1,Male,1,<1,78.83,78.07,79.59
+2018-2020,England,Local Areas,E07000088,Gosport,1,Male,14,60-64,22.29,21.78,22.8
+2018-2020,England,Local Areas,E07000088,Gosport,2,Female,1,<1,82.45,81.75,83.15
+2018-2020,England,Local Areas,E07000088,Gosport,2,Female,14,60-64,24.86,24.34,25.37
+2018-2020,England,Local Areas,E07000089,Hart,1,Male,1,<1,82.98,82.3,83.67
+2018-2020,England,Local Areas,E07000089,Hart,1,Male,14,60-64,25.29,24.77,25.81
+2018-2020,England,Local Areas,E07000089,Hart,2,Female,1,<1,86.12,85.45,86.78
+2018-2020,England,Local Areas,E07000089,Hart,2,Female,14,60-64,27.81,27.28,28.34
+2018-2020,England,Local Areas,E07000090,Havant,1,Male,1,<1,80.44,79.83,81.04
+2018-2020,England,Local Areas,E07000090,Havant,1,Male,14,60-64,23.4,23.01,23.8
+2018-2020,England,Local Areas,E07000090,Havant,2,Female,1,<1,83.76,83.19,84.33
+2018-2020,England,Local Areas,E07000090,Havant,2,Female,14,60-64,26.05,25.65,26.44
+2018-2020,England,Local Areas,E07000091,New Forest,1,Male,1,<1,82.46,81.98,82.94
+2018-2020,England,Local Areas,E07000091,New Forest,1,Male,14,60-64,24.85,24.54,25.16
+2018-2020,England,Local Areas,E07000091,New Forest,2,Female,1,<1,85.48,85.03,85.93
+2018-2020,England,Local Areas,E07000091,New Forest,2,Female,14,60-64,27.41,27.11,27.71
+2018-2020,England,Local Areas,E07000092,Rushmoor,1,Male,1,<1,80.2,79.49,80.92
+2018-2020,England,Local Areas,E07000092,Rushmoor,1,Male,14,60-64,22.93,22.34,23.51
+2018-2020,England,Local Areas,E07000092,Rushmoor,2,Female,1,<1,83.56,82.9,84.22
+2018-2020,England,Local Areas,E07000092,Rushmoor,2,Female,14,60-64,25.55,25,26.09
+2018-2020,England,Local Areas,E07000093,Test Valley,1,Male,1,<1,81.67,81.1,82.24
+2018-2020,England,Local Areas,E07000093,Test Valley,1,Male,14,60-64,24.31,23.89,24.72
+2018-2020,England,Local Areas,E07000093,Test Valley,2,Female,1,<1,84.58,84.04,85.13
+2018-2020,England,Local Areas,E07000093,Test Valley,2,Female,14,60-64,26.47,26.07,26.87
+2018-2020,England,Local Areas,E07000094,Winchester,1,Male,1,<1,81.92,81.29,82.55
+2018-2020,England,Local Areas,E07000094,Winchester,1,Male,14,60-64,24.68,24.26,25.09
+2018-2020,England,Local Areas,E07000094,Winchester,2,Female,1,<1,85.74,85.19,86.3
+2018-2020,England,Local Areas,E07000094,Winchester,2,Female,14,60-64,27.27,26.85,27.69
+2018-2020,England,Local Areas,E07000095,Broxbourne,1,Male,1,<1,79.58,78.87,80.29
+2018-2020,England,Local Areas,E07000095,Broxbourne,1,Male,14,60-64,23.13,22.62,23.64
+2018-2020,England,Local Areas,E07000095,Broxbourne,2,Female,1,<1,84,83.36,84.63
+2018-2020,England,Local Areas,E07000095,Broxbourne,2,Female,14,60-64,25.95,25.45,26.44
+2018-2020,England,Local Areas,E07000096,Dacorum,1,Male,1,<1,81.11,80.6,81.62
+2018-2020,England,Local Areas,E07000096,Dacorum,1,Male,14,60-64,23.47,23.06,23.87
+2018-2020,England,Local Areas,E07000096,Dacorum,2,Female,1,<1,83.95,83.44,84.46
+2018-2020,England,Local Areas,E07000096,Dacorum,2,Female,14,60-64,26.11,25.72,26.5
+2018-2020,England,Local Areas,E07000098,Hertsmere,1,Male,1,<1,79.45,78.8,80.1
+2018-2020,England,Local Areas,E07000098,Hertsmere,1,Male,14,60-64,22.39,21.93,22.86
+2018-2020,England,Local Areas,E07000098,Hertsmere,2,Female,1,<1,84.02,83.41,84.63
+2018-2020,England,Local Areas,E07000098,Hertsmere,2,Female,14,60-64,26,25.54,26.46
+2018-2020,England,Local Areas,E07000099,North Hertfordshire,1,Male,1,<1,81.05,80.51,81.6
+2018-2020,England,Local Areas,E07000099,North Hertfordshire,1,Male,14,60-64,23.5,23.1,23.89
+2018-2020,England,Local Areas,E07000099,North Hertfordshire,2,Female,1,<1,84.21,83.71,84.72
+2018-2020,England,Local Areas,E07000099,North Hertfordshire,2,Female,14,60-64,25.97,25.59,26.36
+2018-2020,England,Local Areas,E07000102,Three Rivers,1,Male,1,<1,81.21,80.49,81.92
+2018-2020,England,Local Areas,E07000102,Three Rivers,1,Male,14,60-64,24.03,23.48,24.57
+2018-2020,England,Local Areas,E07000102,Three Rivers,2,Female,1,<1,84.31,83.67,84.96
+2018-2020,England,Local Areas,E07000102,Three Rivers,2,Female,14,60-64,26.14,25.66,26.62
+2018-2020,England,Local Areas,E07000103,Watford,1,Male,1,<1,79.28,78.54,80.01
+2018-2020,England,Local Areas,E07000103,Watford,1,Male,14,60-64,22.79,22.23,23.35
+2018-2020,England,Local Areas,E07000103,Watford,2,Female,1,<1,82.69,82.05,83.33
+2018-2020,England,Local Areas,E07000103,Watford,2,Female,14,60-64,24.65,24.14,25.16
+2018-2020,England,Local Areas,E07000105,Ashford,1,Male,1,<1,79.61,79.01,80.2
+2018-2020,England,Local Areas,E07000105,Ashford,1,Male,14,60-64,22.96,22.55,23.36
+2018-2020,England,Local Areas,E07000105,Ashford,2,Female,1,<1,83.68,83.13,84.23
+2018-2020,England,Local Areas,E07000105,Ashford,2,Female,14,60-64,25.85,25.44,26.26
+2018-2020,England,Local Areas,E07000106,Canterbury,1,Male,1,<1,79.44,78.9,79.97
+2018-2020,England,Local Areas,E07000106,Canterbury,1,Male,14,60-64,22.67,22.31,23.03
+2018-2020,England,Local Areas,E07000106,Canterbury,2,Female,1,<1,83.42,82.89,83.96
+2018-2020,England,Local Areas,E07000106,Canterbury,2,Female,14,60-64,25.94,25.58,26.29
+2018-2020,England,Local Areas,E07000107,Dartford,1,Male,1,<1,79.02,78.36,79.67
+2018-2020,England,Local Areas,E07000107,Dartford,1,Male,14,60-64,22.1,21.61,22.59
+2018-2020,England,Local Areas,E07000107,Dartford,2,Female,1,<1,82.4,81.8,83.01
+2018-2020,England,Local Areas,E07000107,Dartford,2,Female,14,60-64,24.47,23.98,24.95
+2018-2020,England,Local Areas,E07000108,Dover,1,Male,1,<1,79.46,78.83,80.09
+2018-2020,England,Local Areas,E07000108,Dover,1,Male,14,60-64,22.93,22.53,23.33
+2018-2020,England,Local Areas,E07000108,Dover,2,Female,1,<1,82.76,82.18,83.35
+2018-2020,England,Local Areas,E07000108,Dover,2,Female,14,60-64,25.31,24.92,25.71
+2018-2020,England,Local Areas,E07000109,Gravesham,1,Male,1,<1,79.19,78.53,79.85
+2018-2020,England,Local Areas,E07000109,Gravesham,1,Male,14,60-64,22.65,22.17,23.13
+2018-2020,England,Local Areas,E07000109,Gravesham,2,Female,1,<1,83.21,82.62,83.79
+2018-2020,England,Local Areas,E07000109,Gravesham,2,Female,14,60-64,25.1,24.62,25.57
+2018-2020,England,Local Areas,E07000110,Maidstone,1,Male,1,<1,80.23,79.73,80.74
+2018-2020,England,Local Areas,E07000110,Maidstone,1,Male,14,60-64,23.34,22.98,23.7
+2018-2020,England,Local Areas,E07000110,Maidstone,2,Female,1,<1,83.3,82.83,83.77
+2018-2020,England,Local Areas,E07000110,Maidstone,2,Female,14,60-64,25.51,25.17,25.86
+2018-2020,England,Local Areas,E07000111,Sevenoaks,1,Male,1,<1,82.12,81.55,82.69
+2018-2020,England,Local Areas,E07000111,Sevenoaks,1,Male,14,60-64,24.18,23.75,24.61
+2018-2020,England,Local Areas,E07000111,Sevenoaks,2,Female,1,<1,84.17,83.61,84.73
+2018-2020,England,Local Areas,E07000111,Sevenoaks,2,Female,14,60-64,26.32,25.92,26.73
+2018-2020,England,Local Areas,E07000112,Folkestone and Hythe,1,Male,1,<1,78.83,78.15,79.51
+2018-2020,England,Local Areas,E07000112,Folkestone and Hythe,1,Male,14,60-64,22.6,22.18,23.02
+2018-2020,England,Local Areas,E07000112,Folkestone and Hythe,2,Female,1,<1,82.86,82.26,83.47
+2018-2020,England,Local Areas,E07000112,Folkestone and Hythe,2,Female,14,60-64,25.48,25.09,25.88
+2018-2020,England,Local Areas,E07000113,Swale,1,Male,1,<1,78.59,78.04,79.14
+2018-2020,England,Local Areas,E07000113,Swale,1,Male,14,60-64,22.1,21.74,22.46
+2018-2020,England,Local Areas,E07000113,Swale,2,Female,1,<1,82.43,81.9,82.96
+2018-2020,England,Local Areas,E07000113,Swale,2,Female,14,60-64,25,24.61,25.39
+2018-2020,England,Local Areas,E07000114,Thanet,1,Male,1,<1,77.57,77.02,78.13
+2018-2020,England,Local Areas,E07000114,Thanet,1,Male,14,60-64,21.38,21.04,21.72
+2018-2020,England,Local Areas,E07000114,Thanet,2,Female,1,<1,82.12,81.58,82.66
+2018-2020,England,Local Areas,E07000114,Thanet,2,Female,14,60-64,24.96,24.61,25.3
+2018-2020,England,Local Areas,E07000115,Tonbridge and Malling,1,Male,1,<1,80.4,79.82,80.98
+2018-2020,England,Local Areas,E07000115,Tonbridge and Malling,1,Male,14,60-64,23.17,22.77,23.57
+2018-2020,England,Local Areas,E07000115,Tonbridge and Malling,2,Female,1,<1,84.41,83.86,84.96
+2018-2020,England,Local Areas,E07000115,Tonbridge and Malling,2,Female,14,60-64,26.3,25.86,26.73
+2018-2020,England,Local Areas,E07000116,Tunbridge Wells,1,Male,1,<1,81.33,80.69,81.98
+2018-2020,England,Local Areas,E07000116,Tunbridge Wells,1,Male,14,60-64,24.16,23.68,24.64
+2018-2020,England,Local Areas,E07000116,Tunbridge Wells,2,Female,1,<1,84.51,83.97,85.04
+2018-2020,England,Local Areas,E07000116,Tunbridge Wells,2,Female,14,60-64,26.23,25.81,26.66
+2018-2020,England,Local Areas,E07000117,Burnley,1,Male,1,<1,75.67,74.9,76.43
+2018-2020,England,Local Areas,E07000117,Burnley,1,Male,14,60-64,20.65,20.18,21.13
+2018-2020,England,Local Areas,E07000117,Burnley,2,Female,1,<1,80.29,79.57,81.01
+2018-2020,England,Local Areas,E07000117,Burnley,2,Female,14,60-64,23.48,22.98,23.97
+2018-2020,England,Local Areas,E07000118,Chorley,1,Male,1,<1,78.87,78.26,79.47
+2018-2020,England,Local Areas,E07000118,Chorley,1,Male,14,60-64,22.32,21.92,22.72
+2018-2020,England,Local Areas,E07000118,Chorley,2,Female,1,<1,81.93,81.37,82.48
+2018-2020,England,Local Areas,E07000118,Chorley,2,Female,14,60-64,24.21,23.83,24.6
+2018-2020,England,Local Areas,E07000119,Fylde,1,Male,1,<1,79.88,79.21,80.56
+2018-2020,England,Local Areas,E07000119,Fylde,1,Male,14,60-64,23.06,22.63,23.49
+2018-2020,England,Local Areas,E07000119,Fylde,2,Female,1,<1,82.9,82.2,83.6
+2018-2020,England,Local Areas,E07000119,Fylde,2,Female,14,60-64,25.19,24.77,25.6
+2018-2020,England,Local Areas,E07000120,Hyndburn,1,Male,1,<1,76.61,75.86,77.36
+2018-2020,England,Local Areas,E07000120,Hyndburn,1,Male,14,60-64,21.01,20.5,21.51
+2018-2020,England,Local Areas,E07000120,Hyndburn,2,Female,1,<1,80.76,80.05,81.47
+2018-2020,England,Local Areas,E07000120,Hyndburn,2,Female,14,60-64,23.78,23.29,24.28
+2018-2020,England,Local Areas,E07000121,Lancaster,1,Male,1,<1,78.5,77.92,79.08
+2018-2020,England,Local Areas,E07000121,Lancaster,1,Male,14,60-64,22.18,21.8,22.57
+2018-2020,England,Local Areas,E07000121,Lancaster,2,Female,1,<1,82.19,81.62,82.77
+2018-2020,England,Local Areas,E07000121,Lancaster,2,Female,14,60-64,24.95,24.55,25.35
+2018-2020,England,Local Areas,E07000122,Pendle,1,Male,1,<1,78.02,77.3,78.73
+2018-2020,England,Local Areas,E07000122,Pendle,1,Male,14,60-64,22.09,21.62,22.56
+2018-2020,England,Local Areas,E07000122,Pendle,2,Female,1,<1,81.51,80.83,82.2
+2018-2020,England,Local Areas,E07000122,Pendle,2,Female,14,60-64,24.29,23.81,24.78
+2018-2020,England,Local Areas,E07000123,Preston,1,Male,1,<1,76.74,76.16,77.32
+2018-2020,England,Local Areas,E07000123,Preston,1,Male,14,60-64,20.92,20.5,21.34
+2018-2020,England,Local Areas,E07000123,Preston,2,Female,1,<1,80.47,79.9,81.03
+2018-2020,England,Local Areas,E07000123,Preston,2,Female,14,60-64,23.34,22.92,23.76
+2018-2020,England,Local Areas,E07000124,Ribble Valley,1,Male,1,<1,80.98,80.12,81.84
+2018-2020,England,Local Areas,E07000124,Ribble Valley,1,Male,14,60-64,23.86,23.3,24.43
+2018-2020,England,Local Areas,E07000124,Ribble Valley,2,Female,1,<1,83.79,82.96,84.62
+2018-2020,England,Local Areas,E07000124,Ribble Valley,2,Female,14,60-64,26.16,25.62,26.71
+2018-2020,England,Local Areas,E07000125,Rossendale,1,Male,1,<1,77.93,77.08,78.78
+2018-2020,England,Local Areas,E07000125,Rossendale,1,Male,14,60-64,21.97,21.41,22.53
+2018-2020,England,Local Areas,E07000125,Rossendale,2,Female,1,<1,81.15,80.39,81.9
+2018-2020,England,Local Areas,E07000125,Rossendale,2,Female,14,60-64,23.64,23.11,24.17
+2018-2020,England,Local Areas,E07000126,South Ribble,1,Male,1,<1,79.9,79.27,80.53
+2018-2020,England,Local Areas,E07000126,South Ribble,1,Male,14,60-64,23.08,22.62,23.53
+2018-2020,England,Local Areas,E07000126,South Ribble,2,Female,1,<1,83.7,83.09,84.31
+2018-2020,England,Local Areas,E07000126,South Ribble,2,Female,14,60-64,25.94,25.49,26.39
+2018-2020,England,Local Areas,E07000127,West Lancashire,1,Male,1,<1,78.6,77.96,79.24
+2018-2020,England,Local Areas,E07000127,West Lancashire,1,Male,14,60-64,22.08,21.68,22.49
+2018-2020,England,Local Areas,E07000127,West Lancashire,2,Female,1,<1,82.57,82,83.14
+2018-2020,England,Local Areas,E07000127,West Lancashire,2,Female,14,60-64,24.9,24.5,25.29
+2018-2020,England,Local Areas,E07000128,Wyre,1,Male,1,<1,77.84,77.2,78.48
+2018-2020,England,Local Areas,E07000128,Wyre,1,Male,14,60-64,21.96,21.59,22.34
+2018-2020,England,Local Areas,E07000128,Wyre,2,Female,1,<1,82.27,81.63,82.91
+2018-2020,England,Local Areas,E07000128,Wyre,2,Female,14,60-64,25.18,24.8,25.57
+2018-2020,England,Local Areas,E07000129,Blaby,1,Male,1,<1,81.19,80.58,81.8
+2018-2020,England,Local Areas,E07000129,Blaby,1,Male,14,60-64,23.64,23.2,24.07
+2018-2020,England,Local Areas,E07000129,Blaby,2,Female,1,<1,85.1,84.52,85.69
+2018-2020,England,Local Areas,E07000129,Blaby,2,Female,14,60-64,26.65,26.16,27.14
+2018-2020,England,Local Areas,E07000130,Charnwood,1,Male,1,<1,80.21,79.73,80.69
+2018-2020,England,Local Areas,E07000130,Charnwood,1,Male,14,60-64,22.99,22.64,23.33
+2018-2020,England,Local Areas,E07000130,Charnwood,2,Female,1,<1,83.64,83.13,84.15
+2018-2020,England,Local Areas,E07000130,Charnwood,2,Female,14,60-64,26.02,25.65,26.39
+2018-2020,England,Local Areas,E07000131,Harborough,1,Male,1,<1,81.16,80.47,81.85
+2018-2020,England,Local Areas,E07000131,Harborough,1,Male,14,60-64,23.8,23.33,24.27
+2018-2020,England,Local Areas,E07000131,Harborough,2,Female,1,<1,84.37,83.69,85.06
+2018-2020,England,Local Areas,E07000131,Harborough,2,Female,14,60-64,26.51,26.05,26.97
+2018-2020,England,Local Areas,E07000132,Hinckley and Bosworth,1,Male,1,<1,80.39,79.81,80.96
+2018-2020,England,Local Areas,E07000132,Hinckley and Bosworth,1,Male,14,60-64,23.1,22.69,23.5
+2018-2020,England,Local Areas,E07000132,Hinckley and Bosworth,2,Female,1,<1,83.62,83.02,84.23
+2018-2020,England,Local Areas,E07000132,Hinckley and Bosworth,2,Female,14,60-64,26.01,25.59,26.43
+2018-2020,England,Local Areas,E07000133,Melton,1,Male,1,<1,80.59,79.68,81.51
+2018-2020,England,Local Areas,E07000133,Melton,1,Male,14,60-64,23.35,22.76,23.95
+2018-2020,England,Local Areas,E07000133,Melton,2,Female,1,<1,84.2,83.32,85.09
+2018-2020,England,Local Areas,E07000133,Melton,2,Female,14,60-64,26.38,25.76,27
+2018-2020,England,Local Areas,E07000134,North West Leicestershire,1,Male,1,<1,79.72,79.09,80.35
+2018-2020,England,Local Areas,E07000134,North West Leicestershire,1,Male,14,60-64,22.71,22.29,23.12
+2018-2020,England,Local Areas,E07000134,North West Leicestershire,2,Female,1,<1,83.45,82.82,84.09
+2018-2020,England,Local Areas,E07000134,North West Leicestershire,2,Female,14,60-64,25.78,25.29,26.27
+2018-2020,England,Local Areas,E07000135,Oadby and Wigston,1,Male,1,<1,79.51,78.55,80.47
+2018-2020,England,Local Areas,E07000135,Oadby and Wigston,1,Male,14,60-64,22.95,22.34,23.56
+2018-2020,England,Local Areas,E07000135,Oadby and Wigston,2,Female,1,<1,84.55,83.78,85.33
+2018-2020,England,Local Areas,E07000135,Oadby and Wigston,2,Female,14,60-64,26.18,25.57,26.8
+2018-2020,England,Local Areas,E07000136,Boston,1,Male,1,<1,77.39,76.6,78.18
+2018-2020,England,Local Areas,E07000136,Boston,1,Male,14,60-64,21.57,21.06,22.08
+2018-2020,England,Local Areas,E07000136,Boston,2,Female,1,<1,82.36,81.63,83.09
+2018-2020,England,Local Areas,E07000136,Boston,2,Female,14,60-64,24.8,24.28,25.31
+2018-2020,England,Local Areas,E07000137,East Lindsey,1,Male,1,<1,78.22,77.65,78.8
+2018-2020,England,Local Areas,E07000137,East Lindsey,1,Male,14,60-64,22.09,21.78,22.4
+2018-2020,England,Local Areas,E07000137,East Lindsey,2,Female,1,<1,81.62,81.08,82.15
+2018-2020,England,Local Areas,E07000137,East Lindsey,2,Female,14,60-64,24.36,24.05,24.68
+2018-2020,England,Local Areas,E07000138,Lincoln,1,Male,1,<1,76.05,75.28,76.82
+2018-2020,England,Local Areas,E07000138,Lincoln,1,Male,14,60-64,21.14,20.63,21.65
+2018-2020,England,Local Areas,E07000138,Lincoln,2,Female,1,<1,80.87,80.15,81.58
+2018-2020,England,Local Areas,E07000138,Lincoln,2,Female,14,60-64,23.93,23.41,24.45
+2018-2020,England,Local Areas,E07000139,North Kesteven,1,Male,1,<1,80.22,79.65,80.79
+2018-2020,England,Local Areas,E07000139,North Kesteven,1,Male,14,60-64,22.91,22.53,23.3
+2018-2020,England,Local Areas,E07000139,North Kesteven,2,Female,1,<1,83.24,82.71,83.78
+2018-2020,England,Local Areas,E07000139,North Kesteven,2,Female,14,60-64,25.21,24.83,25.59
+2018-2020,England,Local Areas,E07000140,South Holland,1,Male,1,<1,80.01,79.33,80.69
+2018-2020,England,Local Areas,E07000140,South Holland,1,Male,14,60-64,23.24,22.82,23.66
+2018-2020,England,Local Areas,E07000140,South Holland,2,Female,1,<1,83.39,82.79,83.98
+2018-2020,England,Local Areas,E07000140,South Holland,2,Female,14,60-64,25.39,24.95,25.82
+2018-2020,England,Local Areas,E07000141,South Kesteven,1,Male,1,<1,80.58,80.03,81.13
+2018-2020,England,Local Areas,E07000141,South Kesteven,1,Male,14,60-64,23.55,23.19,23.91
+2018-2020,England,Local Areas,E07000141,South Kesteven,2,Female,1,<1,84.15,83.68,84.61
+2018-2020,England,Local Areas,E07000141,South Kesteven,2,Female,14,60-64,26.01,25.66,26.37
+2018-2020,England,Local Areas,E07000142,West Lindsey,1,Male,1,<1,79.53,78.84,80.22
+2018-2020,England,Local Areas,E07000142,West Lindsey,1,Male,14,60-64,22.89,22.49,23.29
+2018-2020,England,Local Areas,E07000142,West Lindsey,2,Female,1,<1,83.44,82.82,84.06
+2018-2020,England,Local Areas,E07000142,West Lindsey,2,Female,14,60-64,25.6,25.18,26.02
+2018-2020,England,Local Areas,E07000143,Breckland,1,Male,1,<1,79.76,79.19,80.32
+2018-2020,England,Local Areas,E07000143,Breckland,1,Male,14,60-64,23.09,22.75,23.42
+2018-2020,England,Local Areas,E07000143,Breckland,2,Female,1,<1,84.04,83.53,84.54
+2018-2020,England,Local Areas,E07000143,Breckland,2,Female,14,60-64,25.99,25.63,26.35
+2018-2020,England,Local Areas,E07000144,Broadland,1,Male,1,<1,81.42,80.88,81.96
+2018-2020,England,Local Areas,E07000144,Broadland,1,Male,14,60-64,23.75,23.4,24.11
+2018-2020,England,Local Areas,E07000144,Broadland,2,Female,1,<1,85.01,84.51,85.5
+2018-2020,England,Local Areas,E07000144,Broadland,2,Female,14,60-64,26.63,26.28,26.99
+2018-2020,England,Local Areas,E07000145,Great Yarmouth,1,Male,1,<1,78.32,77.64,79
+2018-2020,England,Local Areas,E07000145,Great Yarmouth,1,Male,14,60-64,22.14,21.72,22.56
+2018-2020,England,Local Areas,E07000145,Great Yarmouth,2,Female,1,<1,82.8,82.19,83.42
+2018-2020,England,Local Areas,E07000145,Great Yarmouth,2,Female,14,60-64,25.15,24.69,25.6
+2018-2020,England,Local Areas,E07000146,King's Lynn and West Norfolk,1,Male,1,<1,79.29,78.7,79.88
+2018-2020,England,Local Areas,E07000146,King's Lynn and West Norfolk,1,Male,14,60-64,23.26,22.93,23.6
+2018-2020,England,Local Areas,E07000146,King's Lynn and West Norfolk,2,Female,1,<1,82.65,82.1,83.21
+2018-2020,England,Local Areas,E07000146,King's Lynn and West Norfolk,2,Female,14,60-64,25.52,25.19,25.85
+2018-2020,England,Local Areas,E07000147,North Norfolk,1,Male,1,<1,80.63,79.97,81.3
+2018-2020,England,Local Areas,E07000147,North Norfolk,1,Male,14,60-64,24.01,23.65,24.36
+2018-2020,England,Local Areas,E07000147,North Norfolk,2,Female,1,<1,84.77,84.15,85.4
+2018-2020,England,Local Areas,E07000147,North Norfolk,2,Female,14,60-64,26.87,26.49,27.24
+2018-2020,England,Local Areas,E07000148,Norwich,1,Male,1,<1,78,77.38,78.61
+2018-2020,England,Local Areas,E07000148,Norwich,1,Male,14,60-64,22.08,21.6,22.57
+2018-2020,England,Local Areas,E07000148,Norwich,2,Female,1,<1,82.76,82.16,83.35
+2018-2020,England,Local Areas,E07000148,Norwich,2,Female,14,60-64,25.5,25.05,25.95
+2018-2020,England,Local Areas,E07000149,South Norfolk,1,Male,1,<1,81.67,81.1,82.24
+2018-2020,England,Local Areas,E07000149,South Norfolk,1,Male,14,60-64,24.51,24.15,24.87
+2018-2020,England,Local Areas,E07000149,South Norfolk,2,Female,1,<1,84.76,84.23,85.3
+2018-2020,England,Local Areas,E07000149,South Norfolk,2,Female,14,60-64,26.8,26.44,27.16
+2018-2020,England,Local Areas,E07000163,Craven,1,Male,1,<1,80.79,79.83,81.74
+2018-2020,England,Local Areas,E07000163,Craven,1,Male,14,60-64,23.98,23.45,24.52
+2018-2020,England,Local Areas,E07000163,Craven,2,Female,1,<1,84.97,84.2,85.75
+2018-2020,England,Local Areas,E07000163,Craven,2,Female,14,60-64,26.68,26.14,27.22
+2018-2020,England,Local Areas,E07000164,Hambleton,1,Male,1,<1,81.29,80.56,82.03
+2018-2020,England,Local Areas,E07000164,Hambleton,1,Male,14,60-64,24.26,23.83,24.69
+2018-2020,England,Local Areas,E07000164,Hambleton,2,Female,1,<1,84.75,84.16,85.34
+2018-2020,England,Local Areas,E07000164,Hambleton,2,Female,14,60-64,26.61,26.17,27.06
+2018-2020,England,Local Areas,E07000165,Harrogate,1,Male,1,<1,80.86,80.32,81.4
+2018-2020,England,Local Areas,E07000165,Harrogate,1,Male,14,60-64,23.77,23.42,24.13
+2018-2020,England,Local Areas,E07000165,Harrogate,2,Female,1,<1,85.06,84.6,85.51
+2018-2020,England,Local Areas,E07000165,Harrogate,2,Female,14,60-64,26.66,26.3,27.01
+2018-2020,England,Local Areas,E07000166,Richmondshire,1,Male,1,<1,81.33,80.53,82.13
+2018-2020,England,Local Areas,E07000166,Richmondshire,1,Male,14,60-64,23.48,22.87,24.08
+2018-2020,England,Local Areas,E07000166,Richmondshire,2,Female,1,<1,83.28,82.42,84.14
+2018-2020,England,Local Areas,E07000166,Richmondshire,2,Female,14,60-64,25.64,25.06,26.22
+2018-2020,England,Local Areas,E07000167,Ryedale,1,Male,1,<1,81,80.05,81.94
+2018-2020,England,Local Areas,E07000167,Ryedale,1,Male,14,60-64,24.27,23.71,24.84
+2018-2020,England,Local Areas,E07000167,Ryedale,2,Female,1,<1,85.63,84.86,86.4
+2018-2020,England,Local Areas,E07000167,Ryedale,2,Female,14,60-64,27.46,26.85,28.07
+2018-2020,England,Local Areas,E07000168,Scarborough,1,Male,1,<1,77.86,77.14,78.58
+2018-2020,England,Local Areas,E07000168,Scarborough,1,Male,14,60-64,22.8,22.43,23.18
+2018-2020,England,Local Areas,E07000168,Scarborough,2,Female,1,<1,82.69,82.08,83.31
+2018-2020,England,Local Areas,E07000168,Scarborough,2,Female,14,60-64,25.49,25.12,25.86
+2018-2020,England,Local Areas,E07000169,Selby,1,Male,1,<1,80.22,79.53,80.9
+2018-2020,England,Local Areas,E07000169,Selby,1,Male,14,60-64,22.93,22.47,23.39
+2018-2020,England,Local Areas,E07000169,Selby,2,Female,1,<1,83.89,83.22,84.55
+2018-2020,England,Local Areas,E07000169,Selby,2,Female,14,60-64,25.96,25.46,26.46
+2018-2020,England,Local Areas,E07000170,Ashfield,1,Male,1,<1,78.22,77.64,78.8
+2018-2020,England,Local Areas,E07000170,Ashfield,1,Male,14,60-64,21.56,21.17,21.95
+2018-2020,England,Local Areas,E07000170,Ashfield,2,Female,1,<1,81.5,80.92,82.07
+2018-2020,England,Local Areas,E07000170,Ashfield,2,Female,14,60-64,24.21,23.81,24.62
+2018-2020,England,Local Areas,E07000171,Bassetlaw,1,Male,1,<1,78.91,78.26,79.56
+2018-2020,England,Local Areas,E07000171,Bassetlaw,1,Male,14,60-64,22.72,22.3,23.13
+2018-2020,England,Local Areas,E07000171,Bassetlaw,2,Female,1,<1,82.03,81.44,82.62
+2018-2020,England,Local Areas,E07000171,Bassetlaw,2,Female,14,60-64,24.51,24.11,24.9
+2018-2020,England,Local Areas,E07000172,Broxtowe,1,Male,1,<1,80.12,79.53,80.72
+2018-2020,England,Local Areas,E07000172,Broxtowe,1,Male,14,60-64,22.91,22.5,23.31
+2018-2020,England,Local Areas,E07000172,Broxtowe,2,Female,1,<1,82.64,82.06,83.22
+2018-2020,England,Local Areas,E07000172,Broxtowe,2,Female,14,60-64,25.01,24.61,25.42
+2018-2020,England,Local Areas,E07000173,Gedling,1,Male,1,<1,80.09,79.52,80.67
+2018-2020,England,Local Areas,E07000173,Gedling,1,Male,14,60-64,22.83,22.44,23.22
+2018-2020,England,Local Areas,E07000173,Gedling,2,Female,1,<1,83.13,82.61,83.65
+2018-2020,England,Local Areas,E07000173,Gedling,2,Female,14,60-64,24.98,24.61,25.35
+2018-2020,England,Local Areas,E07000174,Mansfield,1,Male,1,<1,77.99,77.37,78.62
+2018-2020,England,Local Areas,E07000174,Mansfield,1,Male,14,60-64,21.52,21.11,21.93
+2018-2020,England,Local Areas,E07000174,Mansfield,2,Female,1,<1,81.46,80.86,82.07
+2018-2020,England,Local Areas,E07000174,Mansfield,2,Female,14,60-64,23.91,23.49,24.33
+2018-2020,England,Local Areas,E07000175,Newark and Sherwood,1,Male,1,<1,79.75,79.13,80.37
+2018-2020,England,Local Areas,E07000175,Newark and Sherwood,1,Male,14,60-64,23.13,22.74,23.52
+2018-2020,England,Local Areas,E07000175,Newark and Sherwood,2,Female,1,<1,82.72,82.13,83.3
+2018-2020,England,Local Areas,E07000175,Newark and Sherwood,2,Female,14,60-64,25.24,24.85,25.63
+2018-2020,England,Local Areas,E07000176,Rushcliffe,1,Male,1,<1,81.82,81.21,82.42
+2018-2020,England,Local Areas,E07000176,Rushcliffe,1,Male,14,60-64,24.26,23.82,24.69
+2018-2020,England,Local Areas,E07000176,Rushcliffe,2,Female,1,<1,84.92,84.37,85.48
+2018-2020,England,Local Areas,E07000176,Rushcliffe,2,Female,14,60-64,26.58,26.15,27
+2018-2020,England,Local Areas,E07000177,Cherwell,1,Male,1,<1,81.16,80.65,81.68
+2018-2020,England,Local Areas,E07000177,Cherwell,1,Male,14,60-64,23.56,23.16,23.97
+2018-2020,England,Local Areas,E07000177,Cherwell,2,Female,1,<1,83.85,83.34,84.35
+2018-2020,England,Local Areas,E07000177,Cherwell,2,Female,14,60-64,26.12,25.74,26.5
+2018-2020,England,Local Areas,E07000178,Oxford,1,Male,1,<1,80.06,79.41,80.71
+2018-2020,England,Local Areas,E07000178,Oxford,1,Male,14,60-64,23.61,23.1,24.12
+2018-2020,England,Local Areas,E07000178,Oxford,2,Female,1,<1,84.5,83.9,85.11
+2018-2020,England,Local Areas,E07000178,Oxford,2,Female,14,60-64,26.65,26.15,27.14
+2018-2020,England,Local Areas,E07000179,South Oxfordshire,1,Male,1,<1,82.15,81.62,82.67
+2018-2020,England,Local Areas,E07000179,South Oxfordshire,1,Male,14,60-64,24.53,24.14,24.92
+2018-2020,England,Local Areas,E07000179,South Oxfordshire,2,Female,1,<1,85.51,85,86.01
+2018-2020,England,Local Areas,E07000179,South Oxfordshire,2,Female,14,60-64,27.09,26.7,27.48
+2018-2020,England,Local Areas,E07000180,Vale of White Horse,1,Male,1,<1,82.31,81.79,82.84
+2018-2020,England,Local Areas,E07000180,Vale of White Horse,1,Male,14,60-64,24.35,23.94,24.75
+2018-2020,England,Local Areas,E07000180,Vale of White Horse,2,Female,1,<1,85.27,84.72,85.81
+2018-2020,England,Local Areas,E07000180,Vale of White Horse,2,Female,14,60-64,27.16,26.75,27.58
+2018-2020,England,Local Areas,E07000181,West Oxfordshire,1,Male,1,<1,81.49,80.87,82.1
+2018-2020,England,Local Areas,E07000181,West Oxfordshire,1,Male,14,60-64,24.17,23.73,24.61
+2018-2020,England,Local Areas,E07000181,West Oxfordshire,2,Female,1,<1,85.16,84.63,85.7
+2018-2020,England,Local Areas,E07000181,West Oxfordshire,2,Female,14,60-64,26.84,26.42,27.25
+2018-2020,England,Local Areas,E07000187,Mendip,1,Male,1,<1,80.82,80.2,81.44
+2018-2020,England,Local Areas,E07000187,Mendip,1,Male,14,60-64,23.7,23.29,24.11
+2018-2020,England,Local Areas,E07000187,Mendip,2,Female,1,<1,84.3,83.73,84.88
+2018-2020,England,Local Areas,E07000187,Mendip,2,Female,14,60-64,26.58,26.18,26.99
+2018-2020,England,Local Areas,E07000188,Sedgemoor,1,Male,1,<1,79.69,79.05,80.33
+2018-2020,England,Local Areas,E07000188,Sedgemoor,1,Male,14,60-64,23.56,23.19,23.94
+2018-2020,England,Local Areas,E07000188,Sedgemoor,2,Female,1,<1,83.7,83.13,84.26
+2018-2020,England,Local Areas,E07000188,Sedgemoor,2,Female,14,60-64,25.88,25.49,26.27
+2018-2020,England,Local Areas,E07000189,South Somerset,1,Male,1,<1,80.53,80.01,81.04
+2018-2020,England,Local Areas,E07000189,South Somerset,1,Male,14,60-64,23.9,23.58,24.21
+2018-2020,England,Local Areas,E07000189,South Somerset,2,Female,1,<1,84.85,84.37,85.34
+2018-2020,England,Local Areas,E07000189,South Somerset,2,Female,14,60-64,26.76,26.44,27.09
+2018-2020,England,Local Areas,E07000192,Cannock Chase,1,Male,1,<1,78.42,77.71,79.12
+2018-2020,England,Local Areas,E07000192,Cannock Chase,1,Male,14,60-64,22.01,21.54,22.48
+2018-2020,England,Local Areas,E07000192,Cannock Chase,2,Female,1,<1,82.57,81.91,83.23
+2018-2020,England,Local Areas,E07000192,Cannock Chase,2,Female,14,60-64,25.12,24.63,25.61
+2018-2020,England,Local Areas,E07000193,East Staffordshire,1,Male,1,<1,78.19,77.55,78.83
+2018-2020,England,Local Areas,E07000193,East Staffordshire,1,Male,14,60-64,22.26,21.85,22.67
+2018-2020,England,Local Areas,E07000193,East Staffordshire,2,Female,1,<1,82.52,81.92,83.13
+2018-2020,England,Local Areas,E07000193,East Staffordshire,2,Female,14,60-64,25.13,24.69,25.56
+2018-2020,England,Local Areas,E07000194,Lichfield,1,Male,1,<1,80.3,79.68,80.92
+2018-2020,England,Local Areas,E07000194,Lichfield,1,Male,14,60-64,23.18,22.77,23.59
+2018-2020,England,Local Areas,E07000194,Lichfield,2,Female,1,<1,83.46,82.87,84.06
+2018-2020,England,Local Areas,E07000194,Lichfield,2,Female,14,60-64,25.43,25.02,25.84
+2018-2020,England,Local Areas,E07000195,Newcastle-under-Lyme,1,Male,1,<1,78.5,77.9,79.11
+2018-2020,England,Local Areas,E07000195,Newcastle-under-Lyme,1,Male,14,60-64,22,21.59,22.4
+2018-2020,England,Local Areas,E07000195,Newcastle-under-Lyme,2,Female,1,<1,82.32,81.72,82.93
+2018-2020,England,Local Areas,E07000195,Newcastle-under-Lyme,2,Female,14,60-64,24.92,24.52,25.32
+2018-2020,England,Local Areas,E07000196,South Staffordshire,1,Male,1,<1,80.13,79.54,80.71
+2018-2020,England,Local Areas,E07000196,South Staffordshire,1,Male,14,60-64,22.85,22.48,23.22
+2018-2020,England,Local Areas,E07000196,South Staffordshire,2,Female,1,<1,84.13,83.58,84.69
+2018-2020,England,Local Areas,E07000196,South Staffordshire,2,Female,14,60-64,25.88,25.5,26.27
+2018-2020,England,Local Areas,E07000197,Stafford,1,Male,1,<1,80.01,79.43,80.59
+2018-2020,England,Local Areas,E07000197,Stafford,1,Male,14,60-64,23.18,22.81,23.56
+2018-2020,England,Local Areas,E07000197,Stafford,2,Female,1,<1,83.95,83.43,84.47
+2018-2020,England,Local Areas,E07000197,Stafford,2,Female,14,60-64,25.97,25.59,26.34
+2018-2020,England,Local Areas,E07000198,Staffordshire Moorlands,1,Male,1,<1,80.13,79.5,80.76
+2018-2020,England,Local Areas,E07000198,Staffordshire Moorlands,1,Male,14,60-64,22.78,22.38,23.17
+2018-2020,England,Local Areas,E07000198,Staffordshire Moorlands,2,Female,1,<1,83.18,82.58,83.79
+2018-2020,England,Local Areas,E07000198,Staffordshire Moorlands,2,Female,14,60-64,25.28,24.88,25.69
+2018-2020,England,Local Areas,E07000199,Tamworth,1,Male,1,<1,78.57,77.76,79.38
+2018-2020,England,Local Areas,E07000199,Tamworth,1,Male,14,60-64,22.07,21.55,22.58
+2018-2020,England,Local Areas,E07000199,Tamworth,2,Female,1,<1,82.42,81.62,83.21
+2018-2020,England,Local Areas,E07000199,Tamworth,2,Female,14,60-64,25.04,24.49,25.58
+2018-2020,England,Local Areas,E07000200,Babergh,1,Male,1,<1,81.62,80.97,82.27
+2018-2020,England,Local Areas,E07000200,Babergh,1,Male,14,60-64,24.12,23.7,24.53
+2018-2020,England,Local Areas,E07000200,Babergh,2,Female,1,<1,85.2,84.64,85.76
+2018-2020,England,Local Areas,E07000200,Babergh,2,Female,14,60-64,26.73,26.3,27.16
+2018-2020,England,Local Areas,E07000202,Ipswich,1,Male,1,<1,79.37,78.77,79.97
+2018-2020,England,Local Areas,E07000202,Ipswich,1,Male,14,60-64,22.97,22.52,23.42
+2018-2020,England,Local Areas,E07000202,Ipswich,2,Female,1,<1,83.04,82.5,83.58
+2018-2020,England,Local Areas,E07000202,Ipswich,2,Female,14,60-64,25.18,24.76,25.61
+2018-2020,England,Local Areas,E07000203,Mid Suffolk,1,Male,1,<1,81.42,80.81,82.03
+2018-2020,England,Local Areas,E07000203,Mid Suffolk,1,Male,14,60-64,23.83,23.43,24.23
+2018-2020,England,Local Areas,E07000203,Mid Suffolk,2,Female,1,<1,84.81,84.21,85.41
+2018-2020,England,Local Areas,E07000203,Mid Suffolk,2,Female,14,60-64,26.72,26.3,27.14
+2018-2020,England,Local Areas,E07000207,Elmbridge,1,Male,1,<1,82.7,82.12,83.28
+2018-2020,England,Local Areas,E07000207,Elmbridge,1,Male,14,60-64,24.88,24.42,25.34
+2018-2020,England,Local Areas,E07000207,Elmbridge,2,Female,1,<1,85.59,85.07,86.1
+2018-2020,England,Local Areas,E07000207,Elmbridge,2,Female,14,60-64,27.02,26.6,27.43
+2018-2020,England,Local Areas,E07000208,Epsom and Ewell,1,Male,1,<1,82.05,81.22,82.87
+2018-2020,England,Local Areas,E07000208,Epsom and Ewell,1,Male,14,60-64,24.81,24.19,25.43
+2018-2020,England,Local Areas,E07000208,Epsom and Ewell,2,Female,1,<1,85.7,85,86.39
+2018-2020,England,Local Areas,E07000208,Epsom and Ewell,2,Female,14,60-64,27.34,26.81,27.88
+2018-2020,England,Local Areas,E07000209,Guildford,1,Male,1,<1,82.33,81.79,82.87
+2018-2020,England,Local Areas,E07000209,Guildford,1,Male,14,60-64,24.57,24.14,24.99
+2018-2020,England,Local Areas,E07000209,Guildford,2,Female,1,<1,85.6,85.1,86.11
+2018-2020,England,Local Areas,E07000209,Guildford,2,Female,14,60-64,27.06,26.63,27.48
+2018-2020,England,Local Areas,E07000210,Mole Valley,1,Male,1,<1,81.88,81.16,82.6
+2018-2020,England,Local Areas,E07000210,Mole Valley,1,Male,14,60-64,24.62,24.13,25.11
+2018-2020,England,Local Areas,E07000210,Mole Valley,2,Female,1,<1,85.84,85.23,86.45
+2018-2020,England,Local Areas,E07000210,Mole Valley,2,Female,14,60-64,27.26,26.78,27.73
+2018-2020,England,Local Areas,E07000211,Reigate and Banstead,1,Male,1,<1,81.13,80.58,81.67
+2018-2020,England,Local Areas,E07000211,Reigate and Banstead,1,Male,14,60-64,23.74,23.33,24.14
+2018-2020,England,Local Areas,E07000211,Reigate and Banstead,2,Female,1,<1,84.37,83.88,84.86
+2018-2020,England,Local Areas,E07000211,Reigate and Banstead,2,Female,14,60-64,25.99,25.6,26.37
+2018-2020,England,Local Areas,E07000212,Runnymede,1,Male,1,<1,80.8,80.03,81.57
+2018-2020,England,Local Areas,E07000212,Runnymede,1,Male,14,60-64,23.9,23.33,24.46
+2018-2020,England,Local Areas,E07000212,Runnymede,2,Female,1,<1,84.39,83.68,85.09
+2018-2020,England,Local Areas,E07000212,Runnymede,2,Female,14,60-64,26.43,25.88,26.97
+2018-2020,England,Local Areas,E07000213,Spelthorne,1,Male,1,<1,80.44,79.77,81.1
+2018-2020,England,Local Areas,E07000213,Spelthorne,1,Male,14,60-64,23.49,23.01,23.97
+2018-2020,England,Local Areas,E07000213,Spelthorne,2,Female,1,<1,83.94,83.27,84.61
+2018-2020,England,Local Areas,E07000213,Spelthorne,2,Female,14,60-64,26.27,25.8,26.74
+2018-2020,England,Local Areas,E07000214,Surrey Heath,1,Male,1,<1,81.68,81.05,82.32
+2018-2020,England,Local Areas,E07000214,Surrey Heath,1,Male,14,60-64,23.94,23.46,24.42
+2018-2020,England,Local Areas,E07000214,Surrey Heath,2,Female,1,<1,85.07,84.47,85.67
+2018-2020,England,Local Areas,E07000214,Surrey Heath,2,Female,14,60-64,26.73,26.29,27.18
+2018-2020,England,Local Areas,E07000215,Tandridge,1,Male,1,<1,81.04,80.28,81.79
+2018-2020,England,Local Areas,E07000215,Tandridge,1,Male,14,60-64,24.02,23.49,24.54
+2018-2020,England,Local Areas,E07000215,Tandridge,2,Female,1,<1,84.87,84.26,85.49
+2018-2020,England,Local Areas,E07000215,Tandridge,2,Female,14,60-64,26.46,25.98,26.94
+2018-2020,England,Local Areas,E07000216,Waverley,1,Male,1,<1,82.19,81.59,82.78
+2018-2020,England,Local Areas,E07000216,Waverley,1,Male,14,60-64,24.69,24.27,25.12
+2018-2020,England,Local Areas,E07000216,Waverley,2,Female,1,<1,85.54,84.97,86.11
+2018-2020,England,Local Areas,E07000216,Waverley,2,Female,14,60-64,27.42,27.02,27.82
+2018-2020,England,Local Areas,E07000217,Woking,1,Male,1,<1,81.78,81.07,82.49
+2018-2020,England,Local Areas,E07000217,Woking,1,Male,14,60-64,24.67,24.14,25.2
+2018-2020,England,Local Areas,E07000217,Woking,2,Female,1,<1,84.13,83.47,84.8
+2018-2020,England,Local Areas,E07000217,Woking,2,Female,14,60-64,26.44,25.94,26.95
+2018-2020,England,Local Areas,E07000218,North Warwickshire,1,Male,1,<1,78.71,77.86,79.55
+2018-2020,England,Local Areas,E07000218,North Warwickshire,1,Male,14,60-64,22.06,21.56,22.55
+2018-2020,England,Local Areas,E07000218,North Warwickshire,2,Female,1,<1,81.95,81.2,82.7
+2018-2020,England,Local Areas,E07000218,North Warwickshire,2,Female,14,60-64,24.16,23.64,24.69
+2018-2020,England,Local Areas,E07000219,Nuneaton and Bedworth,1,Male,1,<1,77.25,76.65,77.86
+2018-2020,England,Local Areas,E07000219,Nuneaton and Bedworth,1,Male,14,60-64,21.35,20.98,21.73
+2018-2020,England,Local Areas,E07000219,Nuneaton and Bedworth,2,Female,1,<1,81.67,81.11,82.22
+2018-2020,England,Local Areas,E07000219,Nuneaton and Bedworth,2,Female,14,60-64,24.24,23.85,24.62
+2018-2020,England,Local Areas,E07000220,Rugby,1,Male,1,<1,79.67,79,80.33
+2018-2020,England,Local Areas,E07000220,Rugby,1,Male,14,60-64,23.3,22.84,23.75
+2018-2020,England,Local Areas,E07000220,Rugby,2,Female,1,<1,83.61,82.98,84.25
+2018-2020,England,Local Areas,E07000220,Rugby,2,Female,14,60-64,25.87,25.39,26.34
+2018-2020,England,Local Areas,E07000221,Stratford-on-Avon,1,Male,1,<1,81.37,80.81,81.94
+2018-2020,England,Local Areas,E07000221,Stratford-on-Avon,1,Male,14,60-64,23.94,23.58,24.31
+2018-2020,England,Local Areas,E07000221,Stratford-on-Avon,2,Female,1,<1,85.01,84.52,85.49
+2018-2020,England,Local Areas,E07000221,Stratford-on-Avon,2,Female,14,60-64,26.74,26.37,27.1
+2018-2020,England,Local Areas,E07000222,Warwick,1,Male,1,<1,80.89,80.34,81.44
+2018-2020,England,Local Areas,E07000222,Warwick,1,Male,14,60-64,23.58,23.17,23.99
+2018-2020,England,Local Areas,E07000222,Warwick,2,Female,1,<1,84.22,83.67,84.78
+2018-2020,England,Local Areas,E07000222,Warwick,2,Female,14,60-64,26.27,25.86,26.68
+2018-2020,England,Local Areas,E07000223,Adur,1,Male,1,<1,81.28,80.56,82.01
+2018-2020,England,Local Areas,E07000223,Adur,1,Male,14,60-64,23.32,22.76,23.87
+2018-2020,England,Local Areas,E07000223,Adur,2,Female,1,<1,83.68,82.88,84.48
+2018-2020,England,Local Areas,E07000223,Adur,2,Female,14,60-64,26.15,25.62,26.67
+2018-2020,England,Local Areas,E07000224,Arun,1,Male,1,<1,79.63,79.08,80.17
+2018-2020,England,Local Areas,E07000224,Arun,1,Male,14,60-64,23.36,23.04,23.68
+2018-2020,England,Local Areas,E07000224,Arun,2,Female,1,<1,83.65,83.14,84.15
+2018-2020,England,Local Areas,E07000224,Arun,2,Female,14,60-64,26.17,25.86,26.47
+2018-2020,England,Local Areas,E07000225,Chichester,1,Male,1,<1,80.64,80.02,81.25
+2018-2020,England,Local Areas,E07000225,Chichester,1,Male,14,60-64,23.65,23.28,24.02
+2018-2020,England,Local Areas,E07000225,Chichester,2,Female,1,<1,84.52,83.94,85.1
+2018-2020,England,Local Areas,E07000225,Chichester,2,Female,14,60-64,26.65,26.29,27.01
+2018-2020,England,Local Areas,E07000226,Crawley,1,Male,1,<1,79.91,79.24,80.58
+2018-2020,England,Local Areas,E07000226,Crawley,1,Male,14,60-64,22.95,22.39,23.5
+2018-2020,England,Local Areas,E07000226,Crawley,2,Female,1,<1,83.8,83.1,84.5
+2018-2020,England,Local Areas,E07000226,Crawley,2,Female,14,60-64,26.54,25.96,27.11
+2018-2020,England,Local Areas,E07000227,Horsham,1,Male,1,<1,82.24,81.72,82.76
+2018-2020,England,Local Areas,E07000227,Horsham,1,Male,14,60-64,24.56,24.19,24.93
+2018-2020,England,Local Areas,E07000227,Horsham,2,Female,1,<1,85.14,84.63,85.66
+2018-2020,England,Local Areas,E07000227,Horsham,2,Female,14,60-64,27.19,26.83,27.56
+2018-2020,England,Local Areas,E07000228,Mid Sussex,1,Male,1,<1,81.65,81.11,82.2
+2018-2020,England,Local Areas,E07000228,Mid Sussex,1,Male,14,60-64,24.22,23.84,24.61
+2018-2020,England,Local Areas,E07000228,Mid Sussex,2,Female,1,<1,84.81,84.34,85.27
+2018-2020,England,Local Areas,E07000228,Mid Sussex,2,Female,14,60-64,26.56,26.22,26.9
+2018-2020,England,Local Areas,E07000229,Worthing,1,Male,1,<1,79.56,78.88,80.24
+2018-2020,England,Local Areas,E07000229,Worthing,1,Male,14,60-64,23.03,22.61,23.45
+2018-2020,England,Local Areas,E07000229,Worthing,2,Female,1,<1,83.04,82.44,83.64
+2018-2020,England,Local Areas,E07000229,Worthing,2,Female,14,60-64,25.49,25.11,25.87
+2018-2020,England,Local Areas,E07000234,Bromsgrove,1,Male,1,<1,80.87,80.17,81.58
+2018-2020,England,Local Areas,E07000234,Bromsgrove,1,Male,14,60-64,23.82,23.39,24.25
+2018-2020,England,Local Areas,E07000234,Bromsgrove,2,Female,1,<1,84.15,83.52,84.78
+2018-2020,England,Local Areas,E07000234,Bromsgrove,2,Female,14,60-64,26.17,25.76,26.59
+2018-2020,England,Local Areas,E07000235,Malvern Hills,1,Male,1,<1,81.22,80.45,81.98
+2018-2020,England,Local Areas,E07000235,Malvern Hills,1,Male,14,60-64,23.82,23.38,24.25
+2018-2020,England,Local Areas,E07000235,Malvern Hills,2,Female,1,<1,83.74,82.97,84.5
+2018-2020,England,Local Areas,E07000235,Malvern Hills,2,Female,14,60-64,26.12,25.7,26.54
+2018-2020,England,Local Areas,E07000236,Redditch,1,Male,1,<1,78.87,78.13,79.61
+2018-2020,England,Local Areas,E07000236,Redditch,1,Male,14,60-64,22.27,21.75,22.78
+2018-2020,England,Local Areas,E07000236,Redditch,2,Female,1,<1,82.42,81.71,83.12
+2018-2020,England,Local Areas,E07000236,Redditch,2,Female,14,60-64,25.09,24.54,25.64
+2018-2020,England,Local Areas,E07000237,Worcester,1,Male,1,<1,79.17,78.51,79.83
+2018-2020,England,Local Areas,E07000237,Worcester,1,Male,14,60-64,22.26,21.77,22.74
+2018-2020,England,Local Areas,E07000237,Worcester,2,Female,1,<1,82.53,81.88,83.18
+2018-2020,England,Local Areas,E07000237,Worcester,2,Female,14,60-64,24.98,24.51,25.45
+2018-2020,England,Local Areas,E07000238,Wychavon,1,Male,1,<1,80.98,80.36,81.6
+2018-2020,England,Local Areas,E07000238,Wychavon,1,Male,14,60-64,24.32,23.92,24.71
+2018-2020,England,Local Areas,E07000238,Wychavon,2,Female,1,<1,84.51,83.89,85.13
+2018-2020,England,Local Areas,E07000238,Wychavon,2,Female,14,60-64,27.14,26.72,27.56
+2018-2020,England,Local Areas,E07000239,Wyre Forest,1,Male,1,<1,78.72,78.04,79.39
+2018-2020,England,Local Areas,E07000239,Wyre Forest,1,Male,14,60-64,22.36,21.96,22.77
+2018-2020,England,Local Areas,E07000239,Wyre Forest,2,Female,1,<1,82.97,82.38,83.57
+2018-2020,England,Local Areas,E07000239,Wyre Forest,2,Female,14,60-64,25.04,24.63,25.46
+2018-2020,England,Local Areas,E07000240,St Albans,1,Male,1,<1,81.82,81.24,82.41
+2018-2020,England,Local Areas,E07000240,St Albans,1,Male,14,60-64,24.46,24.01,24.9
+2018-2020,England,Local Areas,E07000240,St Albans,2,Female,1,<1,85.38,84.89,85.86
+2018-2020,England,Local Areas,E07000240,St Albans,2,Female,14,60-64,26.77,26.35,27.18
+2018-2020,England,Local Areas,E07000241,Welwyn Hatfield,1,Male,1,<1,80.64,80.03,81.25
+2018-2020,England,Local Areas,E07000241,Welwyn Hatfield,1,Male,14,60-64,23.18,22.69,23.67
+2018-2020,England,Local Areas,E07000241,Welwyn Hatfield,2,Female,1,<1,83.84,83.23,84.44
+2018-2020,England,Local Areas,E07000241,Welwyn Hatfield,2,Female,14,60-64,25.72,25.23,26.21
+2018-2020,England,Local Areas,E07000242,East Hertfordshire,1,Male,1,<1,81.64,81.1,82.18
+2018-2020,England,Local Areas,E07000242,East Hertfordshire,1,Male,14,60-64,24.1,23.7,24.51
+2018-2020,England,Local Areas,E07000242,East Hertfordshire,2,Female,1,<1,84.98,84.48,85.47
+2018-2020,England,Local Areas,E07000242,East Hertfordshire,2,Female,14,60-64,26.6,26.22,26.98
+2018-2020,England,Local Areas,E07000243,Stevenage,1,Male,1,<1,79.45,78.75,80.15
+2018-2020,England,Local Areas,E07000243,Stevenage,1,Male,14,60-64,22.27,21.73,22.81
+2018-2020,England,Local Areas,E07000243,Stevenage,2,Female,1,<1,82.78,82.07,83.5
+2018-2020,England,Local Areas,E07000243,Stevenage,2,Female,14,60-64,25.16,24.59,25.72
+2018-2020,England,Local Areas,E07000244,East Suffolk,1,Male,1,<1,80.36,79.91,80.81
+2018-2020,England,Local Areas,E07000244,East Suffolk,1,Male,14,60-64,23.73,23.47,23.99
+2018-2020,England,Local Areas,E07000244,East Suffolk,2,Female,1,<1,83.83,83.43,84.24
+2018-2020,England,Local Areas,E07000244,East Suffolk,2,Female,14,60-64,26.19,25.94,26.44
+2018-2020,England,Local Areas,E07000245,West Suffolk,1,Male,1,<1,81.01,80.5,81.51
+2018-2020,England,Local Areas,E07000245,West Suffolk,1,Male,14,60-64,23.93,23.57,24.29
+2018-2020,England,Local Areas,E07000245,West Suffolk,2,Female,1,<1,84.27,83.78,84.76
+2018-2020,England,Local Areas,E07000245,West Suffolk,2,Female,14,60-64,26.52,26.17,26.88
+2018-2020,England,Local Areas,E07000246,Somerset West and Taunton,1,Male,1,<1,80.03,79.44,80.62
+2018-2020,England,Local Areas,E07000246,Somerset West and Taunton,1,Male,14,60-64,23.83,23.49,24.17
+2018-2020,England,Local Areas,E07000246,Somerset West and Taunton,2,Female,1,<1,83.88,83.36,84.4
+2018-2020,England,Local Areas,E07000246,Somerset West and Taunton,2,Female,14,60-64,26.36,26.02,26.7
+2018-2020,England,Local Areas,E08000001,Bolton,1,Male,1,<1,77.32,76.9,77.74
+2018-2020,England,Local Areas,E08000001,Bolton,1,Male,14,60-64,21.61,21.32,21.91
+2018-2020,England,Local Areas,E08000001,Bolton,2,Female,1,<1,81.11,80.72,81.5
+2018-2020,England,Local Areas,E08000001,Bolton,2,Female,14,60-64,24.02,23.75,24.3
+2018-2020,England,Local Areas,E08000002,Bury,1,Male,1,<1,78.39,77.89,78.9
+2018-2020,England,Local Areas,E08000002,Bury,1,Male,14,60-64,22.08,21.72,22.44
+2018-2020,England,Local Areas,E08000002,Bury,2,Female,1,<1,81.97,81.52,82.41
+2018-2020,England,Local Areas,E08000002,Bury,2,Female,14,60-64,24.35,24.02,24.69
+2018-2020,England,Local Areas,E08000003,Manchester,1,Male,1,<1,75.45,75.12,75.77
+2018-2020,England,Local Areas,E08000003,Manchester,1,Male,14,60-64,19.64,19.38,19.9
+2018-2020,England,Local Areas,E08000003,Manchester,2,Female,1,<1,79.86,79.53,80.18
+2018-2020,England,Local Areas,E08000003,Manchester,2,Female,14,60-64,22.66,22.39,22.94
+2018-2020,England,Local Areas,E08000004,Oldham,1,Male,1,<1,77.17,76.71,77.63
+2018-2020,England,Local Areas,E08000004,Oldham,1,Male,14,60-64,21.29,20.95,21.63
+2018-2020,England,Local Areas,E08000004,Oldham,2,Female,1,<1,80.53,80.1,80.97
+2018-2020,England,Local Areas,E08000004,Oldham,2,Female,14,60-64,23.59,23.27,23.9
+2018-2020,England,Local Areas,E08000005,Rochdale,1,Male,1,<1,76.69,76.21,77.16
+2018-2020,England,Local Areas,E08000005,Rochdale,1,Male,14,60-64,21.12,20.78,21.45
+2018-2020,England,Local Areas,E08000005,Rochdale,2,Female,1,<1,80.9,80.46,81.34
+2018-2020,England,Local Areas,E08000005,Rochdale,2,Female,14,60-64,23.7,23.37,24.02
+2018-2020,England,Local Areas,E08000006,Salford,1,Male,1,<1,77.13,76.71,77.56
+2018-2020,England,Local Areas,E08000006,Salford,1,Male,14,60-64,20.8,20.47,21.13
+2018-2020,England,Local Areas,E08000006,Salford,2,Female,1,<1,80.5,80.08,80.92
+2018-2020,England,Local Areas,E08000006,Salford,2,Female,14,60-64,23.23,22.91,23.56
+2018-2020,England,Local Areas,E08000007,Stockport,1,Male,1,<1,79.35,78.95,79.74
+2018-2020,England,Local Areas,E08000007,Stockport,1,Male,14,60-64,22.77,22.49,23.05
+2018-2020,England,Local Areas,E08000007,Stockport,2,Female,1,<1,83.24,82.87,83.61
+2018-2020,England,Local Areas,E08000007,Stockport,2,Female,14,60-64,25.53,25.26,25.81
+2018-2020,England,Local Areas,E08000008,Tameside,1,Male,1,<1,76.87,76.44,77.3
+2018-2020,England,Local Areas,E08000008,Tameside,1,Male,14,60-64,20.67,20.37,20.96
+2018-2020,England,Local Areas,E08000008,Tameside,2,Female,1,<1,80.14,79.73,80.55
+2018-2020,England,Local Areas,E08000008,Tameside,2,Female,14,60-64,22.76,22.47,23.05
+2018-2020,England,Local Areas,E08000009,Trafford,1,Male,1,<1,80.21,79.78,80.64
+2018-2020,England,Local Areas,E08000009,Trafford,1,Male,14,60-64,23,22.66,23.33
+2018-2020,England,Local Areas,E08000009,Trafford,2,Female,1,<1,83.79,83.38,84.2
+2018-2020,England,Local Areas,E08000009,Trafford,2,Female,14,60-64,25.7,25.37,26.02
+2018-2020,England,Local Areas,E08000010,Wigan,1,Male,1,<1,77.51,77.14,77.88
+2018-2020,England,Local Areas,E08000010,Wigan,1,Male,14,60-64,21.51,21.27,21.76
+2018-2020,England,Local Areas,E08000010,Wigan,2,Female,1,<1,81.21,80.86,81.56
+2018-2020,England,Local Areas,E08000010,Wigan,2,Female,14,60-64,23.82,23.57,24.07
+2018-2020,England,Local Areas,E08000011,Knowsley,1,Male,1,<1,76.28,75.7,76.85
+2018-2020,England,Local Areas,E08000011,Knowsley,1,Male,14,60-64,20.62,20.22,21.01
+2018-2020,England,Local Areas,E08000011,Knowsley,2,Female,1,<1,79.75,79.23,80.26
+2018-2020,England,Local Areas,E08000011,Knowsley,2,Female,14,60-64,22.69,22.31,23.07
+2018-2020,England,Local Areas,E08000012,Liverpool,1,Male,1,<1,76.11,75.8,76.42
+2018-2020,England,Local Areas,E08000012,Liverpool,1,Male,14,60-64,20.3,20.08,20.52
+2018-2020,England,Local Areas,E08000012,Liverpool,2,Female,1,<1,79.87,79.56,80.18
+2018-2020,England,Local Areas,E08000012,Liverpool,2,Female,14,60-64,23.07,22.84,23.3
+2018-2020,England,Local Areas,E08000013,St. Helens,1,Male,1,<1,77.46,76.96,77.95
+2018-2020,England,Local Areas,E08000013,St. Helens,1,Male,14,60-64,21.42,21.1,21.75
+2018-2020,England,Local Areas,E08000013,St. Helens,2,Female,1,<1,81.02,80.54,81.49
+2018-2020,England,Local Areas,E08000013,St. Helens,2,Female,14,60-64,23.91,23.59,24.23
+2018-2020,England,Local Areas,E08000014,Sefton,1,Male,1,<1,78.04,77.61,78.46
+2018-2020,England,Local Areas,E08000014,Sefton,1,Male,14,60-64,22.21,21.96,22.46
+2018-2020,England,Local Areas,E08000014,Sefton,2,Female,1,<1,82.37,81.99,82.75
+2018-2020,England,Local Areas,E08000014,Sefton,2,Female,14,60-64,25.04,24.78,25.29
+2018-2020,England,Local Areas,E08000015,Wirral,1,Male,1,<1,77.82,77.44,78.2
+2018-2020,England,Local Areas,E08000015,Wirral,1,Male,14,60-64,21.83,21.59,22.08
+2018-2020,England,Local Areas,E08000015,Wirral,2,Female,1,<1,81.6,81.24,81.95
+2018-2020,England,Local Areas,E08000015,Wirral,2,Female,14,60-64,24.43,24.19,24.67
+2018-2020,England,Local Areas,E08000016,Barnsley,1,Male,1,<1,77.12,76.68,77.55
+2018-2020,England,Local Areas,E08000016,Barnsley,1,Male,14,60-64,21.46,21.19,21.73
+2018-2020,England,Local Areas,E08000016,Barnsley,2,Female,1,<1,81.12,80.7,81.53
+2018-2020,England,Local Areas,E08000016,Barnsley,2,Female,14,60-64,23.95,23.66,24.23
+2018-2020,England,Local Areas,E08000017,Doncaster,1,Male,1,<1,77.8,77.42,78.18
+2018-2020,England,Local Areas,E08000017,Doncaster,1,Male,14,60-64,21.67,21.42,21.92
+2018-2020,England,Local Areas,E08000017,Doncaster,2,Female,1,<1,81.04,80.67,81.41
+2018-2020,England,Local Areas,E08000017,Doncaster,2,Female,14,60-64,23.87,23.61,24.12
+2018-2020,England,Local Areas,E08000018,Rotherham,1,Male,1,<1,77.48,77.07,77.9
+2018-2020,England,Local Areas,E08000018,Rotherham,1,Male,14,60-64,21.34,21.07,21.61
+2018-2020,England,Local Areas,E08000018,Rotherham,2,Female,1,<1,81,80.6,81.4
+2018-2020,England,Local Areas,E08000018,Rotherham,2,Female,14,60-64,23.8,23.53,24.07
+2018-2020,England,Local Areas,E08000019,Sheffield,1,Male,1,<1,78.57,78.28,78.86
+2018-2020,England,Local Areas,E08000019,Sheffield,1,Male,14,60-64,22.07,21.86,22.28
+2018-2020,England,Local Areas,E08000019,Sheffield,2,Female,1,<1,82.37,82.1,82.65
+2018-2020,England,Local Areas,E08000019,Sheffield,2,Female,14,60-64,24.77,24.57,24.97
+2018-2020,England,Local Areas,E08000021,Newcastle upon Tyne,1,Male,1,<1,77.31,76.87,77.74
+2018-2020,England,Local Areas,E08000021,Newcastle upon Tyne,1,Male,14,60-64,21.48,21.18,21.79
+2018-2020,England,Local Areas,E08000021,Newcastle upon Tyne,2,Female,1,<1,81.64,81.25,82.03
+2018-2020,England,Local Areas,E08000021,Newcastle upon Tyne,2,Female,14,60-64,24.17,23.87,24.47
+2018-2020,England,Local Areas,E08000022,North Tyneside,1,Male,1,<1,78.32,77.86,78.78
+2018-2020,England,Local Areas,E08000022,North Tyneside,1,Male,14,60-64,21.99,21.69,22.3
+2018-2020,England,Local Areas,E08000022,North Tyneside,2,Female,1,<1,82.16,81.73,82.59
+2018-2020,England,Local Areas,E08000022,North Tyneside,2,Female,14,60-64,24.58,24.27,24.88
+2018-2020,England,Local Areas,E08000023,South Tyneside,1,Male,1,<1,76.44,75.88,77.01
+2018-2020,England,Local Areas,E08000023,South Tyneside,1,Male,14,60-64,20.75,20.4,21.1
+2018-2020,England,Local Areas,E08000023,South Tyneside,2,Female,1,<1,81.21,80.73,81.69
+2018-2020,England,Local Areas,E08000023,South Tyneside,2,Female,14,60-64,23.82,23.47,24.17
+2018-2020,England,Local Areas,E08000024,Sunderland,1,Male,1,<1,76.59,76.18,77
+2018-2020,England,Local Areas,E08000024,Sunderland,1,Male,14,60-64,21,20.75,21.25
+2018-2020,England,Local Areas,E08000024,Sunderland,2,Female,1,<1,80.86,80.49,81.23
+2018-2020,England,Local Areas,E08000024,Sunderland,2,Female,14,60-64,23.57,23.32,23.83
+2018-2020,England,Local Areas,E08000025,Birmingham,1,Male,1,<1,77.11,76.89,77.34
+2018-2020,England,Local Areas,E08000025,Birmingham,1,Male,14,60-64,21.4,21.23,21.57
+2018-2020,England,Local Areas,E08000025,Birmingham,2,Female,1,<1,81.75,81.54,81.97
+2018-2020,England,Local Areas,E08000025,Birmingham,2,Female,14,60-64,24.49,24.32,24.66
+2018-2020,England,Local Areas,E08000026,Coventry,1,Male,1,<1,77.97,77.59,78.35
+2018-2020,England,Local Areas,E08000026,Coventry,1,Male,14,60-64,21.73,21.44,22.02
+2018-2020,England,Local Areas,E08000026,Coventry,2,Female,1,<1,81.97,81.61,82.34
+2018-2020,England,Local Areas,E08000026,Coventry,2,Female,14,60-64,24.41,24.13,24.69
+2018-2020,England,Local Areas,E08000027,Dudley,1,Male,1,<1,78.8,78.44,79.17
+2018-2020,England,Local Areas,E08000027,Dudley,1,Male,14,60-64,22.08,21.83,22.33
+2018-2020,England,Local Areas,E08000027,Dudley,2,Female,1,<1,82.22,81.86,82.59
+2018-2020,England,Local Areas,E08000027,Dudley,2,Female,14,60-64,25.03,24.77,25.28
+2018-2020,England,Local Areas,E08000028,Sandwell,1,Male,1,<1,76.08,75.69,76.46
+2018-2020,England,Local Areas,E08000028,Sandwell,1,Male,14,60-64,20.35,20.08,20.62
+2018-2020,England,Local Areas,E08000028,Sandwell,2,Female,1,<1,80.73,80.36,81.1
+2018-2020,England,Local Areas,E08000028,Sandwell,2,Female,14,60-64,23.59,23.31,23.86
+2018-2020,England,Local Areas,E08000029,Solihull,1,Male,1,<1,80.43,79.97,80.9
+2018-2020,England,Local Areas,E08000029,Solihull,1,Male,14,60-64,23.51,23.2,23.82
+2018-2020,England,Local Areas,E08000029,Solihull,2,Female,1,<1,83.97,83.54,84.39
+2018-2020,England,Local Areas,E08000029,Solihull,2,Female,14,60-64,26.03,25.72,26.34
+2018-2020,England,Local Areas,E08000030,Walsall,1,Male,1,<1,77.48,77.05,77.9
+2018-2020,England,Local Areas,E08000030,Walsall,1,Male,14,60-64,21.46,21.18,21.75
+2018-2020,England,Local Areas,E08000030,Walsall,2,Female,1,<1,81.71,81.31,82.1
+2018-2020,England,Local Areas,E08000030,Walsall,2,Female,14,60-64,24.43,24.15,24.72
+2018-2020,England,Local Areas,E08000031,Wolverhampton,1,Male,1,<1,76.55,76.12,76.99
+2018-2020,England,Local Areas,E08000031,Wolverhampton,1,Male,14,60-64,20.85,20.55,21.15
+2018-2020,England,Local Areas,E08000031,Wolverhampton,2,Female,1,<1,81.29,80.89,81.69
+2018-2020,England,Local Areas,E08000031,Wolverhampton,2,Female,14,60-64,23.89,23.6,24.19
+2018-2020,England,Local Areas,E08000032,Bradford,1,Male,1,<1,77.31,77,77.61
+2018-2020,England,Local Areas,E08000032,Bradford,1,Male,14,60-64,21.18,20.97,21.4
+2018-2020,England,Local Areas,E08000032,Bradford,2,Female,1,<1,81.54,81.25,81.83
+2018-2020,England,Local Areas,E08000032,Bradford,2,Female,14,60-64,24.27,24.06,24.49
+2018-2020,England,Local Areas,E08000033,Calderdale,1,Male,1,<1,78.56,78.09,79.03
+2018-2020,England,Local Areas,E08000033,Calderdale,1,Male,14,60-64,22.14,21.82,22.46
+2018-2020,England,Local Areas,E08000033,Calderdale,2,Female,1,<1,82.46,82.01,82.92
+2018-2020,England,Local Areas,E08000033,Calderdale,2,Female,14,60-64,25.03,24.7,25.36
+2018-2020,England,Local Areas,E08000034,Kirklees,1,Male,1,<1,78.36,78.02,78.69
+2018-2020,England,Local Areas,E08000034,Kirklees,1,Male,14,60-64,22.1,21.86,22.33
+2018-2020,England,Local Areas,E08000034,Kirklees,2,Female,1,<1,82.2,81.88,82.51
+2018-2020,England,Local Areas,E08000034,Kirklees,2,Female,14,60-64,24.74,24.51,24.97
+2018-2020,England,Local Areas,E08000035,Leeds,1,Male,1,<1,77.81,77.56,78.06
+2018-2020,England,Local Areas,E08000035,Leeds,1,Male,14,60-64,21.72,21.54,21.9
+2018-2020,England,Local Areas,E08000035,Leeds,2,Female,1,<1,81.75,81.51,81.98
+2018-2020,England,Local Areas,E08000035,Leeds,2,Female,14,60-64,24.35,24.18,24.53
+2018-2020,England,Local Areas,E08000036,Wakefield,1,Male,1,<1,77.3,76.93,77.67
+2018-2020,England,Local Areas,E08000036,Wakefield,1,Male,14,60-64,21.47,21.23,21.71
+2018-2020,England,Local Areas,E08000036,Wakefield,2,Female,1,<1,81.4,81.06,81.75
+2018-2020,England,Local Areas,E08000036,Wakefield,2,Female,14,60-64,24.25,24,24.49
+2018-2020,England,Local Areas,E08000037,Gateshead,1,Male,1,<1,77.39,76.91,77.87
+2018-2020,England,Local Areas,E08000037,Gateshead,1,Male,14,60-64,21.52,21.19,21.85
+2018-2020,England,Local Areas,E08000037,Gateshead,2,Female,1,<1,81.56,81.1,82.03
+2018-2020,England,Local Areas,E08000037,Gateshead,2,Female,14,60-64,24.31,23.99,24.63
+2018-2020,England,Local Areas,E09000002,Barking and Dagenham,1,Male,1,<1,77.03,76.51,77.55
+2018-2020,England,Local Areas,E09000002,Barking and Dagenham,1,Male,14,60-64,20.54,20.1,20.98
+2018-2020,England,Local Areas,E09000002,Barking and Dagenham,2,Female,1,<1,81.66,81.15,82.17
+2018-2020,England,Local Areas,E09000002,Barking and Dagenham,2,Female,14,60-64,23.8,23.34,24.25
+2018-2020,England,Local Areas,E09000003,Barnet,1,Male,1,<1,82,81.64,82.37
+2018-2020,England,Local Areas,E09000003,Barnet,1,Male,14,60-64,24.56,24.25,24.87
+2018-2020,England,Local Areas,E09000003,Barnet,2,Female,1,<1,85.53,85.19,85.86
+2018-2020,England,Local Areas,E09000003,Barnet,2,Female,14,60-64,27.2,26.92,27.48
+2018-2020,England,Local Areas,E09000004,Bexley,1,Male,1,<1,79.87,79.44,80.3
+2018-2020,England,Local Areas,E09000004,Bexley,1,Male,14,60-64,22.72,22.39,23.05
+2018-2020,England,Local Areas,E09000004,Bexley,2,Female,1,<1,83.84,83.42,84.25
+2018-2020,England,Local Areas,E09000004,Bexley,2,Female,14,60-64,25.95,25.61,26.28
+2018-2020,England,Local Areas,E09000005,Brent,1,Male,1,<1,80.38,79.94,80.82
+2018-2020,England,Local Areas,E09000005,Brent,1,Male,14,60-64,23.81,23.43,24.19
+2018-2020,England,Local Areas,E09000005,Brent,2,Female,1,<1,85.04,84.6,85.49
+2018-2020,England,Local Areas,E09000005,Brent,2,Female,14,60-64,27.12,26.72,27.51
+2018-2020,England,Local Areas,E09000006,Bromley,1,Male,1,<1,81.33,80.97,81.69
+2018-2020,England,Local Areas,E09000006,Bromley,1,Male,14,60-64,23.75,23.47,24.04
+2018-2020,England,Local Areas,E09000006,Bromley,2,Female,1,<1,84.78,84.44,85.11
+2018-2020,England,Local Areas,E09000006,Bromley,2,Female,14,60-64,26.58,26.31,26.85
+2018-2020,England,Local Areas,E09000007,Camden,1,Male,1,<1,83.05,82.42,83.68
+2018-2020,England,Local Areas,E09000007,Camden,1,Male,14,60-64,25.96,25.38,26.55
+2018-2020,England,Local Areas,E09000007,Camden,2,Female,1,<1,87.73,87.1,88.35
+2018-2020,England,Local Areas,E09000007,Camden,2,Female,14,60-64,29.67,29.09,30.26
+2018-2020,England,Local Areas,E09000008,Croydon,1,Male,1,<1,79.68,79.31,80.06
+2018-2020,England,Local Areas,E09000008,Croydon,1,Male,14,60-64,22.91,22.6,23.21
+2018-2020,England,Local Areas,E09000008,Croydon,2,Female,1,<1,83.65,83.31,83.99
+2018-2020,England,Local Areas,E09000008,Croydon,2,Female,14,60-64,25.75,25.47,26.03
+2018-2020,England,Local Areas,E09000009,Ealing,1,Male,1,<1,79.93,79.51,80.35
+2018-2020,England,Local Areas,E09000009,Ealing,1,Male,14,60-64,23.44,23.08,23.79
+2018-2020,England,Local Areas,E09000009,Ealing,2,Female,1,<1,84.14,83.75,84.53
+2018-2020,England,Local Areas,E09000009,Ealing,2,Female,14,60-64,26.2,25.87,26.53
+2018-2020,England,Local Areas,E09000010,Enfield,1,Male,1,<1,80.02,79.62,80.42
+2018-2020,England,Local Areas,E09000010,Enfield,1,Male,14,60-64,23.11,22.79,23.44
+2018-2020,England,Local Areas,E09000010,Enfield,2,Female,1,<1,84.22,83.83,84.61
+2018-2020,England,Local Areas,E09000010,Enfield,2,Female,14,60-64,26.42,26.1,26.74
+2018-2020,England,Local Areas,E09000011,Greenwich,1,Male,1,<1,79.21,78.73,79.68
+2018-2020,England,Local Areas,E09000011,Greenwich,1,Male,14,60-64,22.38,21.96,22.79
+2018-2020,England,Local Areas,E09000011,Greenwich,2,Female,1,<1,82.81,82.36,83.26
+2018-2020,England,Local Areas,E09000011,Greenwich,2,Female,14,60-64,25.1,24.7,25.5
+2018-2020,England,Local Areas,E09000012,Hackney,1,Male,1,<1,79.26,78.68,79.84
+2018-2020,England,Local Areas,E09000012,Hackney,1,Male,14,60-64,22.66,22.12,23.2
+2018-2020,England,Local Areas,E09000012,Hackney,2,Female,1,<1,83.69,83.14,84.24
+2018-2020,England,Local Areas,E09000012,Hackney,2,Female,14,60-64,25.8,25.28,26.31
+2018-2020,England,Local Areas,E09000013,Hammersmith and Fulham,1,Male,1,<1,79.02,78.42,79.62
+2018-2020,England,Local Areas,E09000013,Hammersmith and Fulham,1,Male,14,60-64,22.47,21.94,23
+2018-2020,England,Local Areas,E09000013,Hammersmith and Fulham,2,Female,1,<1,83.88,83.29,84.46
+2018-2020,England,Local Areas,E09000013,Hammersmith and Fulham,2,Female,14,60-64,26.07,25.55,26.58
+2018-2020,England,Local Areas,E09000014,Haringey,1,Male,1,<1,79.58,79.11,80.06
+2018-2020,England,Local Areas,E09000014,Haringey,1,Male,14,60-64,22.8,22.39,23.22
+2018-2020,England,Local Areas,E09000014,Haringey,2,Female,1,<1,84.37,83.9,84.85
+2018-2020,England,Local Areas,E09000014,Haringey,2,Female,14,60-64,26.39,25.96,26.82
+2018-2020,England,Local Areas,E09000015,Harrow,1,Male,1,<1,82.24,81.76,82.72
+2018-2020,England,Local Areas,E09000015,Harrow,1,Male,14,60-64,25.12,24.72,25.51
+2018-2020,England,Local Areas,E09000015,Harrow,2,Female,1,<1,85.67,85.21,86.14
+2018-2020,England,Local Areas,E09000015,Harrow,2,Female,14,60-64,27.71,27.32,28.1
+2018-2020,England,Local Areas,E09000016,Havering,1,Male,1,<1,79.67,79.27,80.06
+2018-2020,England,Local Areas,E09000016,Havering,1,Male,14,60-64,22.48,22.18,22.77
+2018-2020,England,Local Areas,E09000016,Havering,2,Female,1,<1,83.46,83.07,83.84
+2018-2020,England,Local Areas,E09000016,Havering,2,Female,14,60-64,25.53,25.23,25.83
+2018-2020,England,Local Areas,E09000017,Hillingdon,1,Male,1,<1,79.66,79.24,80.08
+2018-2020,England,Local Areas,E09000017,Hillingdon,1,Male,14,60-64,22.9,22.56,23.25
+2018-2020,England,Local Areas,E09000017,Hillingdon,2,Female,1,<1,83.65,83.28,84.03
+2018-2020,England,Local Areas,E09000017,Hillingdon,2,Female,14,60-64,25.53,25.22,25.84
+2018-2020,England,Local Areas,E09000018,Hounslow,1,Male,1,<1,79.37,78.92,79.81
+2018-2020,England,Local Areas,E09000018,Hounslow,1,Male,14,60-64,22.55,22.18,22.91
+2018-2020,England,Local Areas,E09000018,Hounslow,2,Female,1,<1,83.68,83.23,84.12
+2018-2020,England,Local Areas,E09000018,Hounslow,2,Female,14,60-64,25.9,25.53,26.27
+2018-2020,England,Local Areas,E09000019,Islington,1,Male,1,<1,79.47,78.91,80.03
+2018-2020,England,Local Areas,E09000019,Islington,1,Male,14,60-64,22.7,22.2,23.21
+2018-2020,England,Local Areas,E09000019,Islington,2,Female,1,<1,83.2,82.68,83.72
+2018-2020,England,Local Areas,E09000019,Islington,2,Female,14,60-64,25.37,24.91,25.84
+2018-2020,England,Local Areas,E09000020,Kensington and Chelsea,1,Male,1,<1,84.18,83.42,84.94
+2018-2020,England,Local Areas,E09000020,Kensington and Chelsea,1,Male,14,60-64,27.03,26.34,27.73
+2018-2020,England,Local Areas,E09000020,Kensington and Chelsea,2,Female,1,<1,87.86,87.15,88.57
+2018-2020,England,Local Areas,E09000020,Kensington and Chelsea,2,Female,14,60-64,29.63,29,30.26
+2018-2020,England,Local Areas,E09000021,Kingston upon Thames,1,Male,1,<1,81.72,81.18,82.25
+2018-2020,England,Local Areas,E09000021,Kingston upon Thames,1,Male,14,60-64,23.87,23.41,24.33
+2018-2020,England,Local Areas,E09000021,Kingston upon Thames,2,Female,1,<1,85.18,84.65,85.72
+2018-2020,England,Local Areas,E09000021,Kingston upon Thames,2,Female,14,60-64,27.02,26.58,27.47
+2018-2020,England,Local Areas,E09000022,Lambeth,1,Male,1,<1,78.62,78.16,79.08
+2018-2020,England,Local Areas,E09000022,Lambeth,1,Male,14,60-64,21.68,21.26,22.11
+2018-2020,England,Local Areas,E09000022,Lambeth,2,Female,1,<1,83.89,83.38,84.39
+2018-2020,England,Local Areas,E09000022,Lambeth,2,Female,14,60-64,26.15,25.69,26.61
+2018-2020,England,Local Areas,E09000023,Lewisham,1,Male,1,<1,78.77,78.32,79.22
+2018-2020,England,Local Areas,E09000023,Lewisham,1,Male,14,60-64,22.1,21.71,22.48
+2018-2020,England,Local Areas,E09000023,Lewisham,2,Female,1,<1,83.16,82.72,83.6
+2018-2020,England,Local Areas,E09000023,Lewisham,2,Female,14,60-64,25.28,24.89,25.66
+2018-2020,England,Local Areas,E09000024,Merton,1,Male,1,<1,80.31,79.83,80.79
+2018-2020,England,Local Areas,E09000024,Merton,1,Male,14,60-64,22.86,22.45,23.27
+2018-2020,England,Local Areas,E09000024,Merton,2,Female,1,<1,84.13,83.67,84.6
+2018-2020,England,Local Areas,E09000024,Merton,2,Female,14,60-64,25.95,25.55,26.34
+2018-2020,England,Local Areas,E09000025,Newham,1,Male,1,<1,78.97,78.48,79.46
+2018-2020,England,Local Areas,E09000025,Newham,1,Male,14,60-64,22.29,21.83,22.75
+2018-2020,England,Local Areas,E09000025,Newham,2,Female,1,<1,83.11,82.61,83.61
+2018-2020,England,Local Areas,E09000025,Newham,2,Female,14,60-64,25.48,25.02,25.95
+2018-2020,England,Local Areas,E09000026,Redbridge,1,Male,1,<1,80.46,80.05,80.88
+2018-2020,England,Local Areas,E09000026,Redbridge,1,Male,14,60-64,23.28,22.93,23.62
+2018-2020,England,Local Areas,E09000026,Redbridge,2,Female,1,<1,84.6,84.18,85.01
+2018-2020,England,Local Areas,E09000026,Redbridge,2,Female,14,60-64,26.45,26.1,26.81
+2018-2020,England,Local Areas,E09000027,Richmond upon Thames,1,Male,1,<1,82.22,81.7,82.75
+2018-2020,England,Local Areas,E09000027,Richmond upon Thames,1,Male,14,60-64,24.61,24.19,25.03
+2018-2020,England,Local Areas,E09000027,Richmond upon Thames,2,Female,1,<1,86.4,85.9,86.89
+2018-2020,England,Local Areas,E09000027,Richmond upon Thames,2,Female,14,60-64,28.05,27.63,28.48
+2018-2020,England,Local Areas,E09000028,Southwark,1,Male,1,<1,79.63,79.13,80.13
+2018-2020,England,Local Areas,E09000028,Southwark,1,Male,14,60-64,22.61,22.16,23.07
+2018-2020,England,Local Areas,E09000028,Southwark,2,Female,1,<1,84.12,83.64,84.6
+2018-2020,England,Local Areas,E09000028,Southwark,2,Female,14,60-64,26.13,25.68,26.57
+2018-2020,England,Local Areas,E09000029,Sutton,1,Male,1,<1,80.27,79.77,80.76
+2018-2020,England,Local Areas,E09000029,Sutton,1,Male,14,60-64,23.38,23,23.76
+2018-2020,England,Local Areas,E09000029,Sutton,2,Female,1,<1,83.97,83.52,84.42
+2018-2020,England,Local Areas,E09000029,Sutton,2,Female,14,60-64,25.94,25.58,26.3
+2018-2020,England,Local Areas,E09000030,Tower Hamlets,1,Male,1,<1,79.92,79.4,80.44
+2018-2020,England,Local Areas,E09000030,Tower Hamlets,1,Male,14,60-64,22.36,21.87,22.86
+2018-2020,England,Local Areas,E09000030,Tower Hamlets,2,Female,1,<1,83.29,82.75,83.84
+2018-2020,England,Local Areas,E09000030,Tower Hamlets,2,Female,14,60-64,25.42,24.91,25.92
+2018-2020,England,Local Areas,E09000031,Waltham Forest,1,Male,1,<1,79.8,79.31,80.29
+2018-2020,England,Local Areas,E09000031,Waltham Forest,1,Male,14,60-64,22.95,22.52,23.38
+2018-2020,England,Local Areas,E09000031,Waltham Forest,2,Female,1,<1,84.48,83.98,84.98
+2018-2020,England,Local Areas,E09000031,Waltham Forest,2,Female,14,60-64,26.64,26.18,27.09
+2018-2020,England,Local Areas,E09000032,Wandsworth,1,Male,1,<1,80,79.55,80.46
+2018-2020,England,Local Areas,E09000032,Wandsworth,1,Male,14,60-64,22.64,22.24,23.05
+2018-2020,England,Local Areas,E09000032,Wandsworth,2,Female,1,<1,84.31,83.9,84.72
+2018-2020,England,Local Areas,E09000032,Wandsworth,2,Female,14,60-64,26.04,25.67,26.41
+2018-2020,England,Local Areas,E09000033,Westminster,1,Male,1,<1,84.74,84.08,85.39
+2018-2020,England,Local Areas,E09000033,Westminster,1,Male,14,60-64,27.21,26.58,27.85
+2018-2020,England,Local Areas,E09000033,Westminster,2,Female,1,<1,87.08,86.54,87.62
+2018-2020,England,Local Areas,E09000033,Westminster,2,Female,14,60-64,28.67,28.17,29.17
+2018-2020,England,Metropolitan County,E11000001,Greater Manchester (Met County),1,Male,1,<1,77.54,77.41,77.67
+2018-2020,England,Metropolitan County,E11000001,Greater Manchester (Met County),1,Male,14,60-64,21.41,21.32,21.51
+2018-2020,England,Metropolitan County,E11000001,Greater Manchester (Met County),2,Female,1,<1,81.31,81.18,81.43
+2018-2020,England,Metropolitan County,E11000001,Greater Manchester (Met County),2,Female,14,60-64,23.93,23.84,24.03
+2018-2020,England,Metropolitan County,E11000002,Merseyside (Met County),1,Male,1,<1,77.18,77,77.36
+2018-2020,England,Metropolitan County,E11000002,Merseyside (Met County),1,Male,14,60-64,21.29,21.17,21.41
+2018-2020,England,Metropolitan County,E11000002,Merseyside (Met County),2,Female,1,<1,81.01,80.83,81.18
+2018-2020,England,Metropolitan County,E11000002,Merseyside (Met County),2,Female,14,60-64,23.94,23.82,24.07
+2018-2020,England,Metropolitan County,E11000003,South Yorkshire (Met County),1,Male,1,<1,77.93,77.75,78.11
+2018-2020,England,Metropolitan County,E11000003,South Yorkshire (Met County),1,Male,14,60-64,21.71,21.59,21.83
+2018-2020,England,Metropolitan County,E11000003,South Yorkshire (Met County),2,Female,1,<1,81.57,81.4,81.74
+2018-2020,England,Metropolitan County,E11000003,South Yorkshire (Met County),2,Female,14,60-64,24.2,24.08,24.32
+2018-2020,England,Metropolitan County,E11000005,West Midlands (Met County),1,Male,1,<1,77.55,77.42,77.69
+2018-2020,England,Metropolitan County,E11000005,West Midlands (Met County),1,Male,14,60-64,21.55,21.46,21.65
+2018-2020,England,Metropolitan County,E11000005,West Midlands (Met County),2,Female,1,<1,81.87,81.74,81.99
+2018-2020,England,Metropolitan County,E11000005,West Midlands (Met County),2,Female,14,60-64,24.52,24.43,24.62
+2018-2020,England,Metropolitan County,E11000006,West Yorkshire (Met County),1,Male,1,<1,77.81,77.66,77.95
+2018-2020,England,Metropolitan County,E11000006,West Yorkshire (Met County),1,Male,14,60-64,21.68,21.58,21.78
+2018-2020,England,Metropolitan County,E11000006,West Yorkshire (Met County),2,Female,1,<1,81.8,81.67,81.94
+2018-2020,England,Metropolitan County,E11000006,West Yorkshire (Met County),2,Female,14,60-64,24.46,24.36,24.56
+2018-2020,England,Metropolitan County,E11000007,Tyne and Wear (Met County),1,Male,1,<1,77.24,77.04,77.44
+2018-2020,England,Metropolitan County,E11000007,Tyne and Wear (Met County),1,Male,14,60-64,21.35,21.22,21.49
+2018-2020,England,Metropolitan County,E11000007,Tyne and Wear (Met County),2,Female,1,<1,81.48,81.29,81.67
+2018-2020,England,Metropolitan County,E11000007,Tyne and Wear (Met County),2,Female,14,60-64,24.07,23.93,24.2
+2018-2020,England,Region,E12000001,North East,1,Male,1,<1,77.62,77.49,77.76
+2018-2020,England,Region,E12000001,North East,1,Male,14,60-64,21.78,21.69,21.87
+2018-2020,England,Region,E12000001,North East,2,Female,1,<1,81.51,81.38,81.63
+2018-2020,England,Region,E12000001,North East,2,Female,14,60-64,24.22,24.14,24.31
+2018-2020,England,Region,E12000002,North West,1,Male,1,<1,77.94,77.86,78.02
+2018-2020,England,Region,E12000002,North West,1,Male,14,60-64,21.82,21.76,21.87
+2018-2020,England,Region,E12000002,North West,2,Female,1,<1,81.72,81.64,81.79
+2018-2020,England,Region,E12000002,North West,2,Female,14,60-64,24.36,24.3,24.41
+2018-2020,England,Region,E12000003,Yorkshire and the Humber,1,Male,1,<1,78.35,78.25,78.44
+2018-2020,England,Region,E12000003,Yorkshire and the Humber,1,Male,14,60-64,22.07,22.01,22.13
+2018-2020,England,Region,E12000003,Yorkshire and the Humber,2,Female,1,<1,82.22,82.13,82.3
+2018-2020,England,Region,E12000003,Yorkshire and the Humber,2,Female,14,60-64,24.77,24.71,24.83
+2018-2020,England,Region,E12000004,East Midlands,1,Male,1,<1,79.16,79.06,79.25
+2018-2020,England,Region,E12000004,East Midlands,1,Male,14,60-64,22.52,22.45,22.58
+2018-2020,England,Region,E12000004,East Midlands,2,Female,1,<1,82.72,82.63,82.81
+2018-2020,England,Region,E12000004,East Midlands,2,Female,14,60-64,25.12,25.05,25.18
+2018-2020,England,Region,E12000005,West Midlands,1,Male,1,<1,78.54,78.45,78.63
+2018-2020,England,Region,E12000005,West Midlands,1,Male,14,60-64,22.28,22.22,22.34
+2018-2020,England,Region,E12000005,West Midlands,2,Female,1,<1,82.51,82.42,82.6
+2018-2020,England,Region,E12000005,West Midlands,2,Female,14,60-64,25.03,24.97,25.09
+2018-2020,England,Region,E12000006,East of England,1,Male,1,<1,80.19,80.1,80.27
+2018-2020,England,Region,E12000006,East of England,1,Male,14,60-64,23.26,23.2,23.32
+2018-2020,England,Region,E12000006,East of England,2,Female,1,<1,83.79,83.71,83.87
+2018-2020,England,Region,E12000006,East of England,2,Female,14,60-64,25.88,25.82,25.94
+2018-2020,England,Region,E12000007,London,1,Male,1,<1,80.29,80.21,80.37
+2018-2020,England,Region,E12000007,London,1,Male,14,60-64,23.27,23.2,23.34
+2018-2020,England,Region,E12000007,London,2,Female,1,<1,84.33,84.26,84.41
+2018-2020,England,Region,E12000007,London,2,Female,14,60-64,26.33,26.27,26.4
+2018-2020,England,Region,E12000008,South East,1,Male,1,<1,80.59,80.52,80.66
+2018-2020,England,Region,E12000008,South East,1,Male,14,60-64,23.54,23.49,23.59
+2018-2020,England,Region,E12000008,South East,2,Female,1,<1,84.13,84.06,84.19
+2018-2020,England,Region,E12000008,South East,2,Female,14,60-64,26.22,26.17,26.27
+2018-2020,England,Region,E12000009,South West,1,Male,1,<1,80.31,80.22,80.4
+2018-2020,England,Region,E12000009,South West,1,Male,14,60-64,23.5,23.44,23.56
+2018-2020,England,Region,E12000009,South West,2,Female,1,<1,84.07,83.99,84.16
+2018-2020,England,Region,E12000009,South West,2,Female,14,60-64,26.22,26.16,26.28
+2018-2020,Northern Ireland,Country,N92000002,Northern Ireland,1,Male,1,<1,78.67,78.51,78.83
+2018-2020,Northern Ireland,Country,N92000002,Northern Ireland,1,Male,14,60-64,22.45,22.34,22.57
+2018-2020,Northern Ireland,Country,N92000002,Northern Ireland,2,Female,1,<1,82.39,82.24,82.54
+2018-2020,Northern Ireland,Country,N92000002,Northern Ireland,2,Female,14,60-64,24.96,24.85,25.08
+2018-2020,Northern Ireland,Local Areas,N09000001,Antrim and Newtownabbey,1,Male,1,<1,78.82,78.26,79.39
+2018-2020,Northern Ireland,Local Areas,N09000001,Antrim and Newtownabbey,1,Male,14,60-64,22.03,21.63,22.44
+2018-2020,Northern Ireland,Local Areas,N09000001,Antrim and Newtownabbey,2,Female,1,<1,82.56,82.04,83.08
+2018-2020,Northern Ireland,Local Areas,N09000001,Antrim and Newtownabbey,2,Female,14,60-64,24.82,24.4,25.23
+2018-2020,Northern Ireland,Local Areas,N09000002,"Armagh City, Banbridge and Craigavon",1,Male,1,<1,79.31,78.83,79.78
+2018-2020,Northern Ireland,Local Areas,N09000002,"Armagh City, Banbridge and Craigavon",1,Male,14,60-64,22.81,22.46,23.16
+2018-2020,Northern Ireland,Local Areas,N09000002,"Armagh City, Banbridge and Craigavon",2,Female,1,<1,83.21,82.75,83.66
+2018-2020,Northern Ireland,Local Areas,N09000002,"Armagh City, Banbridge and Craigavon",2,Female,14,60-64,25.4,25.03,25.76
+2018-2020,Northern Ireland,Local Areas,N09000003,Belfast,1,Male,1,<1,75.78,75.37,76.19
+2018-2020,Northern Ireland,Local Areas,N09000003,Belfast,1,Male,14,60-64,20.88,20.6,21.17
+2018-2020,Northern Ireland,Local Areas,N09000003,Belfast,2,Female,1,<1,80.53,80.14,80.91
+2018-2020,Northern Ireland,Local Areas,N09000003,Belfast,2,Female,14,60-64,23.83,23.54,24.11
+2018-2020,Northern Ireland,Local Areas,N09000004,Causeway Coast and Glens,1,Male,1,<1,79.67,79.12,80.23
+2018-2020,Northern Ireland,Local Areas,N09000004,Causeway Coast and Glens,1,Male,14,60-64,22.87,22.48,23.26
+2018-2020,Northern Ireland,Local Areas,N09000004,Causeway Coast and Glens,2,Female,1,<1,82.61,82.07,83.16
+2018-2020,Northern Ireland,Local Areas,N09000004,Causeway Coast and Glens,2,Female,14,60-64,25.21,24.81,25.61
+2018-2020,Northern Ireland,Local Areas,N09000005,Derry City and Strabane,1,Male,1,<1,78.02,77.44,78.6
+2018-2020,Northern Ireland,Local Areas,N09000005,Derry City and Strabane,1,Male,14,60-64,22.07,21.64,22.49
+2018-2020,Northern Ireland,Local Areas,N09000005,Derry City and Strabane,2,Female,1,<1,81.55,81.03,82.07
+2018-2020,Northern Ireland,Local Areas,N09000005,Derry City and Strabane,2,Female,14,60-64,24.17,23.77,24.58
+2018-2020,Northern Ireland,Local Areas,N09000006,Fermanagh and Omagh,1,Male,1,<1,79.17,78.53,79.81
+2018-2020,Northern Ireland,Local Areas,N09000006,Fermanagh and Omagh,1,Male,14,60-64,22.74,22.29,23.19
+2018-2020,Northern Ireland,Local Areas,N09000006,Fermanagh and Omagh,2,Female,1,<1,83.21,82.59,83.84
+2018-2020,Northern Ireland,Local Areas,N09000006,Fermanagh and Omagh,2,Female,14,60-64,25.46,24.98,25.94
+2018-2020,Northern Ireland,Local Areas,N09000007,Lisburn and Castlereagh,1,Male,1,<1,80.29,79.71,80.86
+2018-2020,Northern Ireland,Local Areas,N09000007,Lisburn and Castlereagh,1,Male,14,60-64,23.44,23.03,23.85
+2018-2020,Northern Ireland,Local Areas,N09000007,Lisburn and Castlereagh,2,Female,1,<1,83.28,82.77,83.79
+2018-2020,Northern Ireland,Local Areas,N09000007,Lisburn and Castlereagh,2,Female,14,60-64,25.45,25.06,25.83
+2018-2020,Northern Ireland,Local Areas,N09000008,Mid and East Antrim,1,Male,1,<1,79.01,78.43,79.6
+2018-2020,Northern Ireland,Local Areas,N09000008,Mid and East Antrim,1,Male,14,60-64,22.59,22.21,22.98
+2018-2020,Northern Ireland,Local Areas,N09000008,Mid and East Antrim,2,Female,1,<1,82.34,81.79,82.89
+2018-2020,Northern Ireland,Local Areas,N09000008,Mid and East Antrim,2,Female,14,60-64,25.06,24.68,25.44
+2018-2020,Northern Ireland,Local Areas,N09000009,Mid Ulster,1,Male,1,<1,79.63,79.05,80.21
+2018-2020,Northern Ireland,Local Areas,N09000009,Mid Ulster,1,Male,14,60-64,22.97,22.53,23.4
+2018-2020,Northern Ireland,Local Areas,N09000009,Mid Ulster,2,Female,1,<1,83.12,82.57,83.68
+2018-2020,Northern Ireland,Local Areas,N09000009,Mid Ulster,2,Female,14,60-64,25.35,24.89,25.81
+2018-2020,Northern Ireland,Local Areas,N09000010,"Newry, Mourne and Down",1,Male,1,<1,79.33,78.81,79.86
+2018-2020,Northern Ireland,Local Areas,N09000010,"Newry, Mourne and Down",1,Male,14,60-64,22.8,22.42,23.19
+2018-2020,Northern Ireland,Local Areas,N09000010,"Newry, Mourne and Down",2,Female,1,<1,83.16,82.68,83.64
+2018-2020,Northern Ireland,Local Areas,N09000010,"Newry, Mourne and Down",2,Female,14,60-64,25.43,25.06,25.8
+2018-2020,Northern Ireland,Local Areas,N09000011,Ards and North Down,1,Male,1,<1,79.57,79.01,80.13
+2018-2020,Northern Ireland,Local Areas,N09000011,Ards and North Down,1,Male,14,60-64,23.12,22.76,23.47
+2018-2020,Northern Ireland,Local Areas,N09000011,Ards and North Down,2,Female,1,<1,82.66,82.12,83.2
+2018-2020,Northern Ireland,Local Areas,N09000011,Ards and North Down,2,Female,14,60-64,25.42,25.08,25.77
+2018-2020,Scotland,Country,S92000003,Scotland,1,Male,1,<1,76.81,76.71,76.9
+2018-2020,Scotland,Country,S92000003,Scotland,1,Male,14,60-64,21.41,21.35,21.47
+2018-2020,Scotland,Country,S92000003,Scotland,2,Female,1,<1,80.98,80.89,81.06
+2018-2020,Scotland,Country,S92000003,Scotland,2,Female,14,60-64,23.9,23.84,23.96
+2018-2020,Scotland,Local Areas,S12000005,Clackmannanshire,1,Male,1,<1,76.17,75.16,77.18
+2018-2020,Scotland,Local Areas,S12000005,Clackmannanshire,1,Male,14,60-64,21.22,20.56,21.88
+2018-2020,Scotland,Local Areas,S12000005,Clackmannanshire,2,Female,1,<1,80.62,79.78,81.46
+2018-2020,Scotland,Local Areas,S12000005,Clackmannanshire,2,Female,14,60-64,23.54,22.93,24.14
+2018-2020,Scotland,Local Areas,S12000006,Dumfries and Galloway,1,Male,1,<1,78.03,77.43,78.64
+2018-2020,Scotland,Local Areas,S12000006,Dumfries and Galloway,1,Male,14,60-64,22.63,22.31,22.96
+2018-2020,Scotland,Local Areas,S12000006,Dumfries and Galloway,2,Female,1,<1,81.47,80.95,81.98
+2018-2020,Scotland,Local Areas,S12000006,Dumfries and Galloway,2,Female,14,60-64,24.34,24.03,24.66
+2018-2020,Scotland,Local Areas,S12000008,East Ayrshire,1,Male,1,<1,75.23,74.59,75.87
+2018-2020,Scotland,Local Areas,S12000008,East Ayrshire,1,Male,14,60-64,20.59,20.21,20.97
+2018-2020,Scotland,Local Areas,S12000008,East Ayrshire,2,Female,1,<1,79.81,79.23,80.39
+2018-2020,Scotland,Local Areas,S12000008,East Ayrshire,2,Female,14,60-64,23.09,22.7,23.47
+2018-2020,Scotland,Local Areas,S12000010,East Lothian,1,Male,1,<1,79.28,78.61,79.95
+2018-2020,Scotland,Local Areas,S12000010,East Lothian,1,Male,14,60-64,22.69,22.25,23.13
+2018-2020,Scotland,Local Areas,S12000010,East Lothian,2,Female,1,<1,82.86,82.28,83.44
+2018-2020,Scotland,Local Areas,S12000010,East Lothian,2,Female,14,60-64,24.93,24.5,25.36
+2018-2020,Scotland,Local Areas,S12000011,East Renfrewshire,1,Male,1,<1,79.53,78.84,80.23
+2018-2020,Scotland,Local Areas,S12000011,East Renfrewshire,1,Male,14,60-64,22.8,22.32,23.28
+2018-2020,Scotland,Local Areas,S12000011,East Renfrewshire,2,Female,1,<1,83.96,83.33,84.59
+2018-2020,Scotland,Local Areas,S12000011,East Renfrewshire,2,Female,14,60-64,25.91,25.43,26.38
+2018-2020,Scotland,Local Areas,S12000013,Na h-Eileanan Siar,1,Male,1,<1,78.58,77.34,79.82
+2018-2020,Scotland,Local Areas,S12000013,Na h-Eileanan Siar,1,Male,14,60-64,22.12,21.28,22.97
+2018-2020,Scotland,Local Areas,S12000013,Na h-Eileanan Siar,2,Female,1,<1,83.03,81.86,84.21
+2018-2020,Scotland,Local Areas,S12000013,Na h-Eileanan Siar,2,Female,14,60-64,25.42,24.67,26.16
+2018-2020,Scotland,Local Areas,S12000014,Falkirk,1,Male,1,<1,76.58,76.06,77.11
+2018-2020,Scotland,Local Areas,S12000014,Falkirk,1,Male,14,60-64,20.97,20.62,21.32
+2018-2020,Scotland,Local Areas,S12000014,Falkirk,2,Female,1,<1,80.36,79.86,80.85
+2018-2020,Scotland,Local Areas,S12000014,Falkirk,2,Female,14,60-64,23.24,22.9,23.58
+2018-2020,Scotland,Local Areas,S12000017,Highland,1,Male,1,<1,77.5,77,78.01
+2018-2020,Scotland,Local Areas,S12000017,Highland,1,Male,14,60-64,22.62,22.32,22.91
+2018-2020,Scotland,Local Areas,S12000017,Highland,2,Female,1,<1,81.86,81.42,82.31
+2018-2020,Scotland,Local Areas,S12000017,Highland,2,Female,14,60-64,24.85,24.57,25.14
+2018-2020,Scotland,Local Areas,S12000018,Inverclyde,1,Male,1,<1,74.3,73.47,75.14
+2018-2020,Scotland,Local Areas,S12000018,Inverclyde,1,Male,14,60-64,20.08,19.61,20.54
+2018-2020,Scotland,Local Areas,S12000018,Inverclyde,2,Female,1,<1,78.59,77.83,79.35
+2018-2020,Scotland,Local Areas,S12000018,Inverclyde,2,Female,14,60-64,22.3,21.84,22.76
+2018-2020,Scotland,Local Areas,S12000019,Midlothian,1,Male,1,<1,77.44,76.7,78.19
+2018-2020,Scotland,Local Areas,S12000019,Midlothian,1,Male,14,60-64,21.78,21.29,22.26
+2018-2020,Scotland,Local Areas,S12000019,Midlothian,2,Female,1,<1,81.17,80.54,81.81
+2018-2020,Scotland,Local Areas,S12000019,Midlothian,2,Female,14,60-64,23.88,23.41,24.35
+2018-2020,Scotland,Local Areas,S12000020,Moray,1,Male,1,<1,78.93,78.19,79.66
+2018-2020,Scotland,Local Areas,S12000020,Moray,1,Male,14,60-64,22.86,22.39,23.34
+2018-2020,Scotland,Local Areas,S12000020,Moray,2,Female,1,<1,81.82,81.15,82.49
+2018-2020,Scotland,Local Areas,S12000020,Moray,2,Female,14,60-64,24.67,24.22,25.12
+2018-2020,Scotland,Local Areas,S12000021,North Ayrshire,1,Male,1,<1,75.3,74.65,75.94
+2018-2020,Scotland,Local Areas,S12000021,North Ayrshire,1,Male,14,60-64,20.8,20.45,21.15
+2018-2020,Scotland,Local Areas,S12000021,North Ayrshire,2,Female,1,<1,80.1,79.54,80.66
+2018-2020,Scotland,Local Areas,S12000021,North Ayrshire,2,Female,14,60-64,23.4,23.05,23.76
+2018-2020,Scotland,Local Areas,S12000023,Orkney Islands,1,Male,1,<1,80.12,78.74,81.49
+2018-2020,Scotland,Local Areas,S12000023,Orkney Islands,1,Male,14,60-64,23.48,22.58,24.39
+2018-2020,Scotland,Local Areas,S12000023,Orkney Islands,2,Female,1,<1,83.49,82.09,84.89
+2018-2020,Scotland,Local Areas,S12000023,Orkney Islands,2,Female,14,60-64,25.97,25,26.95
+2018-2020,Scotland,Local Areas,S12000026,Scottish Borders,1,Male,1,<1,78.63,77.95,79.31
+2018-2020,Scotland,Local Areas,S12000026,Scottish Borders,1,Male,14,60-64,22.73,22.36,23.1
+2018-2020,Scotland,Local Areas,S12000026,Scottish Borders,2,Female,1,<1,82.1,81.52,82.69
+2018-2020,Scotland,Local Areas,S12000026,Scottish Borders,2,Female,14,60-64,24.96,24.59,25.32
+2018-2020,Scotland,Local Areas,S12000027,Shetland Islands,1,Male,1,<1,80.6,79.31,81.88
+2018-2020,Scotland,Local Areas,S12000027,Shetland Islands,1,Male,14,60-64,23.24,22.21,24.27
+2018-2020,Scotland,Local Areas,S12000027,Shetland Islands,2,Female,1,<1,83.21,81.85,84.56
+2018-2020,Scotland,Local Areas,S12000027,Shetland Islands,2,Female,14,60-64,25.78,24.81,26.76
+2018-2020,Scotland,Local Areas,S12000028,South Ayrshire,1,Male,1,<1,76.65,75.96,77.34
+2018-2020,Scotland,Local Areas,S12000028,South Ayrshire,1,Male,14,60-64,21.45,21.07,21.83
+2018-2020,Scotland,Local Areas,S12000028,South Ayrshire,2,Female,1,<1,81.14,80.53,81.74
+2018-2020,Scotland,Local Areas,S12000028,South Ayrshire,2,Female,14,60-64,24.27,23.9,24.64
+2018-2020,Scotland,Local Areas,S12000029,South Lanarkshire,1,Male,1,<1,76.39,76.01,76.78
+2018-2020,Scotland,Local Areas,S12000029,South Lanarkshire,1,Male,14,60-64,20.89,20.64,21.13
+2018-2020,Scotland,Local Areas,S12000029,South Lanarkshire,2,Female,1,<1,80.48,80.14,80.82
+2018-2020,Scotland,Local Areas,S12000029,South Lanarkshire,2,Female,14,60-64,23.27,23.03,23.5
+2018-2020,Scotland,Local Areas,S12000030,Stirling,1,Male,1,<1,77.61,76.87,78.34
+2018-2020,Scotland,Local Areas,S12000030,Stirling,1,Male,14,60-64,21.94,21.48,22.41
+2018-2020,Scotland,Local Areas,S12000030,Stirling,2,Female,1,<1,81.92,81.2,82.63
+2018-2020,Scotland,Local Areas,S12000030,Stirling,2,Female,14,60-64,24.85,24.37,25.33
+2018-2020,Scotland,Local Areas,S12000033,Aberdeen City,1,Male,1,<1,76.93,76.48,77.39
+2018-2020,Scotland,Local Areas,S12000033,Aberdeen City,1,Male,14,60-64,21.05,20.73,21.38
+2018-2020,Scotland,Local Areas,S12000033,Aberdeen City,2,Female,1,<1,81.26,80.82,81.7
+2018-2020,Scotland,Local Areas,S12000033,Aberdeen City,2,Female,14,60-64,24.02,23.69,24.35
+2018-2020,Scotland,Local Areas,S12000034,Aberdeenshire,1,Male,1,<1,78.94,78.52,79.35
+2018-2020,Scotland,Local Areas,S12000034,Aberdeenshire,1,Male,14,60-64,22.4,22.13,22.68
+2018-2020,Scotland,Local Areas,S12000034,Aberdeenshire,2,Female,1,<1,82.44,82.05,82.83
+2018-2020,Scotland,Local Areas,S12000034,Aberdeenshire,2,Female,14,60-64,24.93,24.65,25.21
+2018-2020,Scotland,Local Areas,S12000035,Argyll and Bute,1,Male,1,<1,78.01,77.27,78.75
+2018-2020,Scotland,Local Areas,S12000035,Argyll and Bute,1,Male,14,60-64,22.37,21.92,22.82
+2018-2020,Scotland,Local Areas,S12000035,Argyll and Bute,2,Female,1,<1,81.57,80.88,82.26
+2018-2020,Scotland,Local Areas,S12000035,Argyll and Bute,2,Female,14,60-64,24.5,24.09,24.91
+2018-2020,Scotland,Local Areas,S12000036,City of Edinburgh,1,Male,1,<1,78.15,77.84,78.47
+2018-2020,Scotland,Local Areas,S12000036,City of Edinburgh,1,Male,14,60-64,21.92,21.69,22.15
+2018-2020,Scotland,Local Areas,S12000036,City of Edinburgh,2,Female,1,<1,82.36,82.06,82.65
+2018-2020,Scotland,Local Areas,S12000036,City of Edinburgh,2,Female,14,60-64,24.83,24.6,25.05
+2018-2020,Scotland,Local Areas,S12000038,Renfrewshire,1,Male,1,<1,75.71,75.18,76.25
+2018-2020,Scotland,Local Areas,S12000038,Renfrewshire,1,Male,14,60-64,20.48,20.14,20.82
+2018-2020,Scotland,Local Areas,S12000038,Renfrewshire,2,Female,1,<1,80.4,79.94,80.86
+2018-2020,Scotland,Local Areas,S12000038,Renfrewshire,2,Female,14,60-64,23.13,22.81,23.46
+2018-2020,Scotland,Local Areas,S12000039,West Dunbartonshire,1,Male,1,<1,74.1,73.34,74.86
+2018-2020,Scotland,Local Areas,S12000039,West Dunbartonshire,1,Male,14,60-64,19.7,19.24,20.15
+2018-2020,Scotland,Local Areas,S12000039,West Dunbartonshire,2,Female,1,<1,78.83,78.17,79.49
+2018-2020,Scotland,Local Areas,S12000039,West Dunbartonshire,2,Female,14,60-64,22.26,21.83,22.69
+2018-2020,Scotland,Local Areas,S12000040,West Lothian,1,Male,1,<1,77.53,77,78.06
+2018-2020,Scotland,Local Areas,S12000040,West Lothian,1,Male,14,60-64,21.52,21.15,21.9
+2018-2020,Scotland,Local Areas,S12000040,West Lothian,2,Female,1,<1,80.47,79.99,80.95
+2018-2020,Scotland,Local Areas,S12000040,West Lothian,2,Female,14,60-64,23.29,22.94,23.64
+2018-2020,Scotland,Local Areas,S12000041,Angus,1,Male,1,<1,78.45,77.8,79.11
+2018-2020,Scotland,Local Areas,S12000041,Angus,1,Male,14,60-64,22.36,21.96,22.75
+2018-2020,Scotland,Local Areas,S12000041,Angus,2,Female,1,<1,82.27,81.68,82.86
+2018-2020,Scotland,Local Areas,S12000041,Angus,2,Female,14,60-64,24.96,24.58,25.34
+2018-2020,Scotland,Local Areas,S12000042,Dundee City,1,Male,1,<1,73.8,73.16,74.44
+2018-2020,Scotland,Local Areas,S12000042,Dundee City,1,Male,14,60-64,20.24,19.85,20.63
+2018-2020,Scotland,Local Areas,S12000042,Dundee City,2,Female,1,<1,79.38,78.8,79.96
+2018-2020,Scotland,Local Areas,S12000042,Dundee City,2,Female,14,60-64,23.3,22.91,23.68
+2018-2020,Scotland,Local Areas,S12000045,East Dunbartonshire,1,Male,1,<1,80.16,79.52,80.79
+2018-2020,Scotland,Local Areas,S12000045,East Dunbartonshire,1,Male,14,60-64,23.31,22.9,23.72
+2018-2020,Scotland,Local Areas,S12000045,East Dunbartonshire,2,Female,1,<1,83.43,82.83,84.03
+2018-2020,Scotland,Local Areas,S12000045,East Dunbartonshire,2,Female,14,60-64,25.86,25.47,26.26
+2018-2020,Scotland,Local Areas,S12000047,Fife,1,Male,1,<1,77.15,76.77,77.54
+2018-2020,Scotland,Local Areas,S12000047,Fife,1,Male,14,60-64,21.84,21.6,22.07
+2018-2020,Scotland,Local Areas,S12000047,Fife,2,Female,1,<1,81.41,81.08,81.75
+2018-2020,Scotland,Local Areas,S12000047,Fife,2,Female,14,60-64,24.26,24.03,24.49
+2018-2020,Scotland,Local Areas,S12000048,Perth and Kinross,1,Male,1,<1,78.99,78.4,79.58
+2018-2020,Scotland,Local Areas,S12000048,Perth and Kinross,1,Male,14,60-64,23.43,23.07,23.79
+2018-2020,Scotland,Local Areas,S12000048,Perth and Kinross,2,Female,1,<1,82.88,82.36,83.39
+2018-2020,Scotland,Local Areas,S12000048,Perth and Kinross,2,Female,14,60-64,25.42,25.08,25.77
+2018-2020,Scotland,Local Areas,S12000049,Glasgow City,1,Male,1,<1,73.14,72.85,73.43
+2018-2020,Scotland,Local Areas,S12000049,Glasgow City,1,Male,14,60-64,18.91,18.71,19.12
+2018-2020,Scotland,Local Areas,S12000049,Glasgow City,2,Female,1,<1,78.28,78,78.55
+2018-2020,Scotland,Local Areas,S12000049,Glasgow City,2,Female,14,60-64,21.89,21.69,22.1
+2018-2020,Scotland,Local Areas,S12000050,North Lanarkshire,1,Male,1,<1,74.52,74.12,74.91
+2018-2020,Scotland,Local Areas,S12000050,North Lanarkshire,1,Male,14,60-64,20.08,19.82,20.33
+2018-2020,Scotland,Local Areas,S12000050,North Lanarkshire,2,Female,1,<1,79.21,78.86,79.57
+2018-2020,Scotland,Local Areas,S12000050,North Lanarkshire,2,Female,14,60-64,22.53,22.29,22.77
+2018-2020,Wales,Country,W92000004,Wales,1,Male,1,<1,78.3,78.18,78.42
+2018-2020,Wales,Country,W92000004,Wales,1,Male,14,60-64,22.1,22.02,22.18
+2018-2020,Wales,Country,W92000004,Wales,2,Female,1,<1,82.06,81.94,82.17
+2018-2020,Wales,Country,W92000004,Wales,2,Female,14,60-64,24.68,24.6,24.75
+2018-2020,Wales,Local Areas,W06000001,Isle of Anglesey,1,Male,1,<1,79.27,78.45,80.09
+2018-2020,Wales,Local Areas,W06000001,Isle of Anglesey,1,Male,14,60-64,23.2,22.69,23.71
+2018-2020,Wales,Local Areas,W06000001,Isle of Anglesey,2,Female,1,<1,82.87,82.05,83.69
+2018-2020,Wales,Local Areas,W06000001,Isle of Anglesey,2,Female,14,60-64,25.74,25.2,26.28
+2018-2020,Wales,Local Areas,W06000002,Gwynedd,1,Male,1,<1,79.51,78.93,80.09
+2018-2020,Wales,Local Areas,W06000002,Gwynedd,1,Male,14,60-64,22.66,22.25,23.06
+2018-2020,Wales,Local Areas,W06000002,Gwynedd,2,Female,1,<1,83.1,82.52,83.69
+2018-2020,Wales,Local Areas,W06000002,Gwynedd,2,Female,14,60-64,25.49,25.08,25.89
+2018-2020,Wales,Local Areas,W06000003,Conwy,1,Male,1,<1,78.36,77.65,79.07
+2018-2020,Wales,Local Areas,W06000003,Conwy,1,Male,14,60-64,22.99,22.59,23.39
+2018-2020,Wales,Local Areas,W06000003,Conwy,2,Female,1,<1,83.05,82.4,83.7
+2018-2020,Wales,Local Areas,W06000003,Conwy,2,Female,14,60-64,26.03,25.62,26.43
+2018-2020,Wales,Local Areas,W06000004,Denbighshire,1,Male,1,<1,78.27,77.6,78.93
+2018-2020,Wales,Local Areas,W06000004,Denbighshire,1,Male,14,60-64,21.98,21.57,22.39
+2018-2020,Wales,Local Areas,W06000004,Denbighshire,2,Female,1,<1,81.13,80.51,81.75
+2018-2020,Wales,Local Areas,W06000004,Denbighshire,2,Female,14,60-64,23.79,23.4,24.18
+2018-2020,Wales,Local Areas,W06000005,Flintshire,1,Male,1,<1,79.21,78.67,79.76
+2018-2020,Wales,Local Areas,W06000005,Flintshire,1,Male,14,60-64,22.7,22.34,23.06
+2018-2020,Wales,Local Areas,W06000005,Flintshire,2,Female,1,<1,82.17,81.64,82.69
+2018-2020,Wales,Local Areas,W06000005,Flintshire,2,Female,14,60-64,24.8,24.44,25.15
+2018-2020,Wales,Local Areas,W06000006,Wrexham,1,Male,1,<1,78.32,77.72,78.93
+2018-2020,Wales,Local Areas,W06000006,Wrexham,1,Male,14,60-64,22.39,21.98,22.79
+2018-2020,Wales,Local Areas,W06000006,Wrexham,2,Female,1,<1,81.33,80.77,81.88
+2018-2020,Wales,Local Areas,W06000006,Wrexham,2,Female,14,60-64,24.22,23.84,24.6
+2018-2020,Wales,Local Areas,W06000008,Ceredigion,1,Male,1,<1,78.94,78.03,79.85
+2018-2020,Wales,Local Areas,W06000008,Ceredigion,1,Male,14,60-64,23.31,22.79,23.84
+2018-2020,Wales,Local Areas,W06000008,Ceredigion,2,Female,1,<1,83.71,82.88,84.54
+2018-2020,Wales,Local Areas,W06000008,Ceredigion,2,Female,14,60-64,26.37,25.82,26.91
+2018-2020,Wales,Local Areas,W06000009,Pembrokeshire,1,Male,1,<1,79.46,78.78,80.14
+2018-2020,Wales,Local Areas,W06000009,Pembrokeshire,1,Male,14,60-64,23.44,23.05,23.83
+2018-2020,Wales,Local Areas,W06000009,Pembrokeshire,2,Female,1,<1,83.11,82.55,83.68
+2018-2020,Wales,Local Areas,W06000009,Pembrokeshire,2,Female,14,60-64,25.33,24.95,25.71
+2018-2020,Wales,Local Areas,W06000010,Carmarthenshire,1,Male,1,<1,78.41,77.89,78.92
+2018-2020,Wales,Local Areas,W06000010,Carmarthenshire,1,Male,14,60-64,22.39,22.1,22.69
+2018-2020,Wales,Local Areas,W06000010,Carmarthenshire,2,Female,1,<1,82.28,81.84,82.72
+2018-2020,Wales,Local Areas,W06000010,Carmarthenshire,2,Female,14,60-64,24.59,24.28,24.9
+2018-2020,Wales,Local Areas,W06000011,Swansea,1,Male,1,<1,77.46,77.01,77.91
+2018-2020,Wales,Local Areas,W06000011,Swansea,1,Male,14,60-64,21.65,21.35,21.94
+2018-2020,Wales,Local Areas,W06000011,Swansea,2,Female,1,<1,81.82,81.39,82.25
+2018-2020,Wales,Local Areas,W06000011,Swansea,2,Female,14,60-64,24.66,24.37,24.95
+2018-2020,Wales,Local Areas,W06000012,Neath Port Talbot,1,Male,1,<1,76.92,76.38,77.46
+2018-2020,Wales,Local Areas,W06000012,Neath Port Talbot,1,Male,14,60-64,21.13,20.78,21.48
+2018-2020,Wales,Local Areas,W06000012,Neath Port Talbot,2,Female,1,<1,80.94,80.41,81.47
+2018-2020,Wales,Local Areas,W06000012,Neath Port Talbot,2,Female,14,60-64,23.94,23.58,24.3
+2018-2020,Wales,Local Areas,W06000013,Bridgend,1,Male,1,<1,76.97,76.39,77.55
+2018-2020,Wales,Local Areas,W06000013,Bridgend,1,Male,14,60-64,21.25,20.89,21.61
+2018-2020,Wales,Local Areas,W06000013,Bridgend,2,Female,1,<1,81.18,80.69,81.66
+2018-2020,Wales,Local Areas,W06000013,Bridgend,2,Female,14,60-64,23.61,23.27,23.96
+2018-2020,Wales,Local Areas,W06000014,Vale of Glamorgan,1,Male,1,<1,79.6,79.05,80.15
+2018-2020,Wales,Local Areas,W06000014,Vale of Glamorgan,1,Male,14,60-64,22.68,22.29,23.06
+2018-2020,Wales,Local Areas,W06000014,Vale of Glamorgan,2,Female,1,<1,83.27,82.72,83.82
+2018-2020,Wales,Local Areas,W06000014,Vale of Glamorgan,2,Female,14,60-64,25.79,25.4,26.18
+2018-2020,Wales,Local Areas,W06000015,Cardiff,1,Male,1,<1,78.03,77.66,78.4
+2018-2020,Wales,Local Areas,W06000015,Cardiff,1,Male,14,60-64,21.49,21.21,21.76
+2018-2020,Wales,Local Areas,W06000015,Cardiff,2,Female,1,<1,82.77,82.41,83.13
+2018-2020,Wales,Local Areas,W06000015,Cardiff,2,Female,14,60-64,25.22,24.94,25.5
+2018-2020,Wales,Local Areas,W06000016,Rhondda Cynon Taf,1,Male,1,<1,76.98,76.55,77.41
+2018-2020,Wales,Local Areas,W06000016,Rhondda Cynon Taf,1,Male,14,60-64,20.94,20.65,21.22
+2018-2020,Wales,Local Areas,W06000016,Rhondda Cynon Taf,2,Female,1,<1,80.52,80.12,80.91
+2018-2020,Wales,Local Areas,W06000016,Rhondda Cynon Taf,2,Female,14,60-64,23.36,23.08,23.64
+2018-2020,Wales,Local Areas,W06000018,Caerphilly,1,Male,1,<1,77.4,76.89,77.9
+2018-2020,Wales,Local Areas,W06000018,Caerphilly,1,Male,14,60-64,21.33,21,21.66
+2018-2020,Wales,Local Areas,W06000018,Caerphilly,2,Female,1,<1,81.12,80.64,81.61
+2018-2020,Wales,Local Areas,W06000018,Caerphilly,2,Female,14,60-64,23.96,23.62,24.31
+2018-2020,Wales,Local Areas,W06000019,Blaenau Gwent,1,Male,1,<1,76.3,75.49,77.11
+2018-2020,Wales,Local Areas,W06000019,Blaenau Gwent,1,Male,14,60-64,20.76,20.25,21.27
+2018-2020,Wales,Local Areas,W06000019,Blaenau Gwent,2,Female,1,<1,79.96,79.22,80.69
+2018-2020,Wales,Local Areas,W06000019,Blaenau Gwent,2,Female,14,60-64,22.59,22.07,23.1
+2018-2020,Wales,Local Areas,W06000020,Torfaen,1,Male,1,<1,78.12,77.38,78.86
+2018-2020,Wales,Local Areas,W06000020,Torfaen,1,Male,14,60-64,21.98,21.5,22.46
+2018-2020,Wales,Local Areas,W06000020,Torfaen,2,Female,1,<1,81.34,80.67,82.02
+2018-2020,Wales,Local Areas,W06000020,Torfaen,2,Female,14,60-64,24.12,23.67,24.56
+2018-2020,Wales,Local Areas,W06000021,Monmouthshire,1,Male,1,<1,81.63,80.97,82.28
+2018-2020,Wales,Local Areas,W06000021,Monmouthshire,1,Male,14,60-64,24.33,23.89,24.78
+2018-2020,Wales,Local Areas,W06000021,Monmouthshire,2,Female,1,<1,84.6,83.98,85.22
+2018-2020,Wales,Local Areas,W06000021,Monmouthshire,2,Female,14,60-64,26.51,26.06,26.96
+2018-2020,Wales,Local Areas,W06000022,Newport,1,Male,1,<1,77.54,77,78.07
+2018-2020,Wales,Local Areas,W06000022,Newport,1,Male,14,60-64,21.16,20.77,21.54
+2018-2020,Wales,Local Areas,W06000022,Newport,2,Female,1,<1,81.63,81.11,82.15
+2018-2020,Wales,Local Areas,W06000022,Newport,2,Female,14,60-64,24.14,23.76,24.52
+2018-2020,Wales,Local Areas,W06000023,Powys,1,Male,1,<1,80.13,79.55,80.71
+2018-2020,Wales,Local Areas,W06000023,Powys,1,Male,14,60-64,23.25,22.91,23.58
+2018-2020,Wales,Local Areas,W06000023,Powys,2,Female,1,<1,83.38,82.81,83.96
+2018-2020,Wales,Local Areas,W06000023,Powys,2,Female,14,60-64,25.8,25.44,26.15
+2018-2020,Wales,Local Areas,W06000024,Merthyr Tydfil,1,Male,1,<1,76.3,75.42,77.19
+2018-2020,Wales,Local Areas,W06000024,Merthyr Tydfil,1,Male,14,60-64,20.84,20.29,21.39
+2018-2020,Wales,Local Areas,W06000024,Merthyr Tydfil,2,Female,1,<1,80.15,79.33,80.97
+2018-2020,Wales,Local Areas,W06000024,Merthyr Tydfil,2,Female,14,60-64,22.87,22.3,23.43
+2018-2020,Wales,Welsh Health Boards,W11000023,Betsi Cadwaladr University Health Board/ Bwrdd Iechyd Prifysgol Betsi Cadwaladr,1,Male,1,<1,78.85,78.59,79.11
+2018-2020,Wales,Welsh Health Boards,W11000023,Betsi Cadwaladr University Health Board/ Bwrdd Iechyd Prifysgol Betsi Cadwaladr,1,Male,14,60-64,22.65,22.48,22.82
+2018-2020,Wales,Welsh Health Boards,W11000023,Betsi Cadwaladr University Health Board/ Bwrdd Iechyd Prifysgol Betsi Cadwaladr,2,Female,1,<1,82.26,82.01,82.51
+2018-2020,Wales,Welsh Health Boards,W11000023,Betsi Cadwaladr University Health Board/ Bwrdd Iechyd Prifysgol Betsi Cadwaladr,2,Female,14,60-64,24.99,24.83,25.16
+2018-2020,Wales,Welsh Health Boards,W11000024,Powys Teaching Health Board/ Bwrdd Iechyd Addysgu Powys,1,Male,1,<1,80.13,79.55,80.71
+2018-2020,Wales,Welsh Health Boards,W11000024,Powys Teaching Health Board/ Bwrdd Iechyd Addysgu Powys,1,Male,14,60-64,23.25,22.91,23.58
+2018-2020,Wales,Welsh Health Boards,W11000024,Powys Teaching Health Board/ Bwrdd Iechyd Addysgu Powys,2,Female,1,<1,83.38,82.81,83.96
+2018-2020,Wales,Welsh Health Boards,W11000024,Powys Teaching Health Board/ Bwrdd Iechyd Addysgu Powys,2,Female,14,60-64,25.8,25.44,26.15
+2018-2020,Wales,Welsh Health Boards,W11000025,Hywel Dda University Health Board/ Bwrdd Iechyd Prifysgol Hywel Dda,1,Male,1,<1,78.9,78.53,79.27
+2018-2020,Wales,Welsh Health Boards,W11000025,Hywel Dda University Health Board/ Bwrdd Iechyd Prifysgol Hywel Dda,1,Male,14,60-64,22.9,22.69,23.11
+2018-2020,Wales,Welsh Health Boards,W11000025,Hywel Dda University Health Board/ Bwrdd Iechyd Prifysgol Hywel Dda,2,Female,1,<1,82.81,82.49,83.13
+2018-2020,Wales,Welsh Health Boards,W11000025,Hywel Dda University Health Board/ Bwrdd Iechyd Prifysgol Hywel Dda,2,Female,14,60-64,25.16,24.94,25.38
+2018-2020,Wales,Welsh Health Boards,W11000028,Aneurin Bevan University Health Board/ Bwrdd Iechyd Prifysgol Aneurin Bevan,1,Male,1,<1,78.12,77.84,78.4
+2018-2020,Wales,Welsh Health Boards,W11000028,Aneurin Bevan University Health Board/ Bwrdd Iechyd Prifysgol Aneurin Bevan,1,Male,14,60-64,21.86,21.67,22.04
+2018-2020,Wales,Welsh Health Boards,W11000028,Aneurin Bevan University Health Board/ Bwrdd Iechyd Prifysgol Aneurin Bevan,2,Female,1,<1,81.7,81.44,81.97
+2018-2020,Wales,Welsh Health Boards,W11000028,Aneurin Bevan University Health Board/ Bwrdd Iechyd Prifysgol Aneurin Bevan,2,Female,14,60-64,24.3,24.11,24.48
+2018-2020,Wales,Welsh Health Boards,W11000029,Cardiff and Vale University Health Board/ Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,1,Male,1,<1,78.55,78.25,78.86
+2018-2020,Wales,Welsh Health Boards,W11000029,Cardiff and Vale University Health Board/ Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,1,Male,14,60-64,21.89,21.67,22.12
+2018-2020,Wales,Welsh Health Boards,W11000029,Cardiff and Vale University Health Board/ Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,2,Female,1,<1,82.95,82.65,83.25
+2018-2020,Wales,Welsh Health Boards,W11000029,Cardiff and Vale University Health Board/ Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,2,Female,14,60-64,25.41,25.19,25.64
+2018-2020,Wales,Welsh Health Boards,W11000030,Cwm Taf Morgannwg University Health Board/ Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,1,Male,1,<1,76.9,76.58,77.22
+2018-2020,Wales,Welsh Health Boards,W11000030,Cwm Taf Morgannwg University Health Board/ Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,1,Male,14,60-64,21.03,20.83,21.24
+2018-2020,Wales,Welsh Health Boards,W11000030,Cwm Taf Morgannwg University Health Board/ Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,2,Female,1,<1,80.69,80.4,80.98
+2018-2020,Wales,Welsh Health Boards,W11000030,Cwm Taf Morgannwg University Health Board/ Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,2,Female,14,60-64,23.39,23.18,23.59
+2018-2020,Wales,Welsh Health Boards,W11000031,Swansea Bay University Health Board/ Bwrdd Iechyd Prifysgol Bae Abertawe,1,Male,1,<1,77.25,76.91,77.6
+2018-2020,Wales,Welsh Health Boards,W11000031,Swansea Bay University Health Board/ Bwrdd Iechyd Prifysgol Bae Abertawe,1,Male,14,60-64,21.45,21.22,21.67
+2018-2020,Wales,Welsh Health Boards,W11000031,Swansea Bay University Health Board/ Bwrdd Iechyd Prifysgol Bae Abertawe,2,Female,1,<1,81.48,81.14,81.81
+2018-2020,Wales,Welsh Health Boards,W11000031,Swansea Bay University Health Board/ Bwrdd Iechyd Prifysgol Bae Abertawe,2,Female,14,60-64,24.38,24.16,24.61
