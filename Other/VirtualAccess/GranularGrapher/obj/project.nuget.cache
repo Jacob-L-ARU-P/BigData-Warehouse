@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVFeBq9/OR05iRjvBBE4TNJgziik8N3C26BlqUS7HoXZA5me9kF2BMRMJbJib1STbefbRFIzeCAmHCEUqa56xQ==",
+  "success": true,
+  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\GranularGrapher\\GranularGrapher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\mongodb.bson\\2.30.0\\mongodb.bson.2.30.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\mongodb.driver\\2.30.0\\mongodb.driver.2.30.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\mongodb.driver.core\\2.30.0\\mongodb.driver.core.2.30.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\mongodb.libmongocrypt\\1.12.0\\mongodb.libmongocrypt.1.12.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\scottplot\\5.0.43\\scottplot.5.0.43.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.8\\skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\jl1143\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

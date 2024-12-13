@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbInterfacer300", "dbInterfacer300.csproj", "{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dbInterfacer300", "dbInterfacer300.csproj", "{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConnectorLibrary", "..\MongoConnectorLibrary\MongoConnectorLibrary.csproj", "{46E0A66D-0C2E-43F4-9EC5-A00535C237CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E0A66D-0C2E-43F4-9EC5-A00535C237CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E0A66D-0C2E-43F4-9EC5-A00535C237CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E0A66D-0C2E-43F4-9EC5-A00535C237CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E0A66D-0C2E-43F4-9EC5-A00535C237CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
