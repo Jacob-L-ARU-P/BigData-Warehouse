@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Code and Notes\\dbInterfacer300\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}|dbInterfacer300.csproj|s:\\university projects\\year 2 - level 5\\2024-2025 - current\\big data analytics\\code and notes\\dbinterfacer300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B58B18A-BAF2-44A3-ADE1-FFD698675D6E}|dbInterfacer300.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Code and Notes\\dbInterfacer300\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Code and Notes\\dbInterfacer300\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:08:05.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
