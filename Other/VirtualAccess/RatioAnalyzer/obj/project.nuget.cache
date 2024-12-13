@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNkbHiT5k5agmPjrUH3o53sWM4BUtCuF+VgAzsYZoipGD6qFlPe90O5KA8eqOa2RfKWGy8CQsxA7NgcspTiFxg==",
+  "dgSpecHash": "ZAdirj7LwQZ1AjmFyhXher5AN5vDJc33+3GbJl4wtxWjbFcxXbnNhx84z0FBKbOluD3gR72gsWRFxqfj4pkxWA==",
   "success": true,
-  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\RatioAnalyzer\\RatioAnalyzer.csproj",
+  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\RatioAnalyzer\\RatioAnalyzer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

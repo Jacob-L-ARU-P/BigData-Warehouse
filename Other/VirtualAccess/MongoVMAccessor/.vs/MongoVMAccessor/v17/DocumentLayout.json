@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\",
+  "WorkspaceRootPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5820E8-5321-4ECC-973C-3C52B27FA031}|MongoVMAccessor.csproj|k:\\jl - 2213276\\big data analytics\\lessons\\code\\virtualaccess\\mongovmaccessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC5820E8-5321-4ECC-973C-3C52B27FA031}|MongoVMAccessor.csproj|k:\\jl - 2213276\\big data analytics\\assignment\\bigdata-warehouse\\other\\virtualaccess\\mongovmaccessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5820E8-5321-4ECC-973C-3C52B27FA031}|MongoVMAccessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\Program.cs",
+              "DocumentMoniker": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\Program.cs",
+              "ToolTip": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

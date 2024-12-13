@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGs0QbEG57FCJI233QgsfFO3MQ9Vc2pXnL+y/GHavTky5IZwAtoYx/JUC/vP3NFGlTq2bczav4Vmph5daCqUog==",
+  "dgSpecHash": "14BHzUEAdeMjFXLzsfvkvAjn0t8s9snjsc+yvsygmmQUJPphHa1XcbT/0i3eSSdFeyrcyt8LDOcGWq/VNrTBZw==",
   "success": true,
-  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\TutorialDemonstrator\\TutorialDemonstrator.csproj",
+  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\TutorialDemonstrator\\TutorialDemonstrator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jl1143\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\DataWarehouseInterface.csproj": {}
+    "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\DataWarehouseInterface.csproj": {}
   },
   "projects": {
-    "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\DataWarehouseInterface.csproj": {
+    "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\DataWarehouseInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
+        "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
         "projectName": "DataWarehouseInterface",
-        "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
+        "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
         "packagesPath": "C:\\Users\\jl1143\\.nuget\\packages\\",
-        "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\obj\\",
+        "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

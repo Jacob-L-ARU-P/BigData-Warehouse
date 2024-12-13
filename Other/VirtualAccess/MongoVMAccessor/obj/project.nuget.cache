@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/b+HcHRG24H+JXJDv+P84AljLxJmc/6kTIt6Qw8/Y7eBxbUg020OEdWAHKJDO2g/2KBrcnI2iNcX6nm4l55EeA==",
+  "dgSpecHash": "tk4/oxTCbtfC8iQNpE0TWvuws6C8vwSILQJDUVFn2veeVmqSxK5YmIeA4lacue2/aKREfK+PjdArp74mOVU8Nw==",
   "success": true,
-  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
+  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\jl1143\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

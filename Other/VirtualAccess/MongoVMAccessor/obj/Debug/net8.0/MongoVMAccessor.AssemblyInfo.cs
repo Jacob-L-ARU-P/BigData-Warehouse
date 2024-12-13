@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoVMAccessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ac058aa0b4d9fba647a2a50539eea2462b5bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoVMAccessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoVMAccessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

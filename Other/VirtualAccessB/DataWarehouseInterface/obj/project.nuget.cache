@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qH7RefR6GKJ92dYTaRy/4w1uuw/XjyO1xhJsdF7jFsOHW8in7LO7ZzEZ+xai6LWpj5XclU2YIb6qOFBtPM9H/Q==",
+  "dgSpecHash": "ktTyo7lohQrM7ZuvxusdEeQ4avRiiWPJjQeZ+/cOl9lYWa2T0Yr7zinePsRxhN+1lz9Sbwm99E+gAfzzGFKe6g==",
   "success": true,
-  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\VirtualAccess\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
+  "projectFilePath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccessB\\DataWarehouseInterface\\DataWarehouseInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jl1143\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\jl1143\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

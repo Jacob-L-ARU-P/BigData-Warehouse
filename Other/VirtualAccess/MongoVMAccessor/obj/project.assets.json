@@ -800,11 +800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
+      "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
       "projectName": "MongoVMAccessor",
-      "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
+      "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\MongoVMAccessor.csproj",
       "packagesPath": "C:\\Users\\jl1143\\.nuget\\packages\\",
-      "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Lessons\\Code\\VirtualAccess\\MongoVMAccessor\\obj\\",
+      "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\VirtualAccess\\MongoVMAccessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

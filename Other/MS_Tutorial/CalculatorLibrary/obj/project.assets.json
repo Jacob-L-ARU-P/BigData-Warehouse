@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "projectName": "CalculatorLibrary",
-      "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\jl1143\\.nuget\\packages\\",
-      "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\obj\\",
+      "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

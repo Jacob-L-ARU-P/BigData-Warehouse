@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoConnectorLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02af0498206dc5fe477fed054230a19f8368254")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ac058aa0b4d9fba647a2a50539eea2462b5bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoConnectorLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoConnectorLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

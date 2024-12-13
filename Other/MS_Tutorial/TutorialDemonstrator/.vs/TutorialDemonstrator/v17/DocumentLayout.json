@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\TutorialDemonstrator\\",
+  "WorkspaceRootPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\TutorialDemonstrator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{391E575F-6C20-45C3-BE5A-5EEAC94BCAD5}|TutorialDemonstrator.csproj|k:\\jl - 2213276\\big data analytics\\code\\ms_tutorial\\tutorialdemonstrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{391E575F-6C20-45C3-BE5A-5EEAC94BCAD5}|TutorialDemonstrator.csproj|k:\\jl - 2213276\\big data analytics\\assignment\\bigdata-warehouse\\other\\ms_tutorial\\tutorialdemonstrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{391E575F-6C20-45C3-BE5A-5EEAC94BCAD5}|TutorialDemonstrator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D09B66A-D491-4D52-8EE5-5CCFEC0A1248}|..\\CalculatorLibrary\\CalculatorLibrary.csproj|k:\\jl - 2213276\\big data analytics\\code\\ms_tutorial\\calculatorlibrary\\calculatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,9 +23,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\TutorialDemonstrator\\Program.cs",
+              "DocumentMoniker": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\TutorialDemonstrator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\TutorialDemonstrator\\Program.cs",
+              "ToolTip": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Other\\MS_Tutorial\\TutorialDemonstrator\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAgwFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,13 +37,12 @@
               "DocumentIndex": 1,
               "Title": "CalculatorLibrary.cs",
               "DocumentMoniker": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.cs",
-              "RelativeDocumentMoniker": "..\\CalculatorLibrary\\CalculatorLibrary.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.cs",
               "ToolTip": "K:\\JL - 2213276\\Big Data Analytics\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.cs",
-              "RelativeToolTip": "..\\CalculatorLibrary\\CalculatorLibrary.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Code\\MS_Tutorial\\CalculatorLibrary\\CalculatorLibrary.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAswEUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T16:41:04.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T16:41:04.036Z"
             }
           ]
         }
