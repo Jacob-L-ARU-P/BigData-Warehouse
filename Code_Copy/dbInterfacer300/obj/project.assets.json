@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jl1143\\.nuget\\packages\\": {},
+    "C:\\Users\\Jacobi5\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\dbInterfacer300.csproj",
+      "projectUniqueName": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Assignment Folder\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\dbInterfacer300.csproj",
       "projectName": "dbInterfacer300",
-      "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\dbInterfacer300.csproj",
-      "packagesPath": "C:\\Users\\jl1143\\.nuget\\packages\\",
-      "outputPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\obj\\",
+      "projectPath": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Assignment Folder\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\dbInterfacer300.csproj",
+      "packagesPath": "C:\\Users\\Jacobi5\\.nuget\\packages\\",
+      "outputPath": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Assignment Folder\\BigData-Warehouse\\Code_Copy\\dbInterfacer300\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jl1143\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jacobi5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Code_Copy\\MongoConnectorLibrary\\MongoConnectorLibrary.csproj": {
-              "projectPath": "K:\\JL - 2213276\\Big Data Analytics\\Assignment\\BigData-Warehouse\\Code_Copy\\MongoConnectorLibrary\\MongoConnectorLibrary.csproj"
+            "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Assignment Folder\\BigData-Warehouse\\Code_Copy\\MongoConnectorLibrary\\MongoConnectorLibrary.csproj": {
+              "projectPath": "S:\\University Projects\\Year 2 - Level 5\\2024-2025 - Current\\Big Data Analytics\\Assignment Folder\\BigData-Warehouse\\Code_Copy\\MongoConnectorLibrary\\MongoConnectorLibrary.csproj"
             }
           }
         }
@@ -94,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

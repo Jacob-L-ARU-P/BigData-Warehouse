@@ -18,10 +18,16 @@ namespace MyProgram
             Console.WriteLine("Hello, World!\n");
 
             // ################## Mongo Client Connection ####################
+            /*
+             host refers to the VM instance running the MongoServer and it's ip
+             Future revisions of main program would change host to be a user
+             input / semi-auto querying of Hyper-V/VM directly?
+             Currently beyond scope of project.
+            */
+            const string host = "172.31.177.71";
             // Connection URI
             const string connectionUri = "mongodb://172.31.177.71:27017";
-            const string host = "172.31.177.71";
-
+            
             // Mongo Client Settings
             /* 
              Configures connection settings in code, rather than in the URI
@@ -54,7 +60,7 @@ namespace MyProgram
 
             //
             Beta(client);
-
+            
             // Get Database names list
             //var cursor = await client.ListDatabasesAsync();
             //await cursor.ForEachAsync(db => Console.WriteLine(db["name"]));
@@ -75,6 +81,12 @@ namespace MyProgram
 
             
         }
+        // Method Gamma incomplete at time of save
+        public static void Gamma(MongoClient args) 
+        {
+            // Accesses/Creates "theWarehouse"
+            args.GetDatabase("theWarehouse");
 
+        }
     }
 }
